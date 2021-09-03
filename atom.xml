@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小姜同学的博客</title>
   
-  <subtitle>jiangz@cug.edu.cn</subtitle>
+  <subtitle>热衷海洋科学、人工智能、耦合模型、数学建模</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-03T05:00:48.151Z</updated>
+  <updated>2021-09-03T05:03:39.306Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/"/>
     <id>http://example.com/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</id>
     <published>2021-09-02T11:41:46.000Z</published>
-    <updated>2021-09-03T05:00:48.151Z</updated>
+    <updated>2021-09-03T05:03:39.306Z</updated>
     
     <content type="html"><![CDATA[<h2 id="2-1-深度学习在语音处理中的研究方向和应用"><a href="#2-1-深度学习在语音处理中的研究方向和应用" class="headerlink" title="2.1 深度学习在语音处理中的研究方向和应用"></a>2.1 深度学习在语音处理中的研究方向和应用</h2><h3 id="2-1-1-研究方向"><a href="#2-1-1-研究方向" class="headerlink" title="2.1.1 研究方向"></a>2.1.1 研究方向</h3><p>分类、质量评测、增强、指纹识别、检索、唤醒、识别、合成与生成等。</p><span id="more"></span><h3 id="2-1-2-应用"><a href="#2-1-2-应用" class="headerlink" title="2.1.2 应用"></a>2.1.2 应用</h3><p>音乐测评、Auto speech enhancement（降噪、加强原声）、Text to speech（合成主播）、Wave synthesis（自主音乐制作）。</p><h3 id="2-1-3-常用算法（algorithm）"><a href="#2-1-3-常用算法（algorithm）" class="headerlink" title="2.1.3 常用算法（algorithm）"></a>2.1.3 常用算法（algorithm）</h3><p>Keyword spotting、ASR、speaker recognition等。</p><h2 id="2-2-深度学习在计算机视觉中的研究方向和应用"><a href="#2-2-深度学习在计算机视觉中的研究方向和应用" class="headerlink" title="2.2 深度学习在计算机视觉中的研究方向和应用"></a>2.2 深度学习在计算机视觉中的研究方向和应用</h2><h3 id="2-2-1-研究方向"><a href="#2-2-1-研究方向" class="headerlink" title="2.2.1 研究方向"></a>2.2.1 研究方向</h3><p>图像编辑、重建、生成、超分辨率、增强、去模糊、分类、分割、检测、识别、跟踪、图像质量分析、降噪与修复。</p><h3 id="2-2-2-应用"><a href="#2-2-2-应用" class="headerlink" title="2.2.2 应用"></a>2.2.2 应用</h3><p>Object segmentation（图像分割）、Object detection（目标检测）、目标识别及人脸识别、Object tracking（目标跟踪）、Image denosing、Neural-based style transfer and image translation（基于神经网络的图像风格化及图像翻译）、Image synthesis（生成原始数据集）、Scene reconstruction（基于二维图像重建三维图像——视觉Slame、VR虚拟现实）、face attribute edit等。</p><h2 id="2-3-自然语言处理"><a href="#2-3-自然语言处理" class="headerlink" title="2.3 自然语言处理"></a>2.3 自然语言处理</h2><h3 id="2-3-1-研究方向"><a href="#2-3-1-研究方向" class="headerlink" title="2.3.1 研究方向"></a>2.3.1 研究方向</h3><p>文本分类与聚类、文章标签和摘要提取、文本审核与舆情分析、机器翻译、阅读理解、聊天机器人、搜索引擎等。</p><h3 id="2-3-2-应用"><a href="#2-3-2-应用" class="headerlink" title="2.3.2 应用"></a>2.3.2 应用</h3><p>文本基本任务：预处理、向量化、分词、词性标注、文本结构化、Text classification、Abstract extraction。</p>]]></content>
     
@@ -34,6 +34,8 @@
     
     
     <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   

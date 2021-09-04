@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-03T07:22:27.159Z</updated>
+  <updated>2021-09-04T05:15:56.841Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Hexo的个人博客操作说明</title>
+    <link href="http://example.com/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/"/>
+    <id>http://example.com/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</id>
+    <published>2021-09-04T04:45:44.000Z</published>
+    <updated>2021-09-04T05:15:56.841Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure><span id="more"></span><h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol><li>首先，在访达中打开Blog文件；<br></li><li>同时按住 option+command+c 获得Blog文件的路径；<br></li><li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure><h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li><li>清除本地缓存<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li><li>生成静态网页<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li><li>本地预览<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li><li>上传至Github<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;1-基本操作&quot;&gt;&lt;a href=&quot;#1-基本操作&quot; class=&quot;headerlink&quot; title=&quot;1 基本操作&quot;&gt;&lt;/a&gt;1 基本操作&lt;/h1&gt;&lt;h2 id=&quot;1-1-创建新博客&quot;&gt;&lt;a href=&quot;#1-1-创建新博客&quot; class=&quot;headerlink&quot; title=&quot;1.1 创建新博客&quot;&gt;&lt;/a&gt;1.1 创建新博客&lt;/h2&gt;&lt;p&gt;在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。&lt;br&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight sh&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ npx hexo new &lt;span class=&quot;string&quot;&gt;&amp;#x27;文章名称&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>人工智能基础课程</title>

@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Apache与Tomcat服务器集成和集群配1置</title>
-    <url>/2021/09/04/Apache%E4%B8%8ETomcat%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9B%86%E6%88%90%E5%92%8C%E9%9B%86%E7%BE%A4%E9%85%8D1%E7%BD%AE/</url>
-    <content><![CDATA[<p>Test</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2021/09/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -24,31 +18,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>基于Hexo的个人博客操作说明</title>
-    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
-<span id="more"></span>
-<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
-<li>首先，在访达中打开Blog文件；<br></li>
-<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
-<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
-<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
-<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
-<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
-<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
-<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
-</ol>
-]]></content>
-      <categories>
-        <category>写作</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>写作</tag>
-      </tags>
   </entry>
   <entry>
     <title>人工智能基础课程</title>
@@ -81,6 +50,54 @@
       <tags>
         <tag>人工智能</tag>
         <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能基础课程作业</title>
+    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/Users/jiangzheng/personal/Blog/source/Pictures/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="History of DeepLearning"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基于Hexo的个人博客操作说明</title>
+    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
+<li>首先，在访达中打开Blog文件；<br></li>
+<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
+<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
+<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
+<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
+<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
+<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
+<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+      <categories>
+        <category>写作</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>写作</tag>
       </tags>
   </entry>
 </search>

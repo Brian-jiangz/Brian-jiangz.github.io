@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>人工智能基础课程</title>
     <url>/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
@@ -53,19 +34,40 @@
       </tags>
   </entry>
   <entry>
-    <title>人工智能基础课程作业</title>
-    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+    <title>Hello World</title>
+    <url>/2021/09/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><p>[TOC]</p>
+<h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
 <p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
 </blockquote>
 <p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
 <h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
 <ol>
 <li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
 <li>Waymo、Tesla自动驾驶技术；</li>
 <li>波士顿机器人的控制系统。</li>
 </ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/Users/jiangzheng/personal/Blog/source/Pictures/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="History of DeepLearning"></p>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
 ]]></content>
       <categories>
         <category>人工智能</category>

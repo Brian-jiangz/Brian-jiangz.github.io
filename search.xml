@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/09/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>人工智能基础作业</title>
     <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
     <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
@@ -58,41 +77,31 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>人工智能导论</title>
     <url>/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</url>
-    <content><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p>
+    <content><![CDATA[<p>[toc]</p>
+<h1 id="1-队列搜索"><a href="#1-队列搜索" class="headerlink" title="1 队列搜索"></a>1 队列搜索</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p>
 <ol>
 <li>在某个分支中运行到底；</li>
 <li>判断结果是否符合要求；</li>
 <li>回溯。</li>
 </ol>
 <p><strong>很难找到最优路径</strong></p>
+<h3 id="1-1-1-问题"><a href="#1-1-1-问题" class="headerlink" title="1.1.1 问题"></a>1.1.1 问题</h3><p>进站的优先性如何选择？</p>
+<span id="more"></span>
 <h2 id="1-2-广度优先策略——队列"><a href="#1-2-广度优先策略——队列" class="headerlink" title="1.2 广度优先策略——队列"></a>1.2 广度优先策略——队列</h2><p>特点：</p>
 <ol>
 <li>先搜索某节点所有可能的下一节点——依次搜索、删除；</li>
 <li>搜索完下一节点同等级的所有节点后进行下下等级节点——依次搜索、删除；</li>
 </ol>
 <p><strong>泛而不精</strong>：探索的点和路径更多。</p>
-<h2 id="1-3-搜索实例"><a href="#1-3-搜索实例" class="headerlink" title="1.3 搜索实例"></a>1.3 搜索实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p>
+<h2 id="1-3-迷宫求解实例"><a href="#1-3-迷宫求解实例" class="headerlink" title="1.3 迷宫求解实例"></a>1.3 迷宫求解实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p>
+<h1 id="2-站结构算法"><a href="#2-站结构算法" class="headerlink" title="2 站结构算法"></a>2 站结构算法</h1><p>使用帮助函数来帮助寻找最优路径；</p>
+<h2 id="2-1-盲目搜索（）"><a href="#2-1-盲目搜索（）" class="headerlink" title="2.1 盲目搜索（）"></a>2.1 盲目搜索（）</h2><h2 id="2-2-启发式搜索（Informed-search）"><a href="#2-2-启发式搜索（Informed-search）" class="headerlink" title="2.2 启发式搜索（Informed search）"></a>2.2 启发式搜索（Informed search）</h2><p>使用问题相关的知识决定进站的优先度</p>
+<h2 id="2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）"><a href="#2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）" class="headerlink" title="2.3 贪婪最佳优先搜索（Greedy Best-first Search）"></a>2.3 贪婪最佳优先搜索（Greedy Best-first Search）</h2><p>利用启发函数的估算值，每次搜索都选着扩展最靠近目的的节点，本质上是深度优先策略。<br>例如，由A到B，中间有中间节点C、D，估算C、D到B的曼哈顿距离（$x_c-x_b+y_c-y_b$），选择较小的子节点运行，若曼哈顿距离相同，概率选择或通过更远的子节点的曼哈顿距离来决定下一节点。该过程本质上避免了搜索算法，提高了运行效率。</p>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ol>
+<li>启发函数？<br>——估算所有路径的长度，估算离目标最近的点。</li>
+</ol>
 ]]></content>
       <categories>
         <category>人工智能</category>

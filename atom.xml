@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-06T06:53:43.646Z</updated>
+  <updated>2021-09-06T07:15:23.924Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,20 @@
     <link href="http://example.com/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/"/>
     <id>http://example.com/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</id>
     <published>2021-09-06T06:32:45.000Z</published>
-    <updated>2021-09-06T06:53:43.646Z</updated>
+    <updated>2021-09-06T07:15:23.924Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p><ol><li>在某个分支中运行到底；</li><li>判断结果是否符合要求；</li><li>回溯。</li></ol><p><strong>很难找到最优路径</strong></p><h2 id="1-2-广度优先策略——队列"><a href="#1-2-广度优先策略——队列" class="headerlink" title="1.2 广度优先策略——队列"></a>1.2 广度优先策略——队列</h2><p>特点：</p><ol><li>先搜索某节点所有可能的下一节点——依次搜索、删除；</li><li>搜索完下一节点同等级的所有节点后进行下下等级节点——依次搜索、删除；</li></ol><p><strong>泛而不精</strong>：探索的点和路径更多。</p><h2 id="1-3-搜索实例"><a href="#1-3-搜索实例" class="headerlink" title="1.3 搜索实例"></a>1.3 搜索实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p>]]></content>
+    <content type="html"><![CDATA[<p>[toc]</p><h1 id="1-队列搜索"><a href="#1-队列搜索" class="headerlink" title="1 队列搜索"></a>1 队列搜索</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p><ol><li>在某个分支中运行到底；</li><li>判断结果是否符合要求；</li><li>回溯。</li></ol><p><strong>很难找到最优路径</strong></p><h3 id="1-1-1-问题"><a href="#1-1-1-问题" class="headerlink" title="1.1.1 问题"></a>1.1.1 问题</h3><p>进站的优先性如何选择？</p><span id="more"></span><h2 id="1-2-广度优先策略——队列"><a href="#1-2-广度优先策略——队列" class="headerlink" title="1.2 广度优先策略——队列"></a>1.2 广度优先策略——队列</h2><p>特点：</p><ol><li>先搜索某节点所有可能的下一节点——依次搜索、删除；</li><li>搜索完下一节点同等级的所有节点后进行下下等级节点——依次搜索、删除；</li></ol><p><strong>泛而不精</strong>：探索的点和路径更多。</p><h2 id="1-3-迷宫求解实例"><a href="#1-3-迷宫求解实例" class="headerlink" title="1.3 迷宫求解实例"></a>1.3 迷宫求解实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p><h1 id="2-站结构算法"><a href="#2-站结构算法" class="headerlink" title="2 站结构算法"></a>2 站结构算法</h1><p>使用帮助函数来帮助寻找最优路径；</p><h2 id="2-1-盲目搜索（）"><a href="#2-1-盲目搜索（）" class="headerlink" title="2.1 盲目搜索（）"></a>2.1 盲目搜索（）</h2><h2 id="2-2-启发式搜索（Informed-search）"><a href="#2-2-启发式搜索（Informed-search）" class="headerlink" title="2.2 启发式搜索（Informed search）"></a>2.2 启发式搜索（Informed search）</h2><p>使用问题相关的知识决定进站的优先度</p><h2 id="2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）"><a href="#2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）" class="headerlink" title="2.3 贪婪最佳优先搜索（Greedy Best-first Search）"></a>2.3 贪婪最佳优先搜索（Greedy Best-first Search）</h2><p>利用启发函数的估算值，每次搜索都选着扩展最靠近目的的节点，本质上是深度优先策略。<br>例如，由A到B，中间有中间节点C、D，估算C、D到B的曼哈顿距离（$x_c-x_b+y_c-y_b$），选择较小的子节点运行，若曼哈顿距离相同，概率选择或通过更远的子节点的曼哈顿距离来决定下一节点。该过程本质上避免了搜索算法，提高了运行效率。</p><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ol><li>启发函数？<br>——估算所有路径的长度，估算离目标最近的点。</li></ol>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;&lt;h2 id=&quot;1-1-深度优先策略（DFC）&quot;&gt;&lt;a href=&quot;#1-1-深度优先策略（DFC）&quot; class=&quot;headerlink&quot; title=</summary>
-      
+    <summary type="html">&lt;p&gt;[toc]&lt;/p&gt;
+&lt;h1 id=&quot;1-队列搜索&quot;&gt;&lt;a href=&quot;#1-队列搜索&quot; class=&quot;headerlink&quot; title=&quot;1 队列搜索&quot;&gt;&lt;/a&gt;1 队列搜索&lt;/h1&gt;&lt;h2 id=&quot;1-1-深度优先策略（DFC）&quot;&gt;&lt;a href=&quot;#1-1-深度优先策略（DFC）&quot; class=&quot;headerlink&quot; title=&quot;1.1 深度优先策略（DFC）&quot;&gt;&lt;/a&gt;1.1 深度优先策略（DFC）&lt;/h2&gt;&lt;p&gt;特点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在某个分支中运行到底；&lt;/li&gt;
+&lt;li&gt;判断结果是否符合要求；&lt;/li&gt;
+&lt;li&gt;回溯。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;很难找到最优路径&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-1-1-问题&quot;&gt;&lt;a href=&quot;#1-1-1-问题&quot; class=&quot;headerlink&quot; title=&quot;1.1.1 问题&quot;&gt;&lt;/a&gt;1.1.1 问题&lt;/h3&gt;&lt;p&gt;进站的优先性如何选择？&lt;/p&gt;</summary>
     
     
     

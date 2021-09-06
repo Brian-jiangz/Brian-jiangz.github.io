@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-06T07:15:23.924Z</updated>
+  <updated>2021-09-06T07:39:38.927Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/"/>
     <id>http://example.com/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</id>
     <published>2021-09-06T06:32:45.000Z</published>
-    <updated>2021-09-06T07:15:23.924Z</updated>
+    <updated>2021-09-06T07:39:38.927Z</updated>
     
-    <content type="html"><![CDATA[<p>[toc]</p><h1 id="1-队列搜索"><a href="#1-队列搜索" class="headerlink" title="1 队列搜索"></a>1 队列搜索</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p><ol><li>在某个分支中运行到底；</li><li>判断结果是否符合要求；</li><li>回溯。</li></ol><p><strong>很难找到最优路径</strong></p><h3 id="1-1-1-问题"><a href="#1-1-1-问题" class="headerlink" title="1.1.1 问题"></a>1.1.1 问题</h3><p>进站的优先性如何选择？</p><span id="more"></span><h2 id="1-2-广度优先策略——队列"><a href="#1-2-广度优先策略——队列" class="headerlink" title="1.2 广度优先策略——队列"></a>1.2 广度优先策略——队列</h2><p>特点：</p><ol><li>先搜索某节点所有可能的下一节点——依次搜索、删除；</li><li>搜索完下一节点同等级的所有节点后进行下下等级节点——依次搜索、删除；</li></ol><p><strong>泛而不精</strong>：探索的点和路径更多。</p><h2 id="1-3-迷宫求解实例"><a href="#1-3-迷宫求解实例" class="headerlink" title="1.3 迷宫求解实例"></a>1.3 迷宫求解实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p><h1 id="2-站结构算法"><a href="#2-站结构算法" class="headerlink" title="2 站结构算法"></a>2 站结构算法</h1><p>使用帮助函数来帮助寻找最优路径；</p><h2 id="2-1-盲目搜索（）"><a href="#2-1-盲目搜索（）" class="headerlink" title="2.1 盲目搜索（）"></a>2.1 盲目搜索（）</h2><h2 id="2-2-启发式搜索（Informed-search）"><a href="#2-2-启发式搜索（Informed-search）" class="headerlink" title="2.2 启发式搜索（Informed search）"></a>2.2 启发式搜索（Informed search）</h2><p>使用问题相关的知识决定进站的优先度</p><h2 id="2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）"><a href="#2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）" class="headerlink" title="2.3 贪婪最佳优先搜索（Greedy Best-first Search）"></a>2.3 贪婪最佳优先搜索（Greedy Best-first Search）</h2><p>利用启发函数的估算值，每次搜索都选着扩展最靠近目的的节点，本质上是深度优先策略。<br>例如，由A到B，中间有中间节点C、D，估算C、D到B的曼哈顿距离（$x_c-x_b+y_c-y_b$），选择较小的子节点运行，若曼哈顿距离相同，概率选择或通过更远的子节点的曼哈顿距离来决定下一节点。该过程本质上避免了搜索算法，提高了运行效率。</p><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ol><li>启发函数？<br>——估算所有路径的长度，估算离目标最近的点。</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>[toc]</p><h1 id="1-队列搜索"><a href="#1-队列搜索" class="headerlink" title="1 队列搜索"></a>1 队列搜索</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p><ol><li>在某个分支中运行到底；</li><li>判断结果是否符合要求；</li><li>回溯。</li></ol><p><strong>很难找到最优路径</strong></p><h3 id="1-1-1-问题"><a href="#1-1-1-问题" class="headerlink" title="1.1.1 问题"></a>1.1.1 问题</h3><p>进站的优先性如何选择？</p><span id="more"></span><h2 id="1-2-广度优先策略——队列"><a href="#1-2-广度优先策略——队列" class="headerlink" title="1.2 广度优先策略——队列"></a>1.2 广度优先策略——队列</h2><p>特点：</p><ol><li>先搜索某节点所有可能的下一节点——依次搜索、删除；</li><li>搜索完下一节点同等级的所有节点后进行下下等级节点——依次搜索、删除；</li></ol><p><strong>泛而不精</strong>：探索的点和路径更多。</p><h2 id="1-3-迷宫求解实例"><a href="#1-3-迷宫求解实例" class="headerlink" title="1.3 迷宫求解实例"></a>1.3 迷宫求解实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p><h1 id="2-站结构算法"><a href="#2-站结构算法" class="headerlink" title="2 站结构算法"></a>2 站结构算法</h1><p>使用帮助函数来帮助寻找最优路径；</p><h2 id="2-1-盲目搜索"><a href="#2-1-盲目搜索" class="headerlink" title="2.1 盲目搜索"></a>2.1 盲目搜索</h2><h2 id="2-2-启发式搜索（Informed-search）"><a href="#2-2-启发式搜索（Informed-search）" class="headerlink" title="2.2 启发式搜索（Informed search）"></a>2.2 启发式搜索（Informed search）</h2><p>使用问题相关的知识决定进站的优先度</p><h2 id="2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）"><a href="#2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）" class="headerlink" title="2.3 贪婪最佳优先搜索（Greedy Best-first Search）"></a>2.3 贪婪最佳优先搜索（Greedy Best-first Search）</h2><p>利用启发函数的估算值，每次搜索都选着扩展最靠近目的的节点，本质上是深度优先策略。<br>例如，由A到B，中间有中间节点C、D，估算C、D到B的曼哈顿距离（$x_c-x_b+y_c-y_b$），选择较小的子节点运行，若曼哈顿距离相同，概率选择或通过更远的子节点的曼哈顿距离来决定下一节点。该过程本质上避免了搜索算法，提高了运行效率。</p><h2 id="2-4-A-算法"><a href="#2-4-A-算法" class="headerlink" title="2.4 A*算法"></a>2.4 A*算法</h2><p>同时考虑曼哈顿距离(h(n))和耗费距离（g(n) = cost to search the node）</p><blockquote><p>参考指标（类似上章启发函数）= g(n)+h(n)</p></blockquote><p>每次搜索递进得到的下一节点的参考指标，都需要与之前的分叉路径点未选择的下一节的参考指标大小比较，若比之前节点更长，则选择之前的节点开始新的路径递进。<br>当A*算法满足以下条件时可以搜索到最优结果：</p><ol><li>h（n）不能过高的估计节点到目标点的开销（可接受性）；</li><li>对于第N个节点及其后继节点m，以及n到m的开销c，<strong>h(n)&lt;= h(n)+c</strong>（一致性），否则可能找不到最优解。</li></ol><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ol><li>启发函数？<br>——估算所有路径的长度，估算离目标最近的点。</li></ol>]]></content>
     
     
     <summary type="html">&lt;p&gt;[toc]&lt;/p&gt;
@@ -67,9 +67,9 @@
     <category term="人工智能" scheme="http://example.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="作业" scheme="http://example.com/tags/%E4%BD%9C%E4%B8%9A/"/>
-    
     <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="作业" scheme="http://example.com/tags/%E4%BD%9C%E4%B8%9A/"/>
     
   </entry>
   

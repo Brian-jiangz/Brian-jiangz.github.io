@@ -20,30 +20,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
-</blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
-<span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
-</ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
-]]></content>
-      <categories>
-        <category>人工智能</category>
-      </categories>
-      <tags>
-        <tag>作业</tag>
-        <tag>人工智能</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>人工智能基础课程</title>
     <url>/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
@@ -97,8 +73,17 @@
 <p><strong>泛而不精</strong>：探索的点和路径更多。</p>
 <h2 id="1-3-迷宫求解实例"><a href="#1-3-迷宫求解实例" class="headerlink" title="1.3 迷宫求解实例"></a>1.3 迷宫求解实例</h2><h3 id="1-3-1-搜索路径"><a href="#1-3-1-搜索路径" class="headerlink" title="1.3.1 搜索路径"></a>1.3.1 搜索路径</h3><p>存储的信息：父节点（parent）、当前节点（state）、子节点（action）、<em><strong>耗费（cost）</strong></em> 等；<br>每个节点路径耗费为1，</p>
 <h1 id="2-站结构算法"><a href="#2-站结构算法" class="headerlink" title="2 站结构算法"></a>2 站结构算法</h1><p>使用帮助函数来帮助寻找最优路径；</p>
-<h2 id="2-1-盲目搜索（）"><a href="#2-1-盲目搜索（）" class="headerlink" title="2.1 盲目搜索（）"></a>2.1 盲目搜索（）</h2><h2 id="2-2-启发式搜索（Informed-search）"><a href="#2-2-启发式搜索（Informed-search）" class="headerlink" title="2.2 启发式搜索（Informed search）"></a>2.2 启发式搜索（Informed search）</h2><p>使用问题相关的知识决定进站的优先度</p>
+<h2 id="2-1-盲目搜索"><a href="#2-1-盲目搜索" class="headerlink" title="2.1 盲目搜索"></a>2.1 盲目搜索</h2><h2 id="2-2-启发式搜索（Informed-search）"><a href="#2-2-启发式搜索（Informed-search）" class="headerlink" title="2.2 启发式搜索（Informed search）"></a>2.2 启发式搜索（Informed search）</h2><p>使用问题相关的知识决定进站的优先度</p>
 <h2 id="2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）"><a href="#2-3-贪婪最佳优先搜索（Greedy-Best-first-Search）" class="headerlink" title="2.3 贪婪最佳优先搜索（Greedy Best-first Search）"></a>2.3 贪婪最佳优先搜索（Greedy Best-first Search）</h2><p>利用启发函数的估算值，每次搜索都选着扩展最靠近目的的节点，本质上是深度优先策略。<br>例如，由A到B，中间有中间节点C、D，估算C、D到B的曼哈顿距离（$x_c-x_b+y_c-y_b$），选择较小的子节点运行，若曼哈顿距离相同，概率选择或通过更远的子节点的曼哈顿距离来决定下一节点。该过程本质上避免了搜索算法，提高了运行效率。</p>
+<h2 id="2-4-A-算法"><a href="#2-4-A-算法" class="headerlink" title="2.4 A*算法"></a>2.4 A*算法</h2><p>同时考虑曼哈顿距离(h(n))和耗费距离（g(n) = cost to search the node）</p>
+<blockquote>
+<p>参考指标（类似上章启发函数）= g(n)+h(n)</p>
+</blockquote>
+<p>每次搜索递进得到的下一节点的参考指标，都需要与之前的分叉路径点未选择的下一节的参考指标大小比较，若比之前节点更长，则选择之前的节点开始新的路径递进。<br>当A*算法满足以下条件时可以搜索到最优结果：</p>
+<ol>
+<li>h（n）不能过高的估计节点到目标点的开销（可接受性）；</li>
+<li>对于第N个节点及其后继节点m，以及n到m的开销c，<strong>h(n)&lt;= h(n)+c</strong>（一致性），否则可能找不到最优解。</li>
+</ol>
 <h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ol>
 <li>启发函数？<br>——估算所有路径的长度，估算离目标最近的点。</li>
 </ol>
@@ -134,6 +119,30 @@
       <tags>
         <tag>博客</tag>
         <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>作业</tag>
       </tags>
   </entry>
 </search>

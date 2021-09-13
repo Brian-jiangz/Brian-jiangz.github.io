@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小姜同学的博客</title>
   
-  <subtitle>热衷海洋科学、人工智能、耦合模型、数学建模</subtitle>
+  <subtitle>热衷海洋科学、人工智能、数学建模</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-13T05:37:00.063Z</updated>
+  <updated>2021-09-13T05:48:10.087Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/09/13/resume-Jiang/"/>
     <id>http://example.com/2021/09/13/resume-Jiang/</id>
     <published>2021-09-13T05:35:02.000Z</published>
-    <updated>2021-09-13T05:37:00.063Z</updated>
+    <updated>2021-09-13T05:48:10.087Z</updated>
     
     <content type="html"><![CDATA[<p>个人简历啦～</p>]]></content>
     
@@ -34,8 +34,8 @@
     
     
     
+    <category term="About Me" scheme="http://example.com/categories/About-Me/"/>
     
-    <category term="Me" scheme="http://example.com/tags/Me/"/>
     
   </entry>
   
@@ -73,9 +73,9 @@
     <link href="http://example.com/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/"/>
     <id>http://example.com/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</id>
     <published>2021-09-05T03:24:33.000Z</published>
-    <updated>2021-09-05T14:37:05.257Z</updated>
+    <updated>2021-09-13T06:26:56.394Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote><p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p></blockquote><p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p><span id="more"></span><h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p><ol><li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li><li>Waymo、Tesla自动驾驶技术；</li><li>波士顿机器人的控制系统。</li></ol><h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote><p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p></blockquote><p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p><span id="more"></span><h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p><ol><li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li><li>Waymo、Tesla自动驾驶技术；</li><li>波士顿机器人的控制系统。</li></ol><h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>]]></content>
     
     
     <summary type="html">&lt;h1 id=&quot;人工智能基础课程作业&quot;&gt;&lt;a href=&quot;#人工智能基础课程作业&quot; class=&quot;headerlink&quot; title=&quot;人工智能基础课程作业&quot;&gt;&lt;/a&gt;人工智能基础课程作业&lt;/h1&gt;&lt;h1 id=&quot;1-Deep-learning-state-of-the-art-2020-–YouTube&quot;&gt;&lt;a href=&quot;#1-Deep-learning-state-of-the-art-2020-–YouTube&quot; class=&quot;headerlink&quot; title=&quot;1 Deep learning state of the art (2020)–YouTube&quot;&gt;&lt;/a&gt;1 Deep learning state of the art (2020)–YouTube&lt;/h1&gt;&lt;h2 id=&quot;1-1-前言&quot;&gt;&lt;a href=&quot;#1-1-前言&quot; class=&quot;headerlink&quot; title=&quot;1.1 前言&quot;&gt;&lt;/a&gt;1.1 前言&lt;/h2&gt;&lt;blockquote&gt;
@@ -133,7 +133,7 @@
 &lt;li&gt;人工智能与机器学习：机器学习是AI的主要实现形式。&lt;/li&gt;
 &lt;li&gt;图灵测试：Turning Test：通过实验对象与机器或人交流，判断与其聊天的对象是机器还是人，当误判超过30%时，认为其为人工智能。&lt;/li&gt;
 &lt;li&gt;导航算法：$A^*$算法与可视化图法（the visibility graph method）&lt;/li&gt;
-&lt;li&gt;卷积网络优化算法——反向传播理论（BP算法），解决了神经网络高效率优化的问题。</summary>
+&lt;li&gt;卷积网络优化算法——反向传播理论（BP算法），解决了神经网络高效率优化的问题。&lt;/li&gt;&lt;/ol&gt;</summary>
     
     
     

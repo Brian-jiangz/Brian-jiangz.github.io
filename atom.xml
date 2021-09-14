@@ -3,11 +3,11 @@
   <title>小姜同学的博客</title>
   
   <subtitle>热衷海洋科学、人工智能、数学建模</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://brian-jiangz.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://brian-jiangz.github.io/project/"/>
   <updated>2021-09-13T07:32:14.111Z</updated>
-  <id>http://example.com/</id>
+  <id>https://brian-jiangz.github.io/project/</id>
   
   <author>
     <name>姜正</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>个人简历</title>
-    <link href="http://example.com/2021/09/13/resume-Jiang/"/>
-    <id>http://example.com/2021/09/13/resume-Jiang/</id>
+    <link href="https://brian-jiangz.github.io/project/2021/09/13/resume-Jiang/"/>
+    <id>https://brian-jiangz.github.io/project/2021/09/13/resume-Jiang/</id>
     <published>2021-09-13T05:35:02.000Z</published>
     <updated>2021-09-13T07:32:14.111Z</updated>
     
@@ -33,15 +33,15 @@
     
     
     
-    <category term="About Me" scheme="http://example.com/categories/About-Me/"/>
+    <category term="About Me" scheme="https://brian-jiangz.github.io/project/categories/About-Me/"/>
     
     
   </entry>
   
   <entry>
     <title>人工智能导论</title>
-    <link href="http://example.com/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/"/>
-    <id>http://example.com/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</id>
+    <link href="https://brian-jiangz.github.io/project/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/"/>
+    <id>https://brian-jiangz.github.io/project/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</id>
     <published>2021-09-06T06:32:45.000Z</published>
     <updated>2021-09-13T08:10:10.568Z</updated>
     
@@ -58,23 +58,23 @@
     
     
     
-    <category term="人工智能" scheme="http://example.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://brian-jiangz.github.io/project/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://brian-jiangz.github.io/project/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://brian-jiangz.github.io/project/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>人工智能基础作业</title>
-    <link href="http://example.com/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://example.com/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</id>
+    <link href="https://brian-jiangz.github.io/project/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/"/>
+    <id>https://brian-jiangz.github.io/project/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</id>
     <published>2021-09-05T03:24:33.000Z</published>
     <updated>2021-09-13T06:26:56.394Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote><p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p></blockquote><p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p><span id="more"></span><h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p><ol><li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li><li>Waymo、Tesla自动驾驶技术；</li><li>波士顿机器人的控制系统。</li></ol><h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote><p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p></blockquote><p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p><span id="more"></span><h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p><ol><li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li><li>Waymo、Tesla自动驾驶技术；</li><li>波士顿机器人的控制系统。</li></ol><h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/project/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>]]></content>
     
     
     <summary type="html">&lt;h1 id=&quot;人工智能基础课程作业&quot;&gt;&lt;a href=&quot;#人工智能基础课程作业&quot; class=&quot;headerlink&quot; title=&quot;人工智能基础课程作业&quot;&gt;&lt;/a&gt;人工智能基础课程作业&lt;/h1&gt;&lt;h1 id=&quot;1-Deep-learning-state-of-the-art-2020-–YouTube&quot;&gt;&lt;a href=&quot;#1-Deep-learning-state-of-the-art-2020-–YouTube&quot; class=&quot;headerlink&quot; title=&quot;1 Deep learning state of the art (2020)–YouTube&quot;&gt;&lt;/a&gt;1 Deep learning state of the art (2020)–YouTube&lt;/h1&gt;&lt;h2 id=&quot;1-1-前言&quot;&gt;&lt;a href=&quot;#1-1-前言&quot; class=&quot;headerlink&quot; title=&quot;1.1 前言&quot;&gt;&lt;/a&gt;1.1 前言&lt;/h2&gt;&lt;blockquote&gt;
@@ -84,19 +84,19 @@
     
     
     
-    <category term="人工智能" scheme="http://example.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://brian-jiangz.github.io/project/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://brian-jiangz.github.io/project/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="作业" scheme="http://example.com/tags/%E4%BD%9C%E4%B8%9A/"/>
+    <category term="作业" scheme="https://brian-jiangz.github.io/project/tags/%E4%BD%9C%E4%B8%9A/"/>
     
   </entry>
   
   <entry>
     <title>基于Hexo的个人博客操作说明</title>
-    <link href="http://example.com/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/"/>
-    <id>http://example.com/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</id>
+    <link href="https://brian-jiangz.github.io/project/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/"/>
+    <id>https://brian-jiangz.github.io/project/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</id>
     <published>2021-09-04T04:45:44.000Z</published>
     <updated>2021-09-04T06:37:06.210Z</updated>
     
@@ -108,19 +108,19 @@
     
     
     
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    <category term="写作" scheme="https://brian-jiangz.github.io/project/categories/%E5%86%99%E4%BD%9C/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://brian-jiangz.github.io/project/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    <category term="写作" scheme="https://brian-jiangz.github.io/project/tags/%E5%86%99%E4%BD%9C/"/>
     
   </entry>
   
   <entry>
     <title>人工智能基础课程</title>
-    <link href="http://example.com/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/"/>
-    <id>http://example.com/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</id>
+    <link href="https://brian-jiangz.github.io/project/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/"/>
+    <id>https://brian-jiangz.github.io/project/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</id>
     <published>2021-09-02T11:41:46.000Z</published>
     <updated>2021-09-13T05:18:07.210Z</updated>
     
@@ -136,19 +136,19 @@
     
     
     
-    <category term="人工智能" scheme="http://example.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://brian-jiangz.github.io/project/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://brian-jiangz.github.io/project/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://brian-jiangz.github.io/project/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/09/02/hello-world/"/>
-    <id>http://example.com/2021/09/02/hello-world/</id>
+    <link href="https://brian-jiangz.github.io/project/2021/09/02/hello-world/"/>
+    <id>https://brian-jiangz.github.io/project/2021/09/02/hello-world/</id>
     <published>2021-09-02T07:40:37.639Z</published>
     <updated>2021-09-04T06:37:06.207Z</updated>
     

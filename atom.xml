@@ -6,7 +6,7 @@
   <link href="https://brian-jiangz.github.io/atom.xml" rel="self"/>
   
   <link href="https://brian-jiangz.github.io/"/>
-  <updated>2021-09-13T08:10:10.568Z</updated>
+  <updated>2021-09-16T05:10:34.666Z</updated>
   <id>https://brian-jiangz.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jiang_resume</title>
+    <link href="https://brian-jiangz.github.io/2021/09/16/Jiang-resume/"/>
+    <id>https://brian-jiangz.github.io/2021/09/16/Jiang-resume/</id>
+    <published>2021-09-16T05:09:59.000Z</published>
+    <updated>2021-09-16T05:10:34.666Z</updated>
+    
+    <content type="html"><![CDATA[<p>kao</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;kao&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>人工智能导论</title>
@@ -65,9 +86,9 @@
     <category term="人工智能" scheme="https://brian-jiangz.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="作业" scheme="https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/"/>
-    
     <category term="人工智能" scheme="https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="作业" scheme="https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/"/>
     
   </entry>
   

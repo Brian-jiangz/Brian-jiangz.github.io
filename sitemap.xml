@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brian-jiangz.github.io/2021/09/13/resume-Jiang/</loc>
+    
+    <lastmod>2021-09-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://brian-jiangz.github.io/sitemap/index.html</loc>
     
     <lastmod>2021-09-14</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</loc>
-    
-    <lastmod>2021-09-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/2021/09/13/resume-Jiang/</loc>
     
     <lastmod>2021-09-13</lastmod>
     
@@ -95,6 +95,13 @@
 
   
   <url>
+    <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
+    <lastmod>2021-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
@@ -117,13 +124,6 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2021-09-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

@@ -6,7 +6,7 @@
   <link href="https://brian-jiangz.github.io/atom.xml" rel="self"/>
   
   <link href="https://brian-jiangz.github.io/"/>
-  <updated>2021-09-16T06:36:49.476Z</updated>
+  <updated>2021-09-20T03:07:28.465Z</updated>
   <id>https://brian-jiangz.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《海洋学导论》</title>
+    <link href="https://brian-jiangz.github.io/2021/09/20/Oceanography/"/>
+    <id>https://brian-jiangz.github.io/2021/09/20/Oceanography/</id>
+    <published>2021-09-20T01:46:16.000Z</published>
+    <updated>2021-09-20T03:07:28.465Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul><li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li><li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;4-海洋沉积物&quot;&gt;&lt;a href=&quot;#4-海洋沉积物&quot; class=&quot;headerlink&quot; title=&quot;4 海洋沉积物&quot;&gt;&lt;/a&gt;4 海洋沉积物&lt;/h1&gt;&lt;h2 id=&quot;4-1-绪论&quot;&gt;&lt;a href=&quot;#4-1-绪论&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    <category term="Oceanography" scheme="https://brian-jiangz.github.io/categories/Oceanography/"/>
+    
+    
+    <category term="Sediment" scheme="https://brian-jiangz.github.io/tags/Sediment/"/>
+    
+  </entry>
   
   <entry>
     <title>个人简历</title>
@@ -80,9 +104,9 @@
     <category term="人工智能" scheme="https://brian-jiangz.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="作业" scheme="https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/"/>
-    
     <category term="人工智能" scheme="https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="作业" scheme="https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/"/>
     
   </entry>
   

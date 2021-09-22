@@ -9,11 +9,30 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/09/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>《海洋学导论》</title>
     <url>/2021/09/20/Oceanography/</url>
     <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
 <li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
 </ul>
 ]]></content>
       <categories>
@@ -21,6 +40,30 @@
       </categories>
       <tags>
         <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>
@@ -68,50 +111,6 @@
       <tags>
         <tag>人工智能</tag>
         <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>基于Hexo的个人博客操作说明</title>
-    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
-<span id="more"></span>
-<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
-<li>首先，在访达中打开Blog文件；<br></li>
-<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
-<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
-<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
-<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
-<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
-<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
-<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
-</ol>
-]]></content>
-      <categories>
-        <category>写作</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>写作</tag>
       </tags>
   </entry>
   <entry>
@@ -184,13 +183,23 @@
 <li>添加每个对象的所有的判断逻辑到知识库中——所有可能存在的过滤器；</li>
 <li>输入初始条件，使用 Model Checking 求解蕴含关系</li>
 </ol>
-<h2 id="求解算法"><a href="#求解算法" class="headerlink" title="求解算法"></a>求解算法</h2><h3 id="推理规则"><a href="#推理规则" class="headerlink" title="推理规则"></a>推理规则</h3><ol>
+<h2 id="4-3求解算法"><a href="#4-3求解算法" class="headerlink" title="4.3求解算法"></a>4.3求解算法</h2><h3 id="4-3-1-推理规则"><a href="#4-3-1-推理规则" class="headerlink" title="4.3.1 推理规则"></a>4.3.1 推理规则</h3><ol>
 <li>分离规则；</li>
 <li>消除规则；</li>
 <li>双重否定消除；</li>
 <li>推断消除：$\alpha\rightarrow \beta$ 即 $\lnot \alpha v \beta $</li>
-<li>双向条件消除：$\alpha \leftrightarrow \beta$ 即 $(\alpha \rightarrow\beta) \land (\beta \rightarrow \alpha ) $<h3 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h3></li>
+<li>双向条件消除：$\alpha \leftrightarrow \beta$ 即 $(\alpha \rightarrow\beta) \land (\beta \rightarrow \alpha ) $</li>
 </ol>
+<h1 id="5-2021年9月22日"><a href="#5-2021年9月22日" class="headerlink" title="5 2021年9月22日"></a>5 2021年9月22日</h1><h2 id="5-1-贝叶斯准则"><a href="#5-1-贝叶斯准则" class="headerlink" title="5.1 贝叶斯准则"></a>5.1 贝叶斯准则</h2><p><a href="https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AE%9A%E7%90%86">贝叶斯准则</a>：可观测的条件概率容易获得，计算另一个互换的条件概率（后推前）；<br>$$ P（可观测数据｜未知原因）\rightarrow P（未知原因|可观测数据）$$<br>贝叶斯定理：通常，事件A在事件B已发生的条件下发生的概率，与事件B在事件A已发生的条件下发生的概率是不一样的。然而，这两者是有确定的关系的，贝叶斯定理就是这种关系的陈述。</p>
+<h2 id="5-2-联合概率"><a href="#5-2-联合概率" class="headerlink" title="5.2 联合概率"></a>5.2 联合概率</h2><p>联合概率表示两个事件共同发生的概率。A与B的联合概率表示为$P(A\cap B)$,或$P(A,B)$,或$P(AB)$</p>
+<h2 id="5-3-概率规则"><a href="#5-3-概率规则" class="headerlink" title="5.3 概率规则"></a>5.3 概率规则</h2><h3 id="5-3-1-包含排除"><a href="#5-3-1-包含排除" class="headerlink" title="5.3.1 包含排除"></a>5.3.1 包含排除</h3><h3 id="5-3-2-边缘化"><a href="#5-3-2-边缘化" class="headerlink" title="5.3.2 边缘化"></a>5.3.2 边缘化</h3><p>$P(a)=P(a,b)+P(a,\lnot b)$</p>
+<h3 id="5-3-3-条件作用"><a href="#5-3-3-条件作用" class="headerlink" title="5.3.3 条件作用"></a>5.3.3 条件作用</h3><p>$P(a)=P(a|b)P(b)+P(a,\lnot b)P(\lnot b)$</p>
+<h2 id="5-4-贝叶斯网络"><a href="#5-4-贝叶斯网络" class="headerlink" title="5.4 贝叶斯网络"></a>5.4 贝叶斯网络</h2><ul>
+<li>有向图</li>
+<li>每一个节点表示一个随机变量；</li>
+<li>从x到y表示x是y的父节点；</li>
+<li>每个节点x都有概率分布：<br>$$P(x)=P(x|parent(x))$$<h3 id="5-4-1-计算联合概率"><a href="#5-4-1-计算联合概率" class="headerlink" title="5.4.1 计算联合概率"></a>5.4.1 计算联合概率</h3>图像见Notability<br>$$P(light,no,delayed,miss)=P(light)\cdot P(no|light) \cdot P(delayed|light,no) \cdot P(miss|delayed)$$</li>
+</ul>
 ]]></content>
       <categories>
         <category>人工智能</category>
@@ -201,27 +210,28 @@
       </tags>
   </entry>
   <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
-</blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+    <title>基于Hexo的个人博客操作说明</title>
+    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
 <span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
+<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
+<li>首先，在访达中打开Blog文件；<br></li>
+<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
+<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
+<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
+<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
+<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
+<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
+<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
 </ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
 ]]></content>
       <categories>
-        <category>人工智能</category>
+        <category>写作</category>
       </categories>
       <tags>
-        <tag>人工智能</tag>
-        <tag>作业</tag>
+        <tag>博客</tag>
+        <tag>写作</tag>
       </tags>
   </entry>
 </search>

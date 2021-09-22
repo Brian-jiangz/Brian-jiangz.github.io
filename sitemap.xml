@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brian-jiangz.github.io/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://brian-jiangz.github.io/2021/09/20/Oceanography/</loc>
     
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-21</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://brian-jiangz.github.io/sitemap/index.html</loc>
     
     <lastmod>2021-09-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</loc>
-    
-    <lastmod>2021-09-13</lastmod>
     
   </url>
   
@@ -102,7 +102,7 @@
 
   <url>
     <loc>https://brian-jiangz.github.io/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,49 +110,49 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/About-me/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/Sediment/</loc>
-    <lastmod>2021-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2021-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2021-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -161,21 +161,21 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/Oceanography/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

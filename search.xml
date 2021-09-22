@@ -198,7 +198,17 @@
 <li>有向图</li>
 <li>每一个节点表示一个随机变量；</li>
 <li>从x到y表示x是y的父节点；</li>
-<li>每个节点x都有概率分布：<br>$$P(x)=P(x|parent(x))$$<h3 id="5-4-1-计算联合概率"><a href="#5-4-1-计算联合概率" class="headerlink" title="5.4.1 计算联合概率"></a>5.4.1 计算联合概率</h3>图像见Notability<br>$$P(light,no,delayed,miss)=P(light)\cdot P(no|light) \cdot P(delayed|light,no) \cdot P(miss|delayed)$$</li>
+<li>每个节点x都有概率分布：<br>$$P(x)=P(x|parent(x))$$<h3 id="5-4-1-计算联合概率"><a href="#5-4-1-计算联合概率" class="headerlink" title="5.4.1 计算联合概率"></a>5.4.1 计算联合概率</h3><img src="/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/Beyes'NetworkExample1.jpg"><br>$$P(light,no,delayed,miss)=P(light)\cdot P(no|light) \cdot P(delayed|light,no) \cdot P(miss|delayed)$$<h3 id="5-4-2-推理"><a href="#5-4-2-推理" class="headerlink" title="5.4.2 推理"></a>5.4.2 推理</h3>$$P(Appointment|light,no)=\alpha P(Appointment,light,no)=\alpha [P(Appointment,light,no,on time)+P(Appointment,light,no,delayed)]$$<br>其中，$\alpha$归一因子,普适方程为：<blockquote>
+<p>$$P(X|e)=\alpha P(X,e)=\alpha \sum_{y} P(X,e,y) $$</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="5-4-3-近似推理"><a href="#5-4-3-近似推理" class="headerlink" title="5.4.3 近似推理"></a>5.4.3 近似推理</h3><ul>
+<li>抽样法（sampling）：将所有可能发生情况列出，筛选里面符合要求的情况，并作为分子，总的案例数量作为分母，利用概率论方法计算概率。</li>
+</ul>
+<h3 id="5-4-4-似然加权"><a href="#5-4-4-似然加权" class="headerlink" title="5.4.4 似然加权"></a>5.4.4 似然加权</h3><p>$$P(Rain=light|Train)$$<br>与抽样的不同点：抽样为随机抽样，原始数量已确定（X个），里面特定情况的样本数量必然小于X；似然加权确定特定情况下的样本数量（X个），故其符合要求的样本密度更大，似然加权需要将特定值固定，必然会漏掉固定值之外的情况的概率，所以需要在计算时乘以一个加权值。</p>
+<h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><ul>
+<li>似然加权的加权数值如何确定；</li>
 </ul>
 ]]></content>
       <categories>

@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>个人简历</title>
-    <url>/2021/09/16/Jiang-resume/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>About me</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《海洋学导论》</title>
     <url>/2021/09/20/Oceanography/</url>
     <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
@@ -22,6 +14,83 @@
       </categories>
       <tags>
         <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/09/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>地球系统概论</title>
+    <url>/2021/09/24/Earth-system/</url>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#x6e;&#x67;&#x78;&#x69;&#x61;&#111;&#64;&#99;&#117;&#103;&#x2e;&#x65;&#x64;&#117;&#x2e;&#x63;&#110;">&#x6c;&#x6f;&#x6e;&#x67;&#x78;&#x69;&#x61;&#111;&#64;&#99;&#117;&#103;&#x2e;&#x65;&#x64;&#117;&#x2e;&#x63;&#110;</a></p>
+<ul>
+<li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
+<li>地球系统科学要跳出地球本身来研究。</li>
+</ul>
+<p><strong>研究对象</strong>：层圈结构、物质组成、相互作用、演变过程、驱动因素；<br><strong>理论基础</strong>：矿物岩石矿床学、地球化学、构造地质学、沉积学、古生物学、第四纪地质学；</p>
+<span id="more"></span>
+<h2 id="1-1-星际空间对地球的影响"><a href="#1-1-星际空间对地球的影响" class="headerlink" title="1.1 星际空间对地球的影响"></a>1.1 星际空间对地球的影响</h2><h3 id="1-1-1-星际空间对地球影响的体现"><a href="#1-1-1-星际空间对地球影响的体现" class="headerlink" title="1.1.1 星际空间对地球影响的体现"></a>1.1.1 星际空间对地球影响的体现</h3><ul>
+<li>太阳系系统内，作为恒星影响地球公转、空间天气、四季、太阳活动周期等；</li>
+<li>月球的影响：地月系统中卫星影响——潮汐；</li>
+<li>宇宙背景的影响：运势、宇宙辐射；</li>
+<li>生命的起源和演化；</li>
+<li>行星的起源和演化；</li>
+<li>太阳系的早期记录不在地球：澳大利亚；</li>
+</ul>
+<p>行星系统与地球系统密切相关——总结</p>
+<ol>
+<li>太阳系起源和演化——行星的起源与比较行星学研究；</li>
+<li>地外生命信息等探寻——天体生物学；</li>
+<li>太阳于小天体活动对地球的灾难性影响；</li>
+<li>地外资源、能源和特别环境的利用；</li>
+<li>太阳系中是否存在适宜人类大量移民的移居天体；</li>
+</ol>
+<h3 id="1-1-2-扩展地球科学研究思路："><a href="#1-1-2-扩展地球科学研究思路：" class="headerlink" title="1.1.2 扩展地球科学研究思路："></a>1.1.2 扩展地球科学研究思路：</h3><blockquote>
+<p>地球——太阳系行星系统——太阳系+宇宙</p>
+</blockquote>
+<h2 id="1-2-行星科学的研究手段与方法"><a href="#1-2-行星科学的研究手段与方法" class="headerlink" title="1.2 行星科学的研究手段与方法"></a>1.2 行星科学的研究手段与方法</h2><h3 id="1-2-1-研究方法"><a href="#1-2-1-研究方法" class="headerlink" title="1.2.1 研究方法"></a>1.2.1 研究方法</h3><ul>
+<li>遥感探测；</li>
+<li>就位探测：on-site data and investigation；</li>
+<li>采样返回；</li>
+<li>模拟实验；</li>
+<li>行星类比。</li>
+</ul>
+<h3 id="1-2-2-国内外研究现状"><a href="#1-2-2-国内外研究现状" class="headerlink" title="1.2.2 国内外研究现状"></a>1.2.2 国内外研究现状</h3><p>国外为主，自阿波罗载人登月后，国外出现行星探测高潮；国内处于行星科学研究上升期。</p>
+]]></content>
+      <categories>
+        <category>Geoscience</category>
+      </categories>
+      <tags>
+        <tag>Geoscience</tag>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LTO Lecture 2021/9/23</title>
+    <url>/2021/09/23/LTO-Lecture-2021-9-23/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>LTO</tag>
+        <tag>Lecture</tag>
       </tags>
   </entry>
   <entry>
@@ -47,25 +116,6 @@
         <tag>作业</tag>
         <tag>人工智能</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>人工智能基础课程</title>
@@ -110,8 +160,16 @@
         <category>人工智能</category>
       </categories>
       <tags>
-        <tag>人工智能</tag>
         <tag>笔记</tag>
+        <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人简历</title>
+    <url>/2021/09/16/Jiang-resume/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>About me</tag>
       </tags>
   </entry>
   <entry>
@@ -216,8 +274,8 @@
         <category>人工智能</category>
       </categories>
       <tags>
-        <tag>人工智能</tag>
         <tag>笔记</tag>
+        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>

@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>LTO Lecture 2021/9/23</title>
+    <url>/2021/09/23/LTO-Lecture-2021-9-23/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>LTO</tag>
+        <tag>Lecture</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#110;&#x67;&#x78;&#105;&#97;&#x6f;&#x40;&#99;&#x75;&#103;&#46;&#x65;&#x64;&#117;&#x2e;&#x63;&#110;">&#x6c;&#x6f;&#110;&#x67;&#x78;&#105;&#97;&#x6f;&#x40;&#99;&#x75;&#103;&#46;&#x65;&#x64;&#117;&#x2e;&#x63;&#110;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#111;&#x6e;&#x67;&#x78;&#x69;&#x61;&#111;&#x40;&#99;&#117;&#x67;&#46;&#x65;&#100;&#117;&#46;&#99;&#x6e;">&#x6c;&#111;&#x6e;&#x67;&#x78;&#x69;&#x61;&#111;&#x40;&#99;&#117;&#x67;&#46;&#x65;&#100;&#117;&#46;&#99;&#x6e;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -68,6 +80,54 @@
       </tags>
   </entry>
   <entry>
+    <title>Physical Oceanography</title>
+    <url>/2021/09/28/Physical-Oceanography/</url>
+    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
+<ul>
+<li>天体引潮力</li>
+<li>重力加速度</li>
+<li>压强梯度力</li>
+<li>地转偏向力</li>
+<li>摩擦力<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+</ul>
+<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
+<ul>
+<li>边界条件是偏微分方程组必须的定解条件；</li>
+<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
+<li>海洋学中边界条件十分重要。</li>
+</ul>
+<p>如何给出边界条件？</p>
+<ul>
+<li>给出七个变量的值；</li>
+<li>融合一些物理过程；</li>
+</ul>
+<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Physical Oceanography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Oceanography</category>
+      </categories>
+      <tags>
+        <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/09/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -108,22 +168,6 @@
       <tags>
         <tag>作业</tag>
         <tag>人工智能</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Sediment</tag>
       </tags>
   </entry>
   <entry>
@@ -266,11 +310,28 @@
 <h3 id="5-4-3-近似推理"><a href="#5-4-3-近似推理" class="headerlink" title="5.4.3 近似推理"></a>5.4.3 近似推理</h3><ul>
 <li>抽样法（sampling）：将所有可能发生情况列出，筛选里面符合要求的情况，并作为分子，总的案例数量作为分母，利用概率论方法计算概率。</li>
 </ul>
+<p>使用到的包：poeegranate——概率用工具箱；</p>
 <h3 id="5-4-4-似然加权"><a href="#5-4-4-似然加权" class="headerlink" title="5.4.4 似然加权"></a>5.4.4 似然加权</h3><p>$$P(Rain=light|Train)$$<br>与抽样的不同点：抽样为随机抽样，原始数量已确定（X个），里面特定情况的样本数量必然小于X；似然加权确定特定情况下的样本数量（X个），故其符合要求的样本密度更大，似然加权需要将特定值固定，必然会漏掉固定值之外的情况的概率，所以需要在计算时乘以一个加权值。</p>
+<p>例如在蒙特卡洛方法应用中，出现在某个范围内的概率较小，因此使用似然加权来提高目标条件下的案例数量与浓度，以提高运算效率。</p>
 <h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><ul>
 <li>似然加权的加权数值如何确定；</li>
 </ul>
-]]></content>
+<h1 id="6-基于时间的不确定性"><a href="#6-基于时间的不确定性" class="headerlink" title="6 基于时间的不确定性"></a>6 基于时间的不确定性</h1><p>描述随机变量随时间推移发生的变化——主要使用<strong>马尔可夫模型</strong>：描述单个变量随时间推移而发生的变化。</p>
+<ul>
+<li>贝叶斯网络——寻找因变量与自变量之间的关系；</li>
+<li>马尔可夫模型——只关注变量的变化，不考虑内因。<h2 id="6-1-马尔科夫假设"><a href="#6-1-马尔科夫假设" class="headerlink" title="6.1 马尔科夫假设"></a>6.1 马尔科夫假设</h2>当前状态依赖于有限个固定数量的过去状态（状态是过去的本身情况，而非其他变量）；<h2 id="6-2-马尔科夫链"><a href="#6-2-马尔科夫链" class="headerlink" title="6.2 马尔科夫链"></a>6.2 马尔科夫链</h2>符合马尔科夫假设的变量；一阶马尔科夫链指只与过去一个状态相关的变量链。</li>
+</ul>
+<h2 id="6-3-隐马尔科夫模型、传感器模型"><a href="#6-3-隐马尔科夫模型、传感器模型" class="headerlink" title="6.3 隐马尔科夫模型、传感器模型"></a>6.3 隐马尔科夫模型、传感器模型</h2><p>晴天和带伞各自构成一个马尔科夫链，当二者之间存在逻辑关系时，两个独立的马尔科夫链构成了一个隐马尔科夫链。</p>
+<h1 id="7-优化问题"><a href="#7-优化问题" class="headerlink" title="7 优化问题"></a>7 优化问题</h1><p>从一个可选的集合中选择最优的选项</p>
+<h2 id="7-1-局部搜索"><a href="#7-1-局部搜索" class="headerlink" title="7.1 局部搜索"></a>7.1 局部搜索</h2><p>维护单一节点，搜索临接节点。<br>在每一个局部找到最优解，再在每个局部最优解间寻找极值，找到的极值是全局最优。</p>
+<h3 id="7-1-1-爬山算法"><a href="#7-1-1-爬山算法" class="headerlink" title="7.1.1 爬山算法"></a>7.1.1 爬山算法</h3><p>判断邻居，并计算邻居的数值，比较邻居与当前数值。爬山法是计算局部最优解的方法。</p>
+<h3 id="7-1-2-模拟退火"><a href="#7-1-2-模拟退火" class="headerlink" title="7.1.2 模拟退火"></a>7.1.2 模拟退火</h3><p>模拟退火在高温时</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">SIMULATED</span>-<span class="title">ANNEALING</span> <span class="params">(problem, max)</span>:</span></span><br><span class="line">current = initial state of problem</span><br><span class="line"><span class="keyword">for</span> t= <span class="number">1</span> to <span class="built_in">max</span>:</span><br><span class="line">T= TEMPERATURE(t)</span><br><span class="line">neighbor = random neighbor of current</span><br><span class="line">AE = how much better neighbor is than current</span><br><span class="line"><span class="keyword">if</span> AE &gt; <span class="number">0.</span></span><br><span class="line">current = neighbor</span><br><span class="line">with probability P1 set current = neighbor</span><br><span class="line"><span class="keyword">return</span> current</span><br></pre></td></tr></table></figure>
+<p>其中$P1=e^{\vartriangle E/T}$是经验公式。</p>
+<blockquote>
+<p>模块化生产、模块化代码编辑</p>
+</blockquote>
+<h3 id="7-3-线性规划"><a href="#7-3-线性规划" class="headerlink" title="7.3 线性规划"></a>7.3 线性规划</h3><h3 id="7-4-约束满足问题"><a href="#7-4-约束满足问题" class="headerlink" title="7.4 约束满足问题"></a>7.4 约束满足问题</h3>]]></content>
       <categories>
         <category>人工智能</category>
       </categories>
@@ -302,18 +363,6 @@
       <tags>
         <tag>博客</tag>
         <tag>写作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LTO Lecture 2021/9/23</title>
-    <url>/2021/09/23/LTO-Lecture-2021-9-23/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>LTO</tag>
-        <tag>Lecture</tag>
       </tags>
   </entry>
 </search>

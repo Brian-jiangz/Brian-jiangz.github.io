@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>LTO Lecture 2021/9/23</title>
-    <url>/2021/09/23/LTO-Lecture-2021-9-23/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>LTO</tag>
-        <tag>Lecture</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#111;&#x6e;&#x67;&#x78;&#x69;&#x61;&#111;&#x40;&#99;&#117;&#x67;&#46;&#x65;&#100;&#117;&#46;&#99;&#x6e;">&#x6c;&#111;&#x6e;&#x67;&#x78;&#x69;&#x61;&#111;&#x40;&#99;&#117;&#x67;&#46;&#x65;&#100;&#117;&#46;&#99;&#x6e;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#x6f;&#x6e;&#x67;&#x78;&#105;&#97;&#111;&#64;&#x63;&#x75;&#103;&#x2e;&#101;&#100;&#117;&#46;&#x63;&#110;">&#108;&#x6f;&#x6e;&#x67;&#x78;&#105;&#97;&#111;&#64;&#x63;&#x75;&#103;&#x2e;&#101;&#100;&#117;&#46;&#x63;&#110;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -72,43 +60,15 @@
       </tags>
   </entry>
   <entry>
-    <title>个人简历</title>
-    <url>/2021/09/16/Jiang-resume/</url>
+    <title>LTO Lecture 2021/9/23</title>
+    <url>/2021/09/23/LTO-Lecture-2021-9-23/</url>
     <content><![CDATA[]]></content>
-      <tags>
-        <tag>About me</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Physical Oceanography</title>
-    <url>/2021/09/28/Physical-Oceanography/</url>
-    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
-<ul>
-<li>天体引潮力</li>
-<li>重力加速度</li>
-<li>压强梯度力</li>
-<li>地转偏向力</li>
-<li>摩擦力<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
-</ul>
-<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
-<ul>
-<li>边界条件是偏微分方程组必须的定解条件；</li>
-<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
-<li>海洋学中边界条件十分重要。</li>
-</ul>
-<p>如何给出边界条件？</p>
-<ul>
-<li>给出七个变量的值；</li>
-<li>融合一些物理过程；</li>
-</ul>
-<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
-<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
       <categories>
-        <category>Physical Oceanography</category>
+        <category>Lecture</category>
       </categories>
       <tags>
-        <tag>笔记</tag>
-        <tag>Physical Oceanography</tag>
+        <tag>LTO</tag>
+        <tag>Lecture</tag>
       </tags>
   </entry>
   <entry>
@@ -147,6 +107,38 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Physical Oceanography</title>
+    <url>/2021/09/28/Physical-Oceanography/</url>
+    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
+<ul>
+<li>天体引潮力</li>
+<li>重力加速度</li>
+<li>压强梯度力</li>
+<li>地转偏向力</li>
+<li>摩擦力<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+</ul>
+<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
+<ul>
+<li>边界条件是偏微分方程组必须的定解条件；</li>
+<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
+<li>海洋学中边界条件十分重要。</li>
+</ul>
+<p>如何给出边界条件？</p>
+<ul>
+<li>给出七个变量的值；</li>
+<li>融合一些物理过程；</li>
+</ul>
+<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Physical Oceanography</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>人工智能基础作业</title>
     <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
     <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
@@ -168,6 +160,14 @@
       <tags>
         <tag>作业</tag>
         <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人简历</title>
+    <url>/2021/09/16/Jiang-resume/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>About me</tag>
       </tags>
   </entry>
   <entry>

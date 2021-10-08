@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>个人简历</title>
+    <url>/2021/09/16/Jiang-resume/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>About me</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#x6f;&#x6e;&#x67;&#x78;&#105;&#97;&#111;&#64;&#x63;&#x75;&#103;&#x2e;&#101;&#100;&#117;&#46;&#x63;&#110;">&#108;&#x6f;&#x6e;&#x67;&#x78;&#105;&#97;&#111;&#64;&#x63;&#x75;&#103;&#x2e;&#101;&#100;&#117;&#46;&#x63;&#110;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#x6e;&#x67;&#120;&#x69;&#x61;&#111;&#64;&#99;&#x75;&#103;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;">&#x6c;&#x6f;&#x6e;&#x67;&#120;&#x69;&#x61;&#111;&#64;&#99;&#x75;&#103;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -60,53 +68,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LTO Lecture 2021/9/23</title>
-    <url>/2021/09/23/LTO-Lecture-2021-9-23/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>LTO</tag>
-        <tag>Lecture</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Sediment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Physical Oceanography</title>
     <url>/2021/09/28/Physical-Oceanography/</url>
     <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
@@ -139,82 +100,38 @@
       </tags>
   </entry>
   <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
-</blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+    <title>Hello World</title>
+    <url>/2021/09/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
-</ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
+</ul>
 ]]></content>
       <categories>
-        <category>人工智能</category>
+        <category>Oceanography</category>
       </categories>
       <tags>
-        <tag>作业</tag>
-        <tag>人工智能</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人简历</title>
-    <url>/2021/09/16/Jiang-resume/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>About me</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人工智能基础课程</title>
-    <url>/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
-<li>人工智能与日常生活：如自动驾驶、机器人等。</li>
-<li>人工智能与机器学习：机器学习是AI的主要实现形式。</li>
-<li>图灵测试：Turning Test：通过实验对象与机器或人交流，判断与其聊天的对象是机器还是人，当误判超过30%时，认为其为人工智能。</li>
-<li>导航算法：$A^*$算法与可视化图法（the visibility graph method）</li>
-<li>卷积网络优化算法——反向传播理论（BP算法），解决了神经网络高效率优化的问题。<span id="more"></span>
-<h2 id="1-2-人工智能及其研究方法"><a href="#1-2-人工智能及其研究方法" class="headerlink" title="1.2 人工智能及其研究方法"></a>1.2 人工智能及其研究方法</h2></li>
-<li>定义：参考Wiki的<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD">人工智能定义</a>。</li>
-<li>优势：大幅度减少众多应用场景的能耗比。</li>
-<li>分类：<br>（1）通用人工智能、强人工智能——有自我意识；<br>（2）认知智能：模仿人。</li>
-<li>派别：<br>（1）符号学派；<br>（2）联结学派：仿人脑神经元（LeNet）；<br>（3）行为学派：机器人——进化学派。</li>
-<li>关键技术：机器学习、自然科学、计算机视觉、自助无人系统、多媒体、智能芯片技术。</li>
-<li>Key point：<br>（1）算力<br>（2）算法<br>（3）算料</li>
-</ol>
-<h2 id="2-1-深度学习在语音处理中的研究方向和应用"><a href="#2-1-深度学习在语音处理中的研究方向和应用" class="headerlink" title="2.1 深度学习在语音处理中的研究方向和应用"></a>2.1 深度学习在语音处理中的研究方向和应用</h2><h3 id="2-1-1-研究方向"><a href="#2-1-1-研究方向" class="headerlink" title="2.1.1 研究方向"></a>2.1.1 研究方向</h3><p>分类、质量评测、增强、指纹识别、检索、唤醒、识别、合成与生成等。</p>
-<h3 id="2-1-2-应用"><a href="#2-1-2-应用" class="headerlink" title="2.1.2 应用"></a>2.1.2 应用</h3><p>音乐测评、Auto speech enhancement（降噪、加强原声）、Text to speech（合成主播）、Wave synthesis（自主音乐制作）。</p>
-<h3 id="2-1-3-常用算法（algorithm）"><a href="#2-1-3-常用算法（algorithm）" class="headerlink" title="2.1.3 常用算法（algorithm）"></a>2.1.3 常用算法（algorithm）</h3><p>Keyword spotting、ASR、speaker recognition等。</p>
-<h2 id="2-2-深度学习在计算机视觉中的研究方向和应用"><a href="#2-2-深度学习在计算机视觉中的研究方向和应用" class="headerlink" title="2.2 深度学习在计算机视觉中的研究方向和应用"></a>2.2 深度学习在计算机视觉中的研究方向和应用</h2><h3 id="2-2-1-研究方向"><a href="#2-2-1-研究方向" class="headerlink" title="2.2.1 研究方向"></a>2.2.1 研究方向</h3><p>图像编辑、重建、生成、超分辨率、增强、去模糊、分类、分割、检测、识别、跟踪、图像质量分析、降噪与修复。</p>
-<h3 id="2-2-2-应用"><a href="#2-2-2-应用" class="headerlink" title="2.2.2 应用"></a>2.2.2 应用</h3><p>Object segmentation（图像分割）、Object detection（目标检测）、目标识别及人脸识别、Object tracking（目标跟踪）、Image denosing、Neural-based style transfer and image translation（基于神经网络的图像风格化及图像翻译）、Image synthesis（生成原始数据集）、Scene reconstruction（基于二维图像重建三维图像——视觉Slame、VR虚拟现实）、face attribute edit等。</p>
-<h2 id="2-3-自然语言处理"><a href="#2-3-自然语言处理" class="headerlink" title="2.3 自然语言处理"></a>2.3 自然语言处理</h2><h3 id="2-3-1-研究方向"><a href="#2-3-1-研究方向" class="headerlink" title="2.3.1 研究方向"></a>2.3.1 研究方向</h3><p>文本分类与聚类、文章标签和摘要提取、文本审核与舆情分析、机器翻译、阅读理解、聊天机器人、搜索引擎等。</p>
-<h3 id="2-3-2-应用"><a href="#2-3-2-应用" class="headerlink" title="2.3.2 应用"></a>2.3.2 应用</h3><p>文本基本任务：预处理、向量化、分词、词性标注、文本结构化、Text classification、Abstract extraction。</p>
-<h2 id="2-4-推荐系统"><a href="#2-4-推荐系统" class="headerlink" title="2.4 推荐系统"></a>2.4 推荐系统</h2><h3 id="2-4-1-推荐系统研究方向与应用"><a href="#2-4-1-推荐系统研究方向与应用" class="headerlink" title="2.4.1 推荐系统研究方向与应用"></a>2.4.1 推荐系统研究方向与应用</h3><p>个性化推荐等(商品、商家、短视频等)；</p>
-<h3 id="2-4-2-重要性"><a href="#2-4-2-重要性" class="headerlink" title="2.4.2 重要性"></a>2.4.2 重要性</h3><p>对于用户：智能化程度低；</p>
-<h3 id="2-4-3-用户画像"><a href="#2-4-3-用户画像" class="headerlink" title="2.4.3 用户画像"></a>2.4.3 用户画像</h3><p>根据用户信息侧写用户，并推荐其需求。</p>
-<h3 id="2-4-4-个性化推荐"><a href="#2-4-4-个性化推荐" class="headerlink" title="2.4.4 个性化推荐"></a>2.4.4 个性化推荐</h3><ol>
-<li>基于内容阅读，购买历史；</li>
-<li>基于订阅、关注、社交关系链；</li>
-<li>相关推荐，以物推物；</li>
-<li>基于各种数据进行排行接单；</li>
-<li>新闻推荐，流量等<br>……<h3 id="第二次作业"><a href="#第二次作业" class="headerlink" title="第二次作业"></a>第二次作业</h3>Python基础入门</li>
-<li>python语言学习:Word+PPT；</li>
-<li>IDE比较：Jupyter notebook,pycharm,vs code；</li>
-</ol>
-<h1 id="2-Python"><a href="#2-Python" class="headerlink" title="2 Python"></a>2 Python</h1><h2 id="2-2-Python基本概念"><a href="#2-2-Python基本概念" class="headerlink" title="2.2 Python基本概念"></a>2.2 Python基本概念</h2><h3 id="2-2-1-数据存储"><a href="#2-2-1-数据存储" class="headerlink" title="2.2.1 数据存储"></a>2.2.1 数据存储</h3><p>列表、数组、元组与字典等。</p>
-<h3 id="2-2-2-变量"><a href="#2-2-2-变量" class="headerlink" title="2.2.2 变量"></a>2.2.2 变量</h3><p>变量赋值基本与MATLAB、R一致，不需声明、定义。<br><strong>大小写</strong>代表不同变量，即Std与std是两个变量。</p>
-<h3 id="2-2-3-运算符和表达式"><a href="#2-2-3-运算符和表达式" class="headerlink" title="2.2.3 运算符和表达式"></a>2.2.3 运算符和表达式</h3><h3 id="2-2-4-函数"><a href="#2-2-4-函数" class="headerlink" title="2.2.4 函数"></a>2.2.4 函数</h3>]]></content>
-      <categories>
-        <category>人工智能</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>人工智能</tag>
+        <tag>Sediment</tag>
       </tags>
   </entry>
   <entry>
@@ -341,6 +258,53 @@
       </tags>
   </entry>
   <entry>
+    <title>人工智能基础课程</title>
+    <url>/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
+<li>人工智能与日常生活：如自动驾驶、机器人等。</li>
+<li>人工智能与机器学习：机器学习是AI的主要实现形式。</li>
+<li>图灵测试：Turning Test：通过实验对象与机器或人交流，判断与其聊天的对象是机器还是人，当误判超过30%时，认为其为人工智能。</li>
+<li>导航算法：$A^*$算法与可视化图法（the visibility graph method）</li>
+<li>卷积网络优化算法——反向传播理论（BP算法），解决了神经网络高效率优化的问题。<span id="more"></span>
+<h2 id="1-2-人工智能及其研究方法"><a href="#1-2-人工智能及其研究方法" class="headerlink" title="1.2 人工智能及其研究方法"></a>1.2 人工智能及其研究方法</h2></li>
+<li>定义：参考Wiki的<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD">人工智能定义</a>。</li>
+<li>优势：大幅度减少众多应用场景的能耗比。</li>
+<li>分类：<br>（1）通用人工智能、强人工智能——有自我意识；<br>（2）认知智能：模仿人。</li>
+<li>派别：<br>（1）符号学派；<br>（2）联结学派：仿人脑神经元（LeNet）；<br>（3）行为学派：机器人——进化学派。</li>
+<li>关键技术：机器学习、自然科学、计算机视觉、自助无人系统、多媒体、智能芯片技术。</li>
+<li>Key point：<br>（1）算力<br>（2）算法<br>（3）算料</li>
+</ol>
+<h2 id="2-1-深度学习在语音处理中的研究方向和应用"><a href="#2-1-深度学习在语音处理中的研究方向和应用" class="headerlink" title="2.1 深度学习在语音处理中的研究方向和应用"></a>2.1 深度学习在语音处理中的研究方向和应用</h2><h3 id="2-1-1-研究方向"><a href="#2-1-1-研究方向" class="headerlink" title="2.1.1 研究方向"></a>2.1.1 研究方向</h3><p>分类、质量评测、增强、指纹识别、检索、唤醒、识别、合成与生成等。</p>
+<h3 id="2-1-2-应用"><a href="#2-1-2-应用" class="headerlink" title="2.1.2 应用"></a>2.1.2 应用</h3><p>音乐测评、Auto speech enhancement（降噪、加强原声）、Text to speech（合成主播）、Wave synthesis（自主音乐制作）。</p>
+<h3 id="2-1-3-常用算法（algorithm）"><a href="#2-1-3-常用算法（algorithm）" class="headerlink" title="2.1.3 常用算法（algorithm）"></a>2.1.3 常用算法（algorithm）</h3><p>Keyword spotting、ASR、speaker recognition等。</p>
+<h2 id="2-2-深度学习在计算机视觉中的研究方向和应用"><a href="#2-2-深度学习在计算机视觉中的研究方向和应用" class="headerlink" title="2.2 深度学习在计算机视觉中的研究方向和应用"></a>2.2 深度学习在计算机视觉中的研究方向和应用</h2><h3 id="2-2-1-研究方向"><a href="#2-2-1-研究方向" class="headerlink" title="2.2.1 研究方向"></a>2.2.1 研究方向</h3><p>图像编辑、重建、生成、超分辨率、增强、去模糊、分类、分割、检测、识别、跟踪、图像质量分析、降噪与修复。</p>
+<h3 id="2-2-2-应用"><a href="#2-2-2-应用" class="headerlink" title="2.2.2 应用"></a>2.2.2 应用</h3><p>Object segmentation（图像分割）、Object detection（目标检测）、目标识别及人脸识别、Object tracking（目标跟踪）、Image denosing、Neural-based style transfer and image translation（基于神经网络的图像风格化及图像翻译）、Image synthesis（生成原始数据集）、Scene reconstruction（基于二维图像重建三维图像——视觉Slame、VR虚拟现实）、face attribute edit等。</p>
+<h2 id="2-3-自然语言处理"><a href="#2-3-自然语言处理" class="headerlink" title="2.3 自然语言处理"></a>2.3 自然语言处理</h2><h3 id="2-3-1-研究方向"><a href="#2-3-1-研究方向" class="headerlink" title="2.3.1 研究方向"></a>2.3.1 研究方向</h3><p>文本分类与聚类、文章标签和摘要提取、文本审核与舆情分析、机器翻译、阅读理解、聊天机器人、搜索引擎等。</p>
+<h3 id="2-3-2-应用"><a href="#2-3-2-应用" class="headerlink" title="2.3.2 应用"></a>2.3.2 应用</h3><p>文本基本任务：预处理、向量化、分词、词性标注、文本结构化、Text classification、Abstract extraction。</p>
+<h2 id="2-4-推荐系统"><a href="#2-4-推荐系统" class="headerlink" title="2.4 推荐系统"></a>2.4 推荐系统</h2><h3 id="2-4-1-推荐系统研究方向与应用"><a href="#2-4-1-推荐系统研究方向与应用" class="headerlink" title="2.4.1 推荐系统研究方向与应用"></a>2.4.1 推荐系统研究方向与应用</h3><p>个性化推荐等(商品、商家、短视频等)；</p>
+<h3 id="2-4-2-重要性"><a href="#2-4-2-重要性" class="headerlink" title="2.4.2 重要性"></a>2.4.2 重要性</h3><p>对于用户：智能化程度低；</p>
+<h3 id="2-4-3-用户画像"><a href="#2-4-3-用户画像" class="headerlink" title="2.4.3 用户画像"></a>2.4.3 用户画像</h3><p>根据用户信息侧写用户，并推荐其需求。</p>
+<h3 id="2-4-4-个性化推荐"><a href="#2-4-4-个性化推荐" class="headerlink" title="2.4.4 个性化推荐"></a>2.4.4 个性化推荐</h3><ol>
+<li>基于内容阅读，购买历史；</li>
+<li>基于订阅、关注、社交关系链；</li>
+<li>相关推荐，以物推物；</li>
+<li>基于各种数据进行排行接单；</li>
+<li>新闻推荐，流量等<br>……<h3 id="第二次作业"><a href="#第二次作业" class="headerlink" title="第二次作业"></a>第二次作业</h3>Python基础入门</li>
+<li>python语言学习:Word+PPT；</li>
+<li>IDE比较：Jupyter notebook,pycharm,vs code；</li>
+</ol>
+<h1 id="2-Python"><a href="#2-Python" class="headerlink" title="2 Python"></a>2 Python</h1><h2 id="2-2-Python基本概念"><a href="#2-2-Python基本概念" class="headerlink" title="2.2 Python基本概念"></a>2.2 Python基本概念</h2><h3 id="2-2-1-数据存储"><a href="#2-2-1-数据存储" class="headerlink" title="2.2.1 数据存储"></a>2.2.1 数据存储</h3><p>列表、数组、元组与字典等。</p>
+<h3 id="2-2-2-变量"><a href="#2-2-2-变量" class="headerlink" title="2.2.2 变量"></a>2.2.2 变量</h3><p>变量赋值基本与MATLAB、R一致，不需声明、定义。<br><strong>大小写</strong>代表不同变量，即Std与std是两个变量。</p>
+<h3 id="2-2-3-运算符和表达式"><a href="#2-2-3-运算符和表达式" class="headerlink" title="2.2.3 运算符和表达式"></a>2.2.3 运算符和表达式</h3><h3 id="2-2-4-函数"><a href="#2-2-4-函数" class="headerlink" title="2.2.4 函数"></a>2.2.4 函数</h3>]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基于Hexo的个人博客操作说明</title>
     <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
     <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
@@ -363,6 +327,42 @@
       <tags>
         <tag>博客</tag>
         <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LTO Lecture 2021/9/23</title>
+    <url>/2021/09/23/%E8%AE%B2%E5%BA%A7/LTO-Lecture-2021-9-23/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>LTO</tag>
+        <tag>Lecture</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>作业</tag>
       </tags>
   </entry>
 </search>

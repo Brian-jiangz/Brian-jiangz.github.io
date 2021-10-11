@@ -2,42 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/28/Physical-Oceanography/</loc>
+    <loc>https://brian-jiangz.github.io/2021/09/06/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</loc>
     
-    <lastmod>2021-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</loc>
-    
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/24/Earth-system/</loc>
+    <loc>https://brian-jiangz.github.io/2021/10/08/Lecture/Ge-Chen-CMST-2021-17/</loc>
+    
+    <lastmod>2021-10-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/2021/09/28/Oceanography/Physical-Oceanography/</loc>
+    
+    <lastmod>2021-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</loc>
+    
+    <lastmod>2021-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/2021/09/24/Oceanography/Earth-system/</loc>
     
     <lastmod>2021-09-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/23/%E8%AE%B2%E5%BA%A7/LTO-Lecture-2021-9-23/</loc>
+    <loc>https://brian-jiangz.github.io/2021/09/16/Resume/Jiang-resume/</loc>
     
     <lastmod>2021-09-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/16/Jiang-resume/</loc>
-    
-    <lastmod>2021-09-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/2021/09/20/Oceanography/</loc>
+    <loc>https://brian-jiangz.github.io/2021/09/20/Oceanography/Oceanography/</loc>
     
     <lastmod>2021-09-23</lastmod>
     
@@ -58,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>https://brian-jiangz.github.io/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</loc>
     
     <lastmod>2021-09-13</lastmod>
     
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</loc>
+    <loc>https://brian-jiangz.github.io/2021/09/02/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</loc>
     
     <lastmod>2021-09-13</lastmod>
     
@@ -123,7 +130,7 @@
 
   <url>
     <loc>https://brian-jiangz.github.io/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,77 +138,84 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/About-me/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/Geoscience/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/Physical-Oceanography/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/Sediment/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <loc>https://brian-jiangz.github.io/tags/Physical-Oceanography/</loc>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2021-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/LTO/</loc>
-    <lastmod>2021-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/Lecture/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2021-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/LTO/</loc>
+    <lastmod>2021-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/Lecture/</loc>
+    <lastmod>2021-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/CMST/</loc>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -210,42 +224,42 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/Geoscience/</loc>
-    <lastmod>2021-10-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/categories/Physical-Oceanography/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/Oceanography/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <loc>https://brian-jiangz.github.io/categories/Physical-Oceanography/</loc>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/Lecture/</loc>
-    <lastmod>2021-10-08</lastmod>
+    <lastmod>2021-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

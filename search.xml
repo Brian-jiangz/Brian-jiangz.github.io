@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>个人简历</title>
-    <url>/2021/09/16/Jiang-resume/</url>
+    <url>/2021/09/16/Resume/Jiang-resume/</url>
     <content><![CDATA[]]></content>
       <tags>
         <tag>About me</tag>
@@ -10,8 +10,8 @@
   </entry>
   <entry>
     <title>地球系统概论</title>
-    <url>/2021/09/24/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#x6e;&#x67;&#120;&#x69;&#x61;&#111;&#64;&#99;&#x75;&#103;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;">&#x6c;&#x6f;&#x6e;&#x67;&#120;&#x69;&#x61;&#111;&#64;&#99;&#x75;&#103;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;</a></p>
+    <url>/2021/09/24/Oceanography/Earth-system/</url>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#111;&#x6e;&#x67;&#x78;&#105;&#97;&#111;&#64;&#x63;&#117;&#103;&#46;&#x65;&#x64;&#x75;&#46;&#x63;&#110;">&#x6c;&#111;&#x6e;&#x67;&#x78;&#105;&#97;&#111;&#64;&#x63;&#117;&#103;&#46;&#x65;&#x64;&#x75;&#46;&#x63;&#110;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -54,7 +54,7 @@
 <li>五个矮行星</li>
 <li>176个天然行星卫星</li>
 <li>659212个小行星（截止到2016）</li>
-<li>3296个彗星<br><img src="/2021/09/24/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
+<li>3296个彗星<br><img src="/2021/09/24/Oceanography/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
 <li>半球状二分性</li>
 <li>大火山省</li>
 </ul>
@@ -68,15 +68,32 @@
       </tags>
   </entry>
   <entry>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Oceanography/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Oceanography</category>
+      </categories>
+      <tags>
+        <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Physical Oceanography</title>
-    <url>/2021/09/28/Physical-Oceanography/</url>
+    <url>/2021/09/28/Oceanography/Physical-Oceanography/</url>
     <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
 <ul>
 <li>天体引潮力</li>
 <li>重力加速度</li>
 <li>压强梯度力</li>
 <li>地转偏向力</li>
-<li>摩擦力<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+<li>摩擦力<span id="more"></span>
+<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
 </ul>
 <h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
 <ul>
@@ -119,24 +136,57 @@
 ]]></content>
   </entry>
   <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
+    <title>基于Hexo的个人博客操作说明</title>
+    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
+<li>首先，在访达中打开Blog文件；<br></li>
+<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
+<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
+<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
+<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
+<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
+<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
+<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
+</ol>
 ]]></content>
       <categories>
-        <category>Oceanography</category>
+        <category>写作</category>
       </categories>
       <tags>
-        <tag>Sediment</tag>
+        <tag>博客</tag>
+        <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>
     <title>人工智能导论</title>
-    <url>/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</url>
+    <url>/2021/09/06/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/</url>
     <content><![CDATA[<h1 id="1-队列搜索"><a href="#1-队列搜索" class="headerlink" title="1 队列搜索"></a>1 队列搜索</h1><h2 id="1-1-深度优先策略（DFC）"><a href="#1-1-深度优先策略（DFC）" class="headerlink" title="1.1 深度优先策略（DFC）"></a>1.1 深度优先策略（DFC）</h2><p>特点：</p>
 <ol>
 <li>在某个分支中运行到底；</li>
@@ -219,7 +269,7 @@
 <li>有向图</li>
 <li>每一个节点表示一个随机变量；</li>
 <li>从x到y表示x是y的父节点；</li>
-<li>每个节点x都有概率分布：<br>$$P(x)=P(x|parent(x))$$<h3 id="5-4-1-计算联合概率"><a href="#5-4-1-计算联合概率" class="headerlink" title="5.4.1 计算联合概率"></a>5.4.1 计算联合概率</h3><img src="/2021/09/06/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/Beyes'NetworkExample1.jpg"><br>$$P(light,no,delayed,miss)=P(light)\cdot P(no|light) \cdot P(delayed|light,no) \cdot P(miss|delayed)$$<h3 id="5-4-2-推理"><a href="#5-4-2-推理" class="headerlink" title="5.4.2 推理"></a>5.4.2 推理</h3>$$P(Appointment|light,no)=\alpha P(Appointment,light,no)=\alpha [P(Appointment,light,no,on time)+P(Appointment,light,no,delayed)]$$<br>其中，$\alpha$归一因子,普适方程为：<blockquote>
+<li>每个节点x都有概率分布：<br>$$P(x)=P(x|parent(x))$$<h3 id="5-4-1-计算联合概率"><a href="#5-4-1-计算联合概率" class="headerlink" title="5.4.1 计算联合概率"></a>5.4.1 计算联合概率</h3><img src="/2021/09/06/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA/Beyes'NetworkExample1.jpg"><br>$$P(light,no,delayed,miss)=P(light)\cdot P(no|light) \cdot P(delayed|light,no) \cdot P(miss|delayed)$$<h3 id="5-4-2-推理"><a href="#5-4-2-推理" class="headerlink" title="5.4.2 推理"></a>5.4.2 推理</h3>$$P(Appointment|light,no)=\alpha P(Appointment,light,no)=\alpha [P(Appointment,light,no,on time)+P(Appointment,light,no,delayed)]$$<br>其中，$\alpha$归一因子,普适方程为：<blockquote>
 <p>$$P(X|e)=\alpha P(X,e)=\alpha \sum_{y} P(X,e,y) $$</p>
 </blockquote>
 </li>
@@ -244,11 +294,38 @@
 <h3 id="7-1-1-爬山算法"><a href="#7-1-1-爬山算法" class="headerlink" title="7.1.1 爬山算法"></a>7.1.1 爬山算法</h3><p>判断邻居，并计算邻居的数值，比较邻居与当前数值。爬山法是计算局部最优解的方法。</p>
 <h3 id="7-1-2-模拟退火"><a href="#7-1-2-模拟退火" class="headerlink" title="7.1.2 模拟退火"></a>7.1.2 模拟退火</h3><p>模拟退火在高温时</p>
 <figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">SIMULATED</span>-<span class="title">ANNEALING</span> <span class="params">(problem, max)</span>:</span></span><br><span class="line">current = initial state of problem</span><br><span class="line"><span class="keyword">for</span> t= <span class="number">1</span> to <span class="built_in">max</span>:</span><br><span class="line">T= TEMPERATURE(t)</span><br><span class="line">neighbor = random neighbor of current</span><br><span class="line">AE = how much better neighbor is than current</span><br><span class="line"><span class="keyword">if</span> AE &gt; <span class="number">0.</span></span><br><span class="line">current = neighbor</span><br><span class="line">with probability P1 set current = neighbor</span><br><span class="line"><span class="keyword">return</span> current</span><br></pre></td></tr></table></figure>
-<p>其中$P1=e^{\vartriangle E/T}$是经验公式。</p>
+<p>其中$P_1=e^{\vartriangle E/T}$是经验公式。</p>
 <blockquote>
 <p>模块化生产、模块化代码编辑</p>
 </blockquote>
-<h3 id="7-3-线性规划"><a href="#7-3-线性规划" class="headerlink" title="7.3 线性规划"></a>7.3 线性规划</h3><h3 id="7-4-约束满足问题"><a href="#7-4-约束满足问题" class="headerlink" title="7.4 约束满足问题"></a>7.4 约束满足问题</h3>]]></content>
+<h3 id="7-3-线性规划"><a href="#7-3-线性规划" class="headerlink" title="7.3 线性规划"></a>7.3 线性规划</h3><h3 id="7-4-约束满足问题-Constraint-Satisfaction-Problem-CSP"><a href="#7-4-约束满足问题-Constraint-Satisfaction-Problem-CSP" class="headerlink" title="7.4 约束满足问题(Constraint Satisfaction Problem,CSP)"></a>7.4 约束满足问题(Constraint Satisfaction Problem,CSP)</h3><p>约束满足问题的解释详见<a href="https://zhuanlan.zhihu.com/p/64368643#:~:text=%E5%BC%A7%E4%B8%80%E8%87%B4%E6%80%A7%E6%98%AF%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%B9%BF%E4%B9%89%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%E6%A6%82%E5%BF%B5%E2%80%94%E2%80%94%20k-%E7%9B%B8%E5%AE%B9%EF%BC%88k-consistency%EF%BC%89%20%E7%9A%84%E5%AD%90%E9%9B%86%EF%BC%8C%E5%AE%83%E5%9C%A8%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%E6%97%B6%E8%83%BD%E4%BF%9D%E8%AF%81%E5%AF%B9%E4%BA%8ECSP%E4%B8%AD%E7%9A%84%E4%BB%BB%E6%84%8Fk%E4%B8%AA%E8%8A%82%E7%82%B9%EF%BC%8C%E5%AF%B9%E4%BA%8E%E5%85%B6%E4%B8%AD%E4%BB%BB%E6%84%8Fk-1%E4%B8%AA%E8%8A%82%E7%82%B9%E7%BB%84%E6%88%90%E7%9A%84%E5%AD%90%E9%9B%86%E7%9A%84%E8%B5%8B%E5%80%BC%E9%83%BD%E8%83%BD%E4%BF%9D%E8%AF%81%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9%E8%83%BD%E8%87%B3%E5%B0%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%BB%A1%E8%B6%B3%E7%9B%B8%E5%AE%B9%E7%9A%84%E8%B5%8B%E5%80%BC%E3%80%82.%20%E8%BF%99%E4%B8%AA%E6%83%B3%E6%B3%95%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%20%E5%BC%BAk-%E7%9B%B8%E5%AE%B9%EF%BC%88strong,k-consistency%EF%BC%89%20%E7%9A%84%E6%80%9D%E6%83%B3%E8%BF%9B%E8%A1%8C%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8B%93%E5%B1%95%E3%80%82%E4%B8%80%E4%B8%AA%E5%85%B7%E6%9C%89%E5%BC%BAk-%E7%9B%B8%E5%AE%B9%E7%9A%84%E5%9B%BE%E6%8B%A5%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E6%80%A7%E8%B4%A8%EF%BC%8C%E4%BB%BB%E6%84%8Fk%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E9%9B%86%E5%90%88%E4%B8%8D%E4%BB%85%E6%98%AFk-%E7%9B%B8%E5%AE%B9%E7%9A%84%EF%BC%8C%E4%B9%9F%E6%98%AFk-1%2C%20k-2%2C%20%E2%80%A6%2C1-%E7%9B%B8%E5%AE%B9%E7%9A%84%E3%80%82.%20%E4%BA%8E%E6%98%AF%EF%BC%8C%E5%9C%A8CSP%E4%B8%AD%E6%9B%B4%E9%AB%98%E9%98%B6%E7%9A%84%E7%9B%B8%E5%AE%B9%E8%AE%A1%E7%AE%97%E7%9A%84%E4%BB%A3%E4%BB%B7%E4%B9%9F%E6%9B%B4%E9%AB%98%E3%80%82.%20%E5%9C%A8%E8%BF%99%E4%B8%80%E5%B9%BF%E4%B9%89%E7%9A%84%E7%9B%B8%E5%AE%B9%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8B%EF%BC%8C%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%87%BA%E5%BC%A7%E7%9B%B8%E5%AE%B9%E7%AD%89%E4%BB%B7%E4%BA%8E2-%E7%9B%B8%E5%AE%B9%E3%80%82.">知乎</a>。<br>数独问题为代表的N-queens问题：</p>
+<ul>
+<li>变量集合 $ {X_1,X_2,……,X_n} $</li>
+<li>每个变量的取值集合 $ {D_1,D_2,……,D_n} $</li>
+<li>限制集合(set of constraint): $C$</li>
+</ul>
+<p>其中，<a href="https://blog.csdn.net/Hackbuteer1/article/details/6657109#:~:text=N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9C%A8%E4%B8%80%E4%B8%AAN%2AN%E7%9A%84%E6%A3%8B%E7%9B%98%E4%B8%8A%E6%94%BE%E7%BD%AEN%E4%B8%AA%E7%9A%87%E5%90%8E%EF%BC%8C%E6%AF%8F%E8%A1%8C%E4%B8%80%E4%B8%AA%E5%B9%B6%E4%BD%BF%E5%85%B6%E4%B8%8D%E8%83%BD%E4%BA%92%E7%9B%B8%E6%94%BB%E5%87%BB%EF%BC%88%E5%90%8C%E4%B8%80%E8%A1%8C%E3%80%81%E5%90%8C%E4%B8%80%E5%88%97%E3%80%81%E5%90%8C%E4%B8%80%E6%96%9C%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%9A%87%E5%90%8E%E9%83%BD%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%94%BB%E5%87%BB%EF%BC%89%E3%80%82,%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E4%B9%9F%E5%8F%AB%E8%AF%95%E6%8E%A2%E6%B3%95%EF%BC%8C%E5%AE%83%E6%98%AF%E4%B8%80%E7%A7%8D%E7%B3%BB%E7%BB%9F%E5%9C%B0%E6%90%9C%E7%B4%A2%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%82%20%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3%E6%98%AF%EF%BC%9A%E4%BB%8E%E4%B8%80%E6%9D%A1%E8%B7%AF%E5%BE%80%E5%89%8D%E8%B5%B0%EF%BC%8C%E8%83%BD%E8%BF%9B%E5%88%99%E8%BF%9B%EF%BC%8C%E4%B8%8D%E8%83%BD%E8%BF%9B%E5%88%99%E9%80%80%E5%9B%9E%E6%9D%A5%EF%BC%8C%E6%8D%A2%E4%B8%80%E6%9D%A1%E8%B7%AF%E5%86%8D%E8%AF%95%E3%80%822011%E5%B9%B48%E6%9C%883%E6%97%A5">N皇后问题</a>的介绍请见网址。</p>
+<h4 id="7-4-1-软、硬条件"><a href="#7-4-1-软、硬条件" class="headerlink" title="7.4.1 软、硬条件"></a>7.4.1 软、硬条件</h4><p>硬限制条件：在正确的解中必须被满足的条件；<br>软限制条件：限制条件阐明哪种解比其他解更受到青睐。</p>
+<h4 id="7-4-2-一、二元限制"><a href="#7-4-2-一、二元限制" class="headerlink" title="7.4.2 一、二元限制"></a>7.4.2 一、二元限制</h4><ol>
+<li>一元限制：</li>
+</ol>
+<ul>
+<li>仅涉及到一个变量的限制</li>
+<li>${A≠Monday}$</li>
+</ul>
+<ol start="2">
+<li>二元限制：</li>
+</ol>
+<ul>
+<li>涉及到两个变量的限制</li>
+<li>${A≠B}$</li>
+</ul>
+<h4 id="7-4-3-回溯搜索（BackTrack）"><a href="#7-4-3-回溯搜索（BackTrack）" class="headerlink" title="7.4.3 回溯搜索（BackTrack）"></a>7.4.3 回溯搜索（BackTrack）</h4><p><a href="https://blog.csdn.net/zhang245754954/article/details/52612784">回溯搜索</a>（与深度优先类似）：当一种可能性的最终状态并非问题的完整解时，回溯寻找根节点，并选择另一条路线来判断其最终状态是否符合要求。</p>
+<ul>
+<li>初始状态：没有变量；</li>
+<li>添加变量：</li>
+</ul>
+]]></content>
       <categories>
         <category>人工智能</category>
       </categories>
@@ -259,7 +336,7 @@
   </entry>
   <entry>
     <title>人工智能基础课程</title>
-    <url>/2021/09/02/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
+    <url>/2021/09/02/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
 <li>人工智能与日常生活：如自动驾驶、机器人等。</li>
 <li>人工智能与机器学习：机器学习是AI的主要实现形式。</li>
@@ -305,33 +382,8 @@
       </tags>
   </entry>
   <entry>
-    <title>基于Hexo的个人博客操作说明</title>
-    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
-<span id="more"></span>
-<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
-<li>首先，在访达中打开Blog文件；<br></li>
-<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
-<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
-<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
-<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
-<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
-<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
-<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
-</ol>
-]]></content>
-      <categories>
-        <category>写作</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>写作</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>LTO Lecture 2021/9/23</title>
-    <url>/2021/09/23/%E8%AE%B2%E5%BA%A7/LTO-Lecture-2021-9-23/</url>
+    <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>Lecture</category>
@@ -342,27 +394,44 @@
       </tags>
   </entry>
   <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+    <title>Ge Chen CMST 2021-17</title>
+    <url>/2021/10/08/Lecture/Ge-Chen-CMST-2021-17/</url>
+    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
+<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
+<p><img src="/2021/10/08/Lecture/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
+<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
+<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
+<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
+<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
+<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
+<blockquote>
+<p>海平面变化是全球气候变化的重要指标</p>
 </blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
-<span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
+<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
+<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
+<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
+<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
+<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
+<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
+<li>全覆盖</li>
+<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
+<li>高精度</li>
+<li>新基准：周期性都有不变点</li>
 </ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
-]]></content>
+<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
+<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
+<li>北极无冰之海的科学预测与战略应对；</li>
+<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
+<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
+<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
+</ol>
+<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
       <categories>
-        <category>人工智能</category>
+        <category>Lecture</category>
       </categories>
       <tags>
-        <tag>人工智能</tag>
-        <tag>作业</tag>
+        <tag>Lecture</tag>
+        <tag>CMST</tag>
       </tags>
   </entry>
 </search>

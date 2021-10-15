@@ -266,22 +266,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Oceanography/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Sediment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>LTO Lecture 2021/9/23</title>
     <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
     <content><![CDATA[]]></content>
@@ -317,154 +301,13 @@
 <li>融合一些物理过程；</li>
 </ul>
 <h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
-<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1><h1 id="2-海水的物理性质"><a href="#2-海水的物理性质" class="headerlink" title="2 海水的物理性质"></a>2 海水的物理性质</h1>]]></content>
       <categories>
         <category>Physical Oceanography</category>
       </categories>
       <tags>
         <tag>笔记</tag>
         <tag>Physical Oceanography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>大气科学概论</title>
-    <url>/2021/10/12/atmospheric%20science/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA/</url>
-    <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><p>40%平时分+60%考核</p>
-<h2 id="1-1-大气科学概述"><a href="#1-1-大气科学概述" class="headerlink" title="1.1 大气科学概述"></a>1.1 大气科学概述</h2><h3 id="1-1-1-大气科学的定义"><a href="#1-1-1-大气科学的定义" class="headerlink" title="1.1.1 大气科学的定义"></a>1.1.1 大气科学的定义</h3><ul>
-<li>研究对象：大气中各种现象、成因及其演化规律等；</li>
-<li>目的：利用规律为人类服务；</li>
-<li>涉及学科：大气物理、化学、动力学；<span id="more"></span>
-<h3 id="1-1-2-大气科学的重要性"><a href="#1-1-2-大气科学的重要性" class="headerlink" title="1.1.2 大气科学的重要性"></a>1.1.2 大气科学的重要性</h3></li>
-<li>生存环境</li>
-<li>经济：农业、渔业等</li>
-<li>对海洋：大风、海浪、风暴潮（台风、飓风）等严重影响航运；</li>
-<li>空中航运：<a href="https://zh.wikipedia.org/wiki/%E8%BF%87%E5%86%B7%E6%B0%B4">过冷却水</a></li>
-</ul>
-<h4 id="1-1-2-1-大气科学在防灾减灾中的作用"><a href="#1-1-2-1-大气科学在防灾减灾中的作用" class="headerlink" title="1.1.2.1 大气科学在防灾减灾中的作用"></a>1.1.2.1 大气科学在防灾减灾中的作用</h4><ul>
-<li>自然灾害：干旱、洪水（35%）、风暴、野火、地震、海啸、火山、崩滑，其中气象灾害占比超过80%，其造成70%的人员伤亡以及75%的经济损失。</li>
-<li>人文灾害</li>
-</ul>
-<p>其中，气象灾害包含天气、气候灾害以及气象次生灾害，天气灾害与气候灾害的区别是其持续时间，即天气灾害特点是局地性、短时间；气候灾害是大范围、长时间。</p>
-<h4 id="1-1-2-2-大气科学在环境保护中的作用"><a href="#1-1-2-2-大气科学在环境保护中的作用" class="headerlink" title="1.1.2.2 大气科学在环境保护中的作用"></a>1.1.2.2 大气科学在环境保护中的作用</h4><ul>
-<li>温室气体</li>
-<li>臭氧层破坏</li>
-<li>北极冰川融化</li>
-</ul>
-<h4 id="1-1-2-3-大气科学在军事上的作用"><a href="#1-1-2-3-大气科学在军事上的作用" class="headerlink" title="1.1.2.3 大气科学在军事上的作用"></a>1.1.2.3 大气科学在军事上的作用</h4><p>略</p>
-<h4 id="1-1-2-4-大气科学在自然科学中的作用"><a href="#1-1-2-4-大气科学在自然科学中的作用" class="headerlink" title="1.1.2.4 大气科学在自然科学中的作用"></a>1.1.2.4 大气科学在自然科学中的作用</h4><h3 id="1-1-3-大气科学的研究对象及其研究任务"><a href="#1-1-3-大气科学的研究对象及其研究任务" class="headerlink" title="1.1.3 大气科学的研究对象及其研究任务"></a>1.1.3 大气科学的研究对象及其研究任务</h3><ol>
-<li><p>研究对象：<br>大气圈及大气与地球表层水圈、冰雪圈、岩石圈和生物圈之间的相互作用；地外行星；</p>
-</li>
-<li><p>研究任务：</p>
-</li>
-</ol>
-<ul>
-<li>观测和研究各类大气现象、大气层与下垫面之间的相互作用及人类活动所产生的气象效应。</li>
-<li>系统地、科学地解释这些现象、作用和效应，阐明它们的发生和演变规律；</li>
-<li>根据所认识的规律分析、诊断和预测过去、现在和未来的天气、气候，为国民经济和人们的日常生活服务；</li>
-<li>从理论和实践上探索和模拟人为天气过程，为人工影响天气和气候提供科学依据。</li>
-</ul>
-<ol start="3">
-<li>研究流程及手段</li>
-</ol>
-<ul>
-<li>观测：实验室或现场观测，<strong>观测</strong>是大气科学研究的<strong>基础</strong>,全球观测系统的出现对大气科学研究十分重要；</li>
-<li>分析和诊断</li>
-<li>数值模拟：与海洋学数值模拟类似</li>
-</ul>
-<h2 id="1-2-大气科学学科体系"><a href="#1-2-大气科学学科体系" class="headerlink" title="1.2 大气科学学科体系"></a>1.2 大气科学学科体系</h2><ol>
-<li>分类：</li>
-</ol>
-<ul>
-<li>气象学：对流层和低平流层，每日、每小时；</li>
-<li>气候学：某一区域长期（一个月甚至数百万年）天气状况；</li>
-<li>高层大气物理学</li>
-</ul>
-<ol start="2">
-<li>学科及其交叉</li>
-</ol>
-<ul>
-<li>大气探测</li>
-<li>气候学：气候特征、形成和演化；</li>
-<li>天气学</li>
-<li>动力气象学</li>
-<li>大气物理学：研究大气物理现象、物理过程及其演变规律的学科。</li>
-<li>大气化学：成分及其转化</li>
-<li>人工影响天气</li>
-<li>应用气象学</li>
-</ul>
-<h2 id="1-3-大气科学的发展历史"><a href="#1-3-大气科学的发展历史" class="headerlink" title="1.3 大气科学的发展历史"></a>1.3 大气科学的发展历史</h2><h3 id="1-3-1-大气科学的发展历史及现状"><a href="#1-3-1-大气科学的发展历史及现状" class="headerlink" title="1.3.1 大气科学的发展历史及现状"></a>1.3.1 大气科学的发展历史及现状</h3><ol>
-<li>两个时代：</li>
-</ol>
-<ul>
-<li>古气象史时代</li>
-<li>近现代气象史时代</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Atmospheric science</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Atmospheric science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地球系统概论</title>
-    <url>/2021/09/24/Oceanography/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#111;&#110;&#x67;&#120;&#x69;&#97;&#111;&#64;&#99;&#x75;&#x67;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;">&#108;&#111;&#110;&#x67;&#120;&#x69;&#97;&#111;&#64;&#99;&#x75;&#x67;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;</a></p>
-<ul>
-<li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
-<li>地球系统科学要跳出地球本身来研究。</li>
-</ul>
-<p><strong>研究对象</strong>：层圈结构、物质组成、相互作用、演变过程、驱动因素；<br><strong>理论基础</strong>：矿物岩石矿床学、地球化学、构造地质学、沉积学、古生物学、第四纪地质学；</p>
-<span id="more"></span>
-<h2 id="1-1-星际空间对地球的影响"><a href="#1-1-星际空间对地球的影响" class="headerlink" title="1.1 星际空间对地球的影响"></a>1.1 星际空间对地球的影响</h2><h3 id="1-1-1-星际空间对地球影响的体现"><a href="#1-1-1-星际空间对地球影响的体现" class="headerlink" title="1.1.1 星际空间对地球影响的体现"></a>1.1.1 星际空间对地球影响的体现</h3><ul>
-<li>太阳系系统内，作为恒星影响地球公转、空间天气、四季、太阳活动周期等；</li>
-<li>月球的影响：地月系统中卫星影响——潮汐；</li>
-<li>宇宙背景的影响：运势、宇宙辐射；</li>
-<li>生命的起源和演化；</li>
-<li>行星的起源和演化；</li>
-<li>太阳系的早期记录不在地球：澳大利亚；</li>
-</ul>
-<p>行星系统与地球系统密切相关——总结</p>
-<ol>
-<li>太阳系起源和演化——行星的起源与比较行星学研究；</li>
-<li>地外生命信息等探寻——天体生物学；</li>
-<li>太阳于小天体活动对地球的灾难性影响；</li>
-<li>地外资源、能源和特别环境的利用；</li>
-<li>太阳系中是否存在适宜人类大量移民的移居天体；</li>
-</ol>
-<h3 id="1-1-2-扩展地球科学研究思路："><a href="#1-1-2-扩展地球科学研究思路：" class="headerlink" title="1.1.2 扩展地球科学研究思路："></a>1.1.2 扩展地球科学研究思路：</h3><blockquote>
-<p>地球——太阳系行星系统——太阳系+宇宙</p>
-</blockquote>
-<h2 id="1-2-行星科学的研究手段与方法"><a href="#1-2-行星科学的研究手段与方法" class="headerlink" title="1.2 行星科学的研究手段与方法"></a>1.2 行星科学的研究手段与方法</h2><h3 id="1-2-1-研究方法"><a href="#1-2-1-研究方法" class="headerlink" title="1.2.1 研究方法"></a>1.2.1 研究方法</h3><ul>
-<li>遥感探测；</li>
-<li>就位探测：on-site data and investigation；</li>
-<li>采样返回；</li>
-<li>模拟实验；</li>
-<li>行星类比。</li>
-</ul>
-<h3 id="1-2-2-国内外研究现状"><a href="#1-2-2-国内外研究现状" class="headerlink" title="1.2.2 国内外研究现状"></a>1.2.2 国内外研究现状</h3><p>国外为主，自阿波罗载人登月后，国外出现行星探测高潮；国内处于行星科学研究上升期。</p>
-<h2 id="1-3-行星地质学"><a href="#1-3-行星地质学" class="headerlink" title="1.3 行星地质学"></a>1.3 行星地质学</h2><p><strong>定义</strong>：研究类地天体表面形貌、物质组成、地质构造及其形成和演化历史的科学。直接服务于着陆选址、探测技术和设备的野外验证等；<br><strong>两大属性</strong>：以地质学为基础、多学科交叉、以依赖深空探测和实验技术的发展。其中，多学科交叉：地貌学、地质学、地球化学、遥感、天体化学、固体地球物理等。<br><strong>特点</strong>：验证方法不同。</p>
-<blockquote>
-<p>top-down rather than bottom-up!</p>
-</blockquote>
-<h2 id="1-4-类地天体主要特征"><a href="#1-4-类地天体主要特征" class="headerlink" title="1.4 类地天体主要特征"></a>1.4 类地天体主要特征</h2><ul>
-<li>八大行星（四个内行星及外行星的卫星）</li>
-<li>五个矮行星</li>
-<li>176个天然行星卫星</li>
-<li>659212个小行星（截止到2016）</li>
-<li>3296个彗星<br><img src="/2021/09/24/Oceanography/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
-<li>半球状二分性</li>
-<li>大火山省</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Geoscience</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
       </tags>
   </entry>
   <entry>
@@ -586,5 +429,210 @@
         <tag>Lecture</tag>
         <tag>CMST</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Oceanography</category>
+      </categories>
+      <tags>
+        <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地球系统概论</title>
+    <url>/2021/09/24/Earth%20science/Oceanography/Earth-system/</url>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#111;&#x6e;&#x67;&#x78;&#x69;&#x61;&#x6f;&#x40;&#x63;&#117;&#103;&#46;&#101;&#x64;&#x75;&#46;&#99;&#x6e;">&#x6c;&#111;&#x6e;&#x67;&#x78;&#x69;&#x61;&#x6f;&#x40;&#x63;&#117;&#103;&#46;&#101;&#x64;&#x75;&#46;&#99;&#x6e;</a></p>
+<ul>
+<li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
+<li>地球系统科学要跳出地球本身来研究。</li>
+</ul>
+<p><strong>研究对象</strong>：层圈结构、物质组成、相互作用、演变过程、驱动因素；<br><strong>理论基础</strong>：矿物岩石矿床学、地球化学、构造地质学、沉积学、古生物学、第四纪地质学；</p>
+<span id="more"></span>
+<h2 id="1-1-星际空间对地球的影响"><a href="#1-1-星际空间对地球的影响" class="headerlink" title="1.1 星际空间对地球的影响"></a>1.1 星际空间对地球的影响</h2><h3 id="1-1-1-星际空间对地球影响的体现"><a href="#1-1-1-星际空间对地球影响的体现" class="headerlink" title="1.1.1 星际空间对地球影响的体现"></a>1.1.1 星际空间对地球影响的体现</h3><ul>
+<li>太阳系系统内，作为恒星影响地球公转、空间天气、四季、太阳活动周期等；</li>
+<li>月球的影响：地月系统中卫星影响——潮汐；</li>
+<li>宇宙背景的影响：运势、宇宙辐射；</li>
+<li>生命的起源和演化；</li>
+<li>行星的起源和演化；</li>
+<li>太阳系的早期记录不在地球：澳大利亚；</li>
+</ul>
+<p>行星系统与地球系统密切相关——总结</p>
+<ol>
+<li>太阳系起源和演化——行星的起源与比较行星学研究；</li>
+<li>地外生命信息等探寻——天体生物学；</li>
+<li>太阳于小天体活动对地球的灾难性影响；</li>
+<li>地外资源、能源和特别环境的利用；</li>
+<li>太阳系中是否存在适宜人类大量移民的移居天体；</li>
+</ol>
+<h3 id="1-1-2-扩展地球科学研究思路："><a href="#1-1-2-扩展地球科学研究思路：" class="headerlink" title="1.1.2 扩展地球科学研究思路："></a>1.1.2 扩展地球科学研究思路：</h3><blockquote>
+<p>地球——太阳系行星系统——太阳系+宇宙</p>
+</blockquote>
+<h2 id="1-2-行星科学的研究手段与方法"><a href="#1-2-行星科学的研究手段与方法" class="headerlink" title="1.2 行星科学的研究手段与方法"></a>1.2 行星科学的研究手段与方法</h2><h3 id="1-2-1-研究方法"><a href="#1-2-1-研究方法" class="headerlink" title="1.2.1 研究方法"></a>1.2.1 研究方法</h3><ul>
+<li>遥感探测；</li>
+<li>就位探测：on-site data and investigation；</li>
+<li>采样返回；</li>
+<li>模拟实验；</li>
+<li>行星类比。</li>
+</ul>
+<h3 id="1-2-2-国内外研究现状"><a href="#1-2-2-国内外研究现状" class="headerlink" title="1.2.2 国内外研究现状"></a>1.2.2 国内外研究现状</h3><p>国外为主，自阿波罗载人登月后，国外出现行星探测高潮；国内处于行星科学研究上升期。</p>
+<h2 id="1-3-行星地质学"><a href="#1-3-行星地质学" class="headerlink" title="1.3 行星地质学"></a>1.3 行星地质学</h2><p><strong>定义</strong>：研究类地天体表面形貌、物质组成、地质构造及其形成和演化历史的科学。直接服务于着陆选址、探测技术和设备的野外验证等；<br><strong>两大属性</strong>：以地质学为基础、多学科交叉、以依赖深空探测和实验技术的发展。其中，多学科交叉：地貌学、地质学、地球化学、遥感、天体化学、固体地球物理等。<br><strong>特点</strong>：验证方法不同。</p>
+<blockquote>
+<p>top-down rather than bottom-up!</p>
+</blockquote>
+<h2 id="1-4-类地天体主要特征"><a href="#1-4-类地天体主要特征" class="headerlink" title="1.4 类地天体主要特征"></a>1.4 类地天体主要特征</h2><ul>
+<li>八大行星（四个内行星及外行星的卫星）</li>
+<li>五个矮行星</li>
+<li>176个天然行星卫星</li>
+<li>659212个小行星（截止到2016）</li>
+<li>3296个彗星<br><img src="/2021/09/24/Earth%20science/Oceanography/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
+<li>半球状二分性</li>
+<li>大火山省</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Geoscience</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Geoscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Physical Oceanography</title>
+    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
+    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
+<ul>
+<li>天体引潮力</li>
+<li>重力加速度</li>
+<li>压强梯度力</li>
+<li>地转偏向力</li>
+<li>摩擦力<span id="more"></span>
+<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+</ul>
+<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
+<ul>
+<li>边界条件是偏微分方程组必须的定解条件；</li>
+<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
+<li>海洋学中边界条件十分重要。</li>
+</ul>
+<p>如何给出边界条件？</p>
+<ul>
+<li>给出七个变量的值；</li>
+<li>融合一些物理过程；</li>
+</ul>
+<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Physical Oceanography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大气科学概论</title>
+    <url>/2021/10/12/Earth%20science/atmospheric%20science/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA/</url>
+    <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><p>40%平时分+60%考核</p>
+<h2 id="1-1-大气科学概述"><a href="#1-1-大气科学概述" class="headerlink" title="1.1 大气科学概述"></a>1.1 大气科学概述</h2><h3 id="1-1-1-大气科学的定义"><a href="#1-1-1-大气科学的定义" class="headerlink" title="1.1.1 大气科学的定义"></a>1.1.1 大气科学的定义</h3><ul>
+<li>研究对象：大气中各种现象、成因及其演化规律等；</li>
+<li>目的：利用规律为人类服务；</li>
+<li>涉及学科：大气物理、化学、动力学；<span id="more"></span>
+<h3 id="1-1-2-大气科学的重要性"><a href="#1-1-2-大气科学的重要性" class="headerlink" title="1.1.2 大气科学的重要性"></a>1.1.2 大气科学的重要性</h3></li>
+<li>生存环境</li>
+<li>经济：农业、渔业等</li>
+<li>对海洋：大风、海浪、风暴潮（台风、飓风）等严重影响航运；</li>
+<li>空中航运：<a href="https://zh.wikipedia.org/wiki/%E8%BF%87%E5%86%B7%E6%B0%B4">过冷却水</a></li>
+</ul>
+<h4 id="1-1-2-1-大气科学在防灾减灾中的作用"><a href="#1-1-2-1-大气科学在防灾减灾中的作用" class="headerlink" title="1.1.2.1 大气科学在防灾减灾中的作用"></a>1.1.2.1 大气科学在防灾减灾中的作用</h4><ul>
+<li>自然灾害：干旱、洪水（35%）、风暴、野火、地震、海啸、火山、崩滑，其中气象灾害占比超过80%，其造成70%的人员伤亡以及75%的经济损失。</li>
+<li>人文灾害</li>
+</ul>
+<p>其中，气象灾害包含天气、气候灾害以及气象次生灾害，天气灾害与气候灾害的区别是其持续时间，即天气灾害特点是局地性、短时间；气候灾害是大范围、长时间。</p>
+<h4 id="1-1-2-2-大气科学在环境保护中的作用"><a href="#1-1-2-2-大气科学在环境保护中的作用" class="headerlink" title="1.1.2.2 大气科学在环境保护中的作用"></a>1.1.2.2 大气科学在环境保护中的作用</h4><ul>
+<li>温室气体</li>
+<li>臭氧层破坏</li>
+<li>北极冰川融化</li>
+</ul>
+<h4 id="1-1-2-3-大气科学在军事上的作用"><a href="#1-1-2-3-大气科学在军事上的作用" class="headerlink" title="1.1.2.3 大气科学在军事上的作用"></a>1.1.2.3 大气科学在军事上的作用</h4><p>略</p>
+<h4 id="1-1-2-4-大气科学在自然科学中的作用"><a href="#1-1-2-4-大气科学在自然科学中的作用" class="headerlink" title="1.1.2.4 大气科学在自然科学中的作用"></a>1.1.2.4 大气科学在自然科学中的作用</h4><h3 id="1-1-3-大气科学的研究对象及其研究任务"><a href="#1-1-3-大气科学的研究对象及其研究任务" class="headerlink" title="1.1.3 大气科学的研究对象及其研究任务"></a>1.1.3 大气科学的研究对象及其研究任务</h3><ol>
+<li><p>研究对象：<br>大气圈及大气与地球表层水圈、冰雪圈、岩石圈和生物圈之间的相互作用；地外行星；</p>
+</li>
+<li><p>研究任务：</p>
+</li>
+</ol>
+<ul>
+<li>观测和研究各类大气现象、大气层与下垫面之间的相互作用及人类活动所产生的气象效应。</li>
+<li>系统地、科学地解释这些现象、作用和效应，阐明它们的发生和演变规律；</li>
+<li>根据所认识的规律分析、诊断和预测过去、现在和未来的天气、气候，为国民经济和人们的日常生活服务；</li>
+<li>从理论和实践上探索和模拟人为天气过程，为人工影响天气和气候提供科学依据。</li>
+</ul>
+<ol start="3">
+<li>研究流程及手段</li>
+</ol>
+<ul>
+<li>观测：实验室或现场观测，<strong>观测</strong>是大气科学研究的<strong>基础</strong>,全球观测系统的出现对大气科学研究十分重要；</li>
+<li>分析和诊断</li>
+<li>数值模拟：与海洋学数值模拟类似</li>
+</ul>
+<h2 id="1-2-大气科学学科体系"><a href="#1-2-大气科学学科体系" class="headerlink" title="1.2 大气科学学科体系"></a>1.2 大气科学学科体系</h2><ol>
+<li>分类：</li>
+</ol>
+<ul>
+<li>气象学：对流层和低平流层，每日、每小时；</li>
+<li>气候学：某一区域长期（一个月甚至数百万年）天气状况；</li>
+<li>高层大气物理学</li>
+</ul>
+<ol start="2">
+<li>学科及其交叉</li>
+</ol>
+<ul>
+<li>大气探测</li>
+<li>气候学：气候特征、形成和演化；</li>
+<li>天气学</li>
+<li>动力气象学</li>
+<li>大气物理学：研究大气物理现象、物理过程及其演变规律的学科。</li>
+<li>大气化学：成分及其转化</li>
+<li>人工影响天气</li>
+<li>应用气象学</li>
+</ul>
+<h2 id="1-3-大气科学的发展历史"><a href="#1-3-大气科学的发展历史" class="headerlink" title="1.3 大气科学的发展历史"></a>1.3 大气科学的发展历史</h2><h3 id="1-3-1-大气科学的发展历史及现状"><a href="#1-3-1-大气科学的发展历史及现状" class="headerlink" title="1.3.1 大气科学的发展历史及现状"></a>1.3.1 大气科学的发展历史及现状</h3><ol>
+<li>两个时代：</li>
+</ol>
+<ul>
+<li>古气象史时代</li>
+<li>近现代气象史时代</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Atmospheric science</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Atmospheric science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地学信息可视化</title>
+    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
+    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
+<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
+<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
+<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
+<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
+<li>点状目标</li>
+<li>线状目标</li>
+<li>面状目标</li>
+<li>体状目标：几何、拓扑、属性；</li>
+</ul>
+]]></content>
   </entry>
 </search>

@@ -20,6 +20,30 @@
 ]]></content>
   </entry>
   <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+        <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基于Hexo的个人博客操作说明</title>
     <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
     <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
@@ -42,50 +66,6 @@
       <tags>
         <tag>博客</tag>
         <tag>写作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LTO Lecture 2021/9/23</title>
-    <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>LTO</tag>
-        <tag>Lecture</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人简历</title>
-    <url>/2021/09/16/Resume/Jiang-resume/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>About me</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
-</blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
-<span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
-</ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
-]]></content>
-      <categories>
-        <category>人工智能</category>
-      </categories>
-      <tags>
-        <tag>作业</tag>
-        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>
@@ -286,6 +266,123 @@
       </tags>
   </entry>
   <entry>
+    <title>个人简历</title>
+    <url>/2021/09/16/Resume/Jiang-resume/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>About me</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LTO Lecture 2021/9/23</title>
+    <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>LTO</tag>
+        <tag>Lecture</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地球系统概论</title>
+    <url>/2021/09/24/Earth%20science/Geosciences/Earth-system/</url>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#x6f;&#x6e;&#103;&#120;&#x69;&#x61;&#111;&#64;&#x63;&#x75;&#x67;&#46;&#x65;&#100;&#117;&#x2e;&#x63;&#x6e;">&#108;&#x6f;&#x6e;&#103;&#120;&#x69;&#x61;&#111;&#64;&#x63;&#x75;&#x67;&#46;&#x65;&#100;&#117;&#x2e;&#x63;&#x6e;</a></p>
+<ul>
+<li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
+<li>地球系统科学要跳出地球本身来研究。</li>
+</ul>
+<p><strong>研究对象</strong>：层圈结构、物质组成、相互作用、演变过程、驱动因素；<br><strong>理论基础</strong>：矿物岩石矿床学、地球化学、构造地质学、沉积学、古生物学、第四纪地质学；</p>
+<span id="more"></span>
+<h2 id="1-1-星际空间对地球的影响"><a href="#1-1-星际空间对地球的影响" class="headerlink" title="1.1 星际空间对地球的影响"></a>1.1 星际空间对地球的影响</h2><h3 id="1-1-1-星际空间对地球影响的体现"><a href="#1-1-1-星际空间对地球影响的体现" class="headerlink" title="1.1.1 星际空间对地球影响的体现"></a>1.1.1 星际空间对地球影响的体现</h3><ul>
+<li>太阳系系统内，作为恒星影响地球公转、空间天气、四季、太阳活动周期等；</li>
+<li>月球的影响：地月系统中卫星影响——潮汐；</li>
+<li>宇宙背景的影响：运势、宇宙辐射；</li>
+<li>生命的起源和演化；</li>
+<li>行星的起源和演化；</li>
+<li>太阳系的早期记录不在地球：澳大利亚；</li>
+</ul>
+<p>行星系统与地球系统密切相关——总结</p>
+<ol>
+<li>太阳系起源和演化——行星的起源与比较行星学研究；</li>
+<li>地外生命信息等探寻——天体生物学；</li>
+<li>太阳于小天体活动对地球的灾难性影响；</li>
+<li>地外资源、能源和特别环境的利用；</li>
+<li>太阳系中是否存在适宜人类大量移民的移居天体；</li>
+</ol>
+<h3 id="1-1-2-扩展地球科学研究思路："><a href="#1-1-2-扩展地球科学研究思路：" class="headerlink" title="1.1.2 扩展地球科学研究思路："></a>1.1.2 扩展地球科学研究思路：</h3><blockquote>
+<p>地球——太阳系行星系统——太阳系+宇宙</p>
+</blockquote>
+<h2 id="1-2-行星科学的研究手段与方法"><a href="#1-2-行星科学的研究手段与方法" class="headerlink" title="1.2 行星科学的研究手段与方法"></a>1.2 行星科学的研究手段与方法</h2><h3 id="1-2-1-研究方法"><a href="#1-2-1-研究方法" class="headerlink" title="1.2.1 研究方法"></a>1.2.1 研究方法</h3><ul>
+<li>遥感探测；</li>
+<li>就位探测：on-site data and investigation；</li>
+<li>采样返回；</li>
+<li>模拟实验；</li>
+<li>行星类比。</li>
+</ul>
+<h3 id="1-2-2-国内外研究现状"><a href="#1-2-2-国内外研究现状" class="headerlink" title="1.2.2 国内外研究现状"></a>1.2.2 国内外研究现状</h3><p>国外为主，自阿波罗载人登月后，国外出现行星探测高潮；国内处于行星科学研究上升期。</p>
+<h2 id="1-3-行星地质学"><a href="#1-3-行星地质学" class="headerlink" title="1.3 行星地质学"></a>1.3 行星地质学</h2><p><strong>定义</strong>：研究类地天体表面形貌、物质组成、地质构造及其形成和演化历史的科学。直接服务于着陆选址、探测技术和设备的野外验证等；<br><strong>两大属性</strong>：以地质学为基础、多学科交叉、以依赖深空探测和实验技术的发展。其中，多学科交叉：地貌学、地质学、地球化学、遥感、天体化学、固体地球物理等。<br><strong>特点</strong>：验证方法不同。</p>
+<blockquote>
+<p>top-down rather than bottom-up!</p>
+</blockquote>
+<h2 id="1-4-类地天体主要特征"><a href="#1-4-类地天体主要特征" class="headerlink" title="1.4 类地天体主要特征"></a>1.4 类地天体主要特征</h2><ul>
+<li>八大行星（四个内行星及外行星的卫星）</li>
+<li>五个矮行星</li>
+<li>176个天然行星卫星</li>
+<li>659212个小行星（截止到2016）</li>
+<li>3296个彗星<br><img src="/2021/09/24/Earth%20science/Geosciences/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
+<li>半球状二分性</li>
+<li>大火山省</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Geoscience</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Geoscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地学信息可视化</title>
+    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
+    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
+<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
+<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
+<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
+<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
+<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
+<li>点状目标</li>
+<li>线状目标</li>
+<li>面状目标</li>
+<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
+</ul>
+<ol>
+<li>任务</li>
+</ol>
+<ul>
+<li>数据简化</li>
+<li>大数据可视化</li>
+<li>视觉效果</li>
+</ul>
+<ol start="2">
+<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
+</ol>
+<ul>
+<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
+<li>GTD</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Geoscience</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Geoscience</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>大气科学概论</title>
     <url>/2021/10/12/Earth%20science/atmospheric%20science/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA/</url>
     <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><p>40%平时分+60%考核</p>
@@ -358,13 +455,143 @@
 <li>古气象史时代</li>
 <li>近现代气象史时代</li>
 </ul>
-]]></content>
+<ol start="2">
+<li>20世纪大气科学理论研究的<strong>十大成就</strong></li>
+</ol>
+<ul>
+<li>20~30年代，三大气压震荡，北大西洋震荡(VAO)，北太平洋震荡 (NPO)，南方涛动(SO)；Walker (1932)</li>
+<li>30年代，大气长波理论一罗斯贝波，Rossby (1939)</li>
+<li>40~50年代，时间平均环流之长波预测，Namias (1953)</li>
+<li>60年代，赤道东西向天克环流, Bjerknes (1969)</li>
+<li>70年代，温室效应 (doubling C0,), Manabe (1975)</li>
+<li>80年代，月平均环流顶测，Miyakoda (1986)</li>
+<li>80~90年代， ENSO (E1 Nino- Southern oscillation) 预测， Cane&amp;Zebiak (1986)</li>
+<li>~90年代，ENSO理论，Suarez (1988)， Battisti (1989)</li>
+<li>90年代，温盐环流， Delworth (1993)</li>
+<li>90年代，季平均环流顶测，Ming(1994)</li>
+</ul>
+<ol start="3">
+<li>大气科学研究的<strong>现状和趋势</strong>：</li>
+</ol>
+<ul>
+<li><strong>中小尺度天气系统</strong>，以灾害性天气为重点，对于资料收集、分析和预报等方面逐渐走向自动化和定量化，从而能比较细致地分析天气系统的结构。</li>
+<li><strong>天气变化</strong>，对全球及国家范围的气候资源进行广泛的调查研究，利用卫星绘制各种气候资源分布图，关注气候变化，估计长期和短期气候变化趋势。气候学突破只从大气的角度研究气候的限制，而扩大到考虑大气圈、水冰雪圈、岩石圈及生物圈所组成的气候系统，向着更广泛、更综合的方向发展。</li>
+<li><strong>大气物理和大气化学</strong>有了进一步的发展，进行人工降水的实验，特别重视城市污染、酸雨、对流层化学、平流层臭氧等方面的研究。</li>
+</ul>
+<ol start="4">
+<li>气象部门的主要工作</li>
+</ol>
+<ul>
+<li>测报</li>
+<li>预报（核心），天气预报的定义</li>
+<li>气象服务</li>
+</ul>
+<h2 id="1-4-气象业务与气象服务"><a href="#1-4-气象业务与气象服务" class="headerlink" title="1.4 气象业务与气象服务"></a>1.4 气象业务与气象服务</h2><h3 id="1-4-1-气象业务"><a href="#1-4-1-气象业务" class="headerlink" title="1.4.1 气象业务"></a>1.4.1 气象业务</h3><ol>
+<li>天气预报的流程</li>
+</ol>
+<ul>
+<li>大气观测、探测</li>
+<li>资料通讯传输</li>
+<li>资料加工处理</li>
+<li>天气分析和预报：天气图、数理统计、数值预报；预报员综合分析判断，最后进行天气会商；</li>
+<li>预报产品制作和发布</li>
+</ul>
+<ol start="2">
+<li>天气雷达：掌握降水动态、提供降水临近预报的有效工具；</li>
+<li>多普勒天气雷达：探测降雨云内和晴天大气中水平风场和铅直气流场等，能够探测冰雹、龙卷、下击暴流等。</li>
+<li>分类：</li>
+</ol>
+<ul>
+<li>地基</li>
+<li>机载</li>
+<li>遥感</li>
+<li>移动监测</li>
+</ul>
+<ol start="5">
+<li>气象卫星分类</li>
+</ol>
+<ul>
+<li>极轨气象卫星（FY-1、3）：分辨率高、溢幅小；</li>
+<li>静止气象卫星（FY-2、4）：分辨率低、精度差，时空连续性好、观测范围大；</li>
+</ul>
+<ol start="6">
+<li>发展方向：</li>
+</ol>
+<ul>
+<li>自动化：气象综合信息分析处理系统（MICAPS），大数据+人机交互；</li>
+</ul>
+<h3 id="1-4-2-气象服务"><a href="#1-4-2-气象服务" class="headerlink" title="1.4.2 气象服务"></a>1.4.2 气象服务</h3><ol>
+<li>分类</li>
+</ol>
+<ul>
+<li>气象信息服务：情报信息（实测信息）、预报信息</li>
+<li>气象工程技术服务</li>
+<li>气象科技综合资讯服务</li>
+</ul>
+<ol start="2">
+<li>根据服务对象分</li>
+</ol>
+<ul>
+<li>决策气象服务</li>
+<li>公众气象服务</li>
+<li>专业气象服务</li>
+</ul>
+<h1 id="2-大气成分与结构"><a href="#2-大气成分与结构" class="headerlink" title="2 大气成分与结构"></a>2 大气成分与结构</h1><h2 id="2-1-行星大气概况"><a href="#2-1-行星大气概况" class="headerlink" title="2.1 行星大气概况"></a>2.1 行星大气概况</h2><h2 id="2-2-大气质量与大气成分"><a href="#2-2-大气质量与大气成分" class="headerlink" title="2.2 大气质量与大气成分"></a>2.2 大气质量与大气成分</h2><h2 id="2-3-大气的铅直结构"><a href="#2-3-大气的铅直结构" class="headerlink" title="2.3 大气的铅直结构"></a>2.3 大气的铅直结构</h2><h2 id="2-4-表征大气的基本要素"><a href="#2-4-表征大气的基本要素" class="headerlink" title="2.4 表征大气的基本要素"></a>2.4 表征大气的基本要素</h2>]]></content>
       <categories>
         <category>Atmospheric science</category>
       </categories>
       <tags>
         <tag>笔记</tag>
         <tag>Atmospheric science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Oceanography</category>
+      </categories>
+      <tags>
+        <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Physical Oceanography</title>
+    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
+    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
+<ul>
+<li>天体引潮力</li>
+<li>重力加速度</li>
+<li>压强梯度力</li>
+<li>地转偏向力</li>
+<li>摩擦力<span id="more"></span>
+<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+</ul>
+<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
+<ul>
+<li>边界条件是偏微分方程组必须的定解条件；</li>
+<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
+<li>海洋学中边界条件十分重要。</li>
+</ul>
+<p>如何给出边界条件？</p>
+<ul>
+<li>给出七个变量的值；</li>
+<li>融合一些物理过程；</li>
+</ul>
+<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Physical Oceanography</tag>
       </tags>
   </entry>
   <entry>
@@ -477,137 +704,6 @@
       <tags>
         <tag>Lecture</tag>
         <tag>CMST</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地球系统概论</title>
-    <url>/2021/09/24/Earth%20science/Geosciences/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#x6f;&#x6e;&#x67;&#120;&#x69;&#x61;&#111;&#x40;&#x63;&#x75;&#103;&#46;&#101;&#x64;&#117;&#x2e;&#99;&#110;">&#108;&#x6f;&#x6e;&#x67;&#120;&#x69;&#x61;&#111;&#x40;&#x63;&#x75;&#103;&#46;&#101;&#x64;&#117;&#x2e;&#99;&#110;</a></p>
-<ul>
-<li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
-<li>地球系统科学要跳出地球本身来研究。</li>
-</ul>
-<p><strong>研究对象</strong>：层圈结构、物质组成、相互作用、演变过程、驱动因素；<br><strong>理论基础</strong>：矿物岩石矿床学、地球化学、构造地质学、沉积学、古生物学、第四纪地质学；</p>
-<span id="more"></span>
-<h2 id="1-1-星际空间对地球的影响"><a href="#1-1-星际空间对地球的影响" class="headerlink" title="1.1 星际空间对地球的影响"></a>1.1 星际空间对地球的影响</h2><h3 id="1-1-1-星际空间对地球影响的体现"><a href="#1-1-1-星际空间对地球影响的体现" class="headerlink" title="1.1.1 星际空间对地球影响的体现"></a>1.1.1 星际空间对地球影响的体现</h3><ul>
-<li>太阳系系统内，作为恒星影响地球公转、空间天气、四季、太阳活动周期等；</li>
-<li>月球的影响：地月系统中卫星影响——潮汐；</li>
-<li>宇宙背景的影响：运势、宇宙辐射；</li>
-<li>生命的起源和演化；</li>
-<li>行星的起源和演化；</li>
-<li>太阳系的早期记录不在地球：澳大利亚；</li>
-</ul>
-<p>行星系统与地球系统密切相关——总结</p>
-<ol>
-<li>太阳系起源和演化——行星的起源与比较行星学研究；</li>
-<li>地外生命信息等探寻——天体生物学；</li>
-<li>太阳于小天体活动对地球的灾难性影响；</li>
-<li>地外资源、能源和特别环境的利用；</li>
-<li>太阳系中是否存在适宜人类大量移民的移居天体；</li>
-</ol>
-<h3 id="1-1-2-扩展地球科学研究思路："><a href="#1-1-2-扩展地球科学研究思路：" class="headerlink" title="1.1.2 扩展地球科学研究思路："></a>1.1.2 扩展地球科学研究思路：</h3><blockquote>
-<p>地球——太阳系行星系统——太阳系+宇宙</p>
-</blockquote>
-<h2 id="1-2-行星科学的研究手段与方法"><a href="#1-2-行星科学的研究手段与方法" class="headerlink" title="1.2 行星科学的研究手段与方法"></a>1.2 行星科学的研究手段与方法</h2><h3 id="1-2-1-研究方法"><a href="#1-2-1-研究方法" class="headerlink" title="1.2.1 研究方法"></a>1.2.1 研究方法</h3><ul>
-<li>遥感探测；</li>
-<li>就位探测：on-site data and investigation；</li>
-<li>采样返回；</li>
-<li>模拟实验；</li>
-<li>行星类比。</li>
-</ul>
-<h3 id="1-2-2-国内外研究现状"><a href="#1-2-2-国内外研究现状" class="headerlink" title="1.2.2 国内外研究现状"></a>1.2.2 国内外研究现状</h3><p>国外为主，自阿波罗载人登月后，国外出现行星探测高潮；国内处于行星科学研究上升期。</p>
-<h2 id="1-3-行星地质学"><a href="#1-3-行星地质学" class="headerlink" title="1.3 行星地质学"></a>1.3 行星地质学</h2><p><strong>定义</strong>：研究类地天体表面形貌、物质组成、地质构造及其形成和演化历史的科学。直接服务于着陆选址、探测技术和设备的野外验证等；<br><strong>两大属性</strong>：以地质学为基础、多学科交叉、以依赖深空探测和实验技术的发展。其中，多学科交叉：地貌学、地质学、地球化学、遥感、天体化学、固体地球物理等。<br><strong>特点</strong>：验证方法不同。</p>
-<blockquote>
-<p>top-down rather than bottom-up!</p>
-</blockquote>
-<h2 id="1-4-类地天体主要特征"><a href="#1-4-类地天体主要特征" class="headerlink" title="1.4 类地天体主要特征"></a>1.4 类地天体主要特征</h2><ul>
-<li>八大行星（四个内行星及外行星的卫星）</li>
-<li>五个矮行星</li>
-<li>176个天然行星卫星</li>
-<li>659212个小行星（截止到2016）</li>
-<li>3296个彗星<br><img src="/2021/09/24/Earth%20science/Geosciences/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
-<li>半球状二分性</li>
-<li>大火山省</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Geoscience</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地学信息可视化</title>
-    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
-    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
-<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
-<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
-<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
-<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
-<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
-<li>点状目标</li>
-<li>线状目标</li>
-<li>面状目标</li>
-<li>体状目标：几何、拓扑、属性；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Geoscience</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Sediment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Physical Oceanography</title>
-    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
-    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
-<ul>
-<li>天体引潮力</li>
-<li>重力加速度</li>
-<li>压强梯度力</li>
-<li>地转偏向力</li>
-<li>摩擦力<span id="more"></span>
-<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
-</ul>
-<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
-<ul>
-<li>边界条件是偏微分方程组必须的定解条件；</li>
-<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
-<li>海洋学中边界条件十分重要。</li>
-</ul>
-<p>如何给出边界条件？</p>
-<ul>
-<li>给出七个变量的值；</li>
-<li>融合一些物理过程；</li>
-</ul>
-<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
-<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
-      <categories>
-        <category>Physical Oceanography</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Physical Oceanography</tag>
       </tags>
   </entry>
 </search>

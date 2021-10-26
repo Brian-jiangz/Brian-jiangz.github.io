@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>个人简历</title>
+    <url>/2021/09/16/Resume/Jiang-resume/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>About me</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/09/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -20,36 +28,15 @@
 ]]></content>
   </entry>
   <entry>
-    <title>基于Hexo的个人博客操作说明</title>
-    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
-<span id="more"></span>
-<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
-<li>首先，在访达中打开Blog文件；<br></li>
-<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
-<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
-<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
-<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
-<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
-<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
-<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
-</ol>
-]]></content>
+    <title>LTO Lecture 2021/9/23</title>
+    <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>写作</category>
+        <category>Lecture</category>
       </categories>
       <tags>
-        <tag>博客</tag>
-        <tag>写作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人简历</title>
-    <url>/2021/09/16/Resume/Jiang-resume/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>About me</tag>
+        <tag>LTO</tag>
+        <tag>Lecture</tag>
       </tags>
   </entry>
   <entry>
@@ -274,21 +261,50 @@
       </tags>
   </entry>
   <entry>
-    <title>LTO Lecture 2021/9/23</title>
-    <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
-    <content><![CDATA[]]></content>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
+</ul>
+]]></content>
       <categories>
-        <category>Lecture</category>
+        <category>Oceanography</category>
       </categories>
       <tags>
-        <tag>LTO</tag>
-        <tag>Lecture</tag>
+        <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基于Hexo的个人博客操作说明</title>
+    <url>/2021/09/04/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="1-基本操作"><a href="#1-基本操作" class="headerlink" title="1 基本操作"></a>1 基本操作</h1><h2 id="1-1-创建新博客"><a href="#1-1-创建新博客" class="headerlink" title="1.1 创建新博客"></a>1.1 创建新博客</h2><p>在 Mac terminal 中输入以下代码建立以“文章名称”为名称的新博客。<br></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo new <span class="string">&#x27;文章名称&#x27;</span></span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+<h2 id="1-2-路径设置"><a href="#1-2-路径设置" class="headerlink" title="1.2 路径设置"></a>1.2 路径设置</h2><ol>
+<li>首先，在访达中打开Blog文件；<br></li>
+<li>同时按住 option+command+c 获得Blog文件的路径；<br></li>
+<li>将terminal的路径设置为Blog文件的路径<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> Blog文件路径</span><br></pre></td></tr></table></figure>
+<h1 id="2-检查与更新"><a href="#2-检查与更新" class="headerlink" title="2 检查与更新"></a>2 检查与更新</h1><h2 id="2-1-检查与本地预览"><a href="#2-1-检查与本地预览" class="headerlink" title="2.1 检查与本地预览"></a>2.1 检查与本地预览</h2>在terminal中依次进行一下操作<br></li>
+<li>清除本地缓存<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo clean</span><br></pre></td></tr></table></figure></li>
+<li>生成静态网页<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo g</span><br></pre></td></tr></table></figure></li>
+<li>本地预览<br><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo serve</span><br></pre></td></tr></table></figure></li>
+<li>上传至Github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">$ npx hexo d</span><br></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+      <categories>
+        <category>写作</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>写作</tag>
       </tags>
   </entry>
   <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth%20science/Geosciences/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#110;&#103;&#x78;&#105;&#x61;&#111;&#64;&#x63;&#x75;&#x67;&#x2e;&#101;&#x64;&#117;&#46;&#99;&#x6e;">&#x6c;&#x6f;&#110;&#103;&#x78;&#105;&#x61;&#111;&#64;&#x63;&#x75;&#x67;&#x2e;&#101;&#x64;&#117;&#46;&#99;&#x6e;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#110;&#103;&#x78;&#105;&#x61;&#111;&#x40;&#99;&#x75;&#x67;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#x6e;">&#x6c;&#x6f;&#110;&#103;&#x78;&#105;&#x61;&#111;&#x40;&#99;&#x75;&#x67;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#x6e;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -342,107 +358,6 @@
       <tags>
         <tag>笔记</tag>
         <tag>Geoscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地学信息可视化</title>
-    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
-    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
-<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
-<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
-<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
-<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
-<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
-<li>点状目标</li>
-<li>线状目标</li>
-<li>面状目标</li>
-<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
-</ul>
-<ol>
-<li>任务</li>
-</ol>
-<ul>
-<li>数据简化</li>
-<li>大数据可视化</li>
-<li>视觉效果</li>
-</ul>
-<ol start="2">
-<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
-</ol>
-<ul>
-<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
-<li>GTD</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Geoscience</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Sediment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Physical Oceanography</title>
-    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
-    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
-<ul>
-<li>天体引潮力</li>
-<li>重力加速度</li>
-<li>压强梯度力</li>
-<li>地转偏向力</li>
-<li>摩擦力<span id="more"></span>
-<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
-</ul>
-<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
-<ul>
-<li>边界条件是偏微分方程组必须的定解条件；</li>
-<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
-<li>海洋学中边界条件十分重要。</li>
-</ul>
-<p>如何给出边界条件？</p>
-<ul>
-<li>给出七个变量的值；</li>
-<li>融合一些物理过程；</li>
-</ul>
-<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
-<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
-      <categories>
-        <category>Physical Oceanography</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Physical Oceanography</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Teacher Gong</title>
-    <url>/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</url>
-    <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><h1 id><a href="#" class="headerlink" title></a></h1><p>按照论文结构来介绍课题：前沿、数据、算法、讨论、结论；<br>先讲科研问题，引发思考。</p>
-<h1 id="李健"><a href="#李健" class="headerlink" title="李健"></a>李健</h1><p>将模型从C搬移到fortran<br>搞清楚数学模型、搞清楚数学原理<br>paraview</p>
-]]></content>
-      <categories>
-        <category>Physical Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Physical Oceanography</tag>
-        <tag>组会</tag>
       </tags>
   </entry>
   <entry>
@@ -776,15 +691,110 @@
 <li>对农业：气溶胶吸收或散射衰减太阳辐射，会导致农业减产</li>
 <li>分类：一次气溶胶（直接产生的气溶胶）、二次气溶胶（化学作用产生的气溶胶）</li>
 <li>去除：干沉降（重力、碰撞沉降）、雨除、冲刷等</li>
+<li>表征方法：AQI Index —— 可表征空气质量指数级别、空气质量指数类别、对健康影响情况。</li>
 </ol>
-<h2 id="2-3-大气的铅直结构"><a href="#2-3-大气的铅直结构" class="headerlink" title="2.3 大气的铅直结构"></a>2.3 大气的铅直结构</h2><p>大气的垂直分层情况</p>
-<h2 id="2-4-表征大气的基本要素"><a href="#2-4-表征大气的基本要素" class="headerlink" title="2.4 表征大气的基本要素"></a>2.4 表征大气的基本要素</h2>]]></content>
+<ul>
+<li>分级：一级～六级，对应“优”至“重度污染”。</li>
+</ul>
+<ol start="11">
+<li>研究历史：</li>
+</ol>
+<ul>
+<li>观测：化学分析或观测光的衰减得到；可以使用遥感及原位观测实现，激光雷达为主动型，其余为被动型</li>
+</ul>
+<h2 id="2-3-大气的铅直结构"><a href="#2-3-大气的铅直结构" class="headerlink" title="2.3 大气的铅直结构"></a>2.3 大气的铅直结构</h2><p>大气的垂直分层情况<br>按照大气温度（常见五种分层）、化学成分（均质层、非均质层）和电磁（中性层、电离层、磁层）；</p>
+<h3 id="2-3-1-按温度分层"><a href="#2-3-1-按温度分层" class="headerlink" title="2.3.1 按温度分层"></a>2.3.1 按温度分层</h3><p>上界：1000～1200km（极光或流星辉迹出现的最大高度）、2500～3000km（大气密度接近星际气体密度的高度）；</p>
+<ol>
+<li><p>温度分层的一句是大气垂直减温率的正负变化；影响大气垂直减温率的因素（低层、高层）；</p>
+</li>
+<li><p>大气的运动包含对流（热力对流（大气受热不均匀）、动力对流（障碍物））、平流（温度平流、湿度平流）及湍流；<strong>风一般指平流</strong></p>
+<h4 id="2-3-1-1-对流层"><a href="#2-3-1-1-对流层" class="headerlink" title="2.3.1.1 对流层"></a>2.3.1.1 对流层</h4><p>对流层：影响对流层温度变化的主要因子是地面（对流、热导、湍流交换、地面长波辐射）；特点是温度对高度降低，大气的垂直混合作用强，气象要素的水平分布不均匀等。</p>
+</li>
+<li><p>划分<br>上层（6km至对流层顶）、中层、下层</p>
+</li>
+<li><p>对流层顶<br>温度递减率减小到$2 \ K/km$</p>
+</li>
+</ol>
+<ul>
+<li>其空间变化及影响因素<br>随纬度、季节变化，与海陆分布有关；<h4 id="2-3-1-2-平流层"><a href="#2-3-1-2-平流层" class="headerlink" title="2.3.1.2 平流层"></a>2.3.1.2 平流层</h4></li>
+</ul>
+<ol>
+<li>主要因子：氧原子、氧分子、臭氧对太阳辐射的吸收；</li>
+<li>特点：</li>
+</ol>
+<ul>
+<li>对流层顶～20KM，温度几乎不随高度变化，也叫同温层；20～50Km，温度随高度升高而增加；</li>
+<li>大气稳定（逆温结构），垂直运动微弱，一般是大尺度的平流运动；</li>
+<li>天气现象少；</li>
+<li>平流层顶至85Km，气温随高度增加迅速下降，可达-83摄氏度；空气具有强烈的垂直运动，故又称之为“高空对流层”。<h4 id="2-3-1-3-热层"><a href="#2-3-1-3-热层" class="headerlink" title="2.3.1.3 热层"></a>2.3.1.3 热层</h4>中间层顶至800Km</li>
+</ul>
+<ol>
+<li>由于太阳辐射的光化学分解和电离反应，气温随高度的增加而增加；</li>
+<li>电离现象明显，对无线电至关重要；</li>
+<li>极光发生在该层；<h3 id="2-3-2-按化学成分分层"><a href="#2-3-2-按化学成分分层" class="headerlink" title="2.3.2 按化学成分分层"></a>2.3.2 按化学成分分层</h3>均匀层、非均匀层。<h3 id="2-3-3-电离性质分类"><a href="#2-3-3-电离性质分类" class="headerlink" title="2.3.3.电离性质分类"></a>2.3.3.电离性质分类</h3>中间层；电离层：60Km至500-1000Km，空气分子和原子电离为正粒子和自由电子；磁层；<h2 id="2-4-表征大气的基本要素"><a href="#2-4-表征大气的基本要素" class="headerlink" title="2.4 表征大气的基本要素"></a>2.4 表征大气的基本要素</h2>定义：表征大气状态和特征的物理量；<br>内容：温度、湿度、气压、风、降雨量、云量、云状、蒸发量、可见度等；<h3 id="2-4-1-气温"><a href="#2-4-1-气温" class="headerlink" title="2.4.1 气温"></a>2.4.1 气温</h3>表征空气冷热程度，反应分子平均动能。</li>
+<li>观测：百叶箱（最高温度（水银）、最低温度（酒精）、水杯、毛发湿度表）</li>
+<li>温标：摄氏度(C)、华氏度(F)、绝对温标(K);<br>$$K= 273.16+C $$</li>
+<li>日变化：最低温出现在日出前；</li>
+</ol>
+]]></content>
       <categories>
         <category>Atmospheric science</category>
       </categories>
       <tags>
         <tag>笔记</tag>
         <tag>Atmospheric science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地学信息可视化</title>
+    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
+    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
+<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
+<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
+<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
+<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
+<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
+<li>点状目标</li>
+<li>线状目标</li>
+<li>面状目标</li>
+<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
+</ul>
+<ol>
+<li>任务</li>
+</ol>
+<ul>
+<li>数据简化</li>
+<li>大数据可视化</li>
+<li>视觉效果</li>
+</ul>
+<ol start="2">
+<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
+</ol>
+<ul>
+<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
+<li>GTD</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Geoscience</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Geoscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Teacher Gong</title>
+    <url>/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</url>
+    <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><h1 id><a href="#" class="headerlink" title></a></h1><p>按照论文结构来介绍课题：前沿、数据、算法、讨论、结论；<br>先讲科研问题，引发思考。</p>
+<h1 id="李健"><a href="#李健" class="headerlink" title="李健"></a>李健</h1><p>将模型从C搬移到fortran<br>搞清楚数学模型、搞清楚数学原理<br>paraview</p>
+]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>Physical Oceanography</tag>
+        <tag>组会</tag>
       </tags>
   </entry>
   <entry>
@@ -856,6 +866,39 @@
       <tags>
         <tag>Lecture</tag>
         <tag>CMST</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Physical Oceanography</title>
+    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
+    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
+<ul>
+<li>天体引潮力</li>
+<li>重力加速度</li>
+<li>压强梯度力</li>
+<li>地转偏向力</li>
+<li>摩擦力<span id="more"></span>
+<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+</ul>
+<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
+<ul>
+<li>边界条件是偏微分方程组必须的定解条件；</li>
+<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
+<li>海洋学中边界条件十分重要。</li>
+</ul>
+<p>如何给出边界条件？</p>
+<ul>
+<li>给出七个变量的值；</li>
+<li>融合一些物理过程；</li>
+</ul>
+<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Physical Oceanography</tag>
       </tags>
   </entry>
   <entry>

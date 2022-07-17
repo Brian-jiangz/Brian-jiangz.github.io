@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brian-jiangz.github.io/2021/09/02/hello-world/</loc>
+    
+    <lastmod>2022-07-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://brian-jiangz.github.io/2021/10/12/Earth%20science/atmospheric%20science/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA/</loc>
     
-    <lastmod>2021-11-12</lastmod>
+    <lastmod>2022-07-17</lastmod>
     
   </url>
   
@@ -142,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/2021/09/02/hello-world/</loc>
-    
-    <lastmod>2021-09-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://brian-jiangz.github.io/baidu_verify_code-awjI1l1KMr.html</loc>
     
     <lastmod>2021-09-04</lastmod>
@@ -214,7 +214,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>https://brian-jiangz.github.io/tags/About-me/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -235,7 +235,28 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/About-me/</loc>
+    <loc>https://brian-jiangz.github.io/tags/Geoscience/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/Atmospheric-science/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/CMST/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -256,13 +277,6 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brian-jiangz.github.io/tags/%E7%BB%84%E4%BC%9A/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
@@ -270,21 +284,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/CMST/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/Geoscience/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/Atmospheric-science/</loc>
+    <loc>https://brian-jiangz.github.io/tags/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,20 +314,6 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/categories/Oceanography/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/categories/Physical-Oceanography/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brian-jiangz.github.io/categories/Geoscience/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
@@ -336,6 +322,20 @@
   
   <url>
     <loc>https://brian-jiangz.github.io/categories/Atmospheric-science/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/categories/Oceanography/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/categories/Physical-Oceanography/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

@@ -1061,4 +1061,41 @@
         <tag>Atmospheric science</tag>
       </tags>
   </entry>
+  <entry>
+    <title>计算流体力学基础</title>
+    <url>/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/</url>
+    <content><![CDATA[<h1 id="考核形式"><a href="#考核形式" class="headerlink" title="考核形式"></a>考核形式</h1><ul>
+<li>课时：32学时；</li>
+<li>学分：2.0</li>
+<li>考核：上课及作业30%；课程论文70%<span id="more"></span>
+<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-什么是计算流体力学"><a href="#1-1-什么是计算流体力学" class="headerlink" title="1.1 什么是计算流体力学"></a>1.1 什么是计算流体力学</h2></li>
+<li>定义：在离散的时间和空间上，得到流场的数值解的技术</li>
+<li>目的：定量描述流动问题</li>
+<li>工具：计算机（PC，工作站（台式计算机），小型或大型集群）</li>
+<li>计算流体力学<br>1）数值计算<br>2）流体力学<br>3）计算机编程</li>
+<li>理论流体力学</li>
+<li>实验流体力学</li>
+<li>计算流体力学（交叉学科）<br>数学：数学分析、数值分析流体力学<br>计算机：编程语言、高性能计算（HPC）<br>专业领域：地球科学（大气与海洋科学）</li>
+</ul>
+<p>bench：当使用耦合系统时，需要bench来做<br>基本原理：</p>
+<h2 id="1-2-为什么研究CFD"><a href="#1-2-为什么研究CFD" class="headerlink" title="1.2 为什么研究CFD"></a>1.2 为什么研究CFD</h2><ul>
+<li>物理试验缺点：成本高、效率低、危险</li>
+<li>CFD作为研究工具：数值试验、设计工具、CFD的应用案例（汽车发动机、工业制造、环境工程等）</li>
+<li>研究CFD与CFD研究：CFD研究是应用CFD黑匣子对其他对象进行研究；</li>
+<li>CFD可以在高时间、空间分辨率上探讨流动、物质输运特性<h2 id="1-3-为什么CFD是有挑战性的"><a href="#1-3-为什么CFD是有挑战性的" class="headerlink" title="1.3 为什么CFD是有挑战性的"></a>1.3 为什么CFD是有挑战性的</h2></li>
+<li>三大难题：激波、涡分离和湍流</li>
+<li>加速器增加了编程环境的复杂性<h2 id="1-4-CFD的发展历史"><a href="#1-4-CFD的发展历史" class="headerlink" title="1.4 CFD的发展历史"></a>1.4 CFD的发展历史</h2><h2 id="1-5-几个CFD的研究案例"><a href="#1-5-几个CFD的研究案例" class="headerlink" title="1.5 几个CFD的研究案例"></a>1.5 几个CFD的研究案例</h2><h3 id="1-5-1-飓风模拟"><a href="#1-5-1-飓风模拟" class="headerlink" title="1.5.1 飓风模拟"></a>1.5.1 飓风模拟</h3>网格分辨率对飓风模拟的影响，三维结构模拟，网格分辨率同时提高2倍，整体提升$2^3$倍<h3 id="1-5-2-天气模拟"><a href="#1-5-2-天气模拟" class="headerlink" title="1.5.2 天气模拟"></a>1.5.2 天气模拟</h3><h3 id="1-5-3-全球海洋模拟的计算机渲染"><a href="#1-5-3-全球海洋模拟的计算机渲染" class="headerlink" title="1.5.3 全球海洋模拟的计算机渲染"></a>1.5.3 全球海洋模拟的计算机渲染</h3><h3 id="1-5-4-海气耦合"><a href="#1-5-4-海气耦合" class="headerlink" title="1.5.4 海气耦合"></a>1.5.4 海气耦合</h3>耦合模式需要耦合器<br>耦合系统示意图<br><img src="/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/ROMS.png" alt="Figure 1"><h2 id="1-6-怎么学习CFD"><a href="#1-6-怎么学习CFD" class="headerlink" title="1.6 怎么学习CFD"></a>1.6 怎么学习CFD</h2></li>
+</ul>
+<ol>
+<li>推荐阅读</li>
+<li>课后练习题</li>
+<li>计算机编程</li>
+<li>代码资源</li>
+<li>由简单到复杂</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>流体力学</tag>
+      </tags>
+  </entry>
 </search>

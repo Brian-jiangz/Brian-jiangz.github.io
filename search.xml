@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Reports</title>
-    <url>/2021/10/29/Reports/</url>
-    <content><![CDATA[<p>- </p>
+    <title>Hello World</title>
+    <url>/2021/09/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-62d390d9dd28585d"></script>
 ]]></content>
   </entry>
   <entry>
@@ -44,6 +59,12 @@
       </tags>
   </entry>
   <entry>
+    <title>Reports</title>
+    <url>/2021/10/29/Reports/</url>
+    <content><![CDATA[<p>- </p>
+]]></content>
+  </entry>
+  <entry>
     <title>个人简历</title>
     <url>/2021/09/16/Resume/Jiang-resume/</url>
     <content><![CDATA[]]></content>
@@ -52,31 +73,81 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-62d390d9dd28585d"></script>
-]]></content>
-  </entry>
-  <entry>
     <title>WorldLaureatesForum4th</title>
     <url>/2021/11/03/Lecture/WorldLaureatesForum4th/</url>
     <content><![CDATA[<p>Population structure resolved using the SNPs showing strong genetic defferentiation</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>人工智能基础课程</title>
+    <url>/2021/09/02/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
+<li>人工智能与日常生活：如自动驾驶、机器人等。</li>
+<li>人工智能与机器学习：机器学习是AI的主要实现形式。</li>
+<li>图灵测试：Turning Test：通过实验对象与机器或人交流，判断与其聊天的对象是机器还是人，当误判超过30%时，认为其为人工智能。</li>
+<li>导航算法：$A^*$算法与可视化图法（the visibility graph method）</li>
+<li>卷积网络优化算法——反向传播理论（BP算法），解决了神经网络高效率优化的问题。<span id="more"></span>
+<h2 id="1-2-人工智能及其研究方法"><a href="#1-2-人工智能及其研究方法" class="headerlink" title="1.2 人工智能及其研究方法"></a>1.2 人工智能及其研究方法</h2></li>
+<li>定义：参考Wiki的<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD">人工智能定义</a>。</li>
+<li>优势：大幅度减少众多应用场景的能耗比。</li>
+<li>分类：<br>（1）通用人工智能、强人工智能——有自我意识；<br>（2）认知智能：模仿人。</li>
+<li>派别：<br>（1）符号学派；<br>（2）联结学派：仿人脑神经元（LeNet）；<br>（3）行为学派：机器人——进化学派。</li>
+<li>关键技术：机器学习、自然科学、计算机视觉、自助无人系统、多媒体、智能芯片技术。</li>
+<li>Key point：<br>（1）算力<br>（2）算法<br>（3）算料</li>
+</ol>
+<h2 id="2-1-深度学习在语音处理中的研究方向和应用"><a href="#2-1-深度学习在语音处理中的研究方向和应用" class="headerlink" title="2.1 深度学习在语音处理中的研究方向和应用"></a>2.1 深度学习在语音处理中的研究方向和应用</h2><h3 id="2-1-1-研究方向"><a href="#2-1-1-研究方向" class="headerlink" title="2.1.1 研究方向"></a>2.1.1 研究方向</h3><p>分类、质量评测、增强、指纹识别、检索、唤醒、识别、合成与生成等。</p>
+<h3 id="2-1-2-应用"><a href="#2-1-2-应用" class="headerlink" title="2.1.2 应用"></a>2.1.2 应用</h3><p>音乐测评、Auto speech enhancement（降噪、加强原声）、Text to speech（合成主播）、Wave synthesis（自主音乐制作）。</p>
+<h3 id="2-1-3-常用算法（algorithm）"><a href="#2-1-3-常用算法（algorithm）" class="headerlink" title="2.1.3 常用算法（algorithm）"></a>2.1.3 常用算法（algorithm）</h3><p>Keyword spotting、ASR、speaker recognition等。</p>
+<h2 id="2-2-深度学习在计算机视觉中的研究方向和应用"><a href="#2-2-深度学习在计算机视觉中的研究方向和应用" class="headerlink" title="2.2 深度学习在计算机视觉中的研究方向和应用"></a>2.2 深度学习在计算机视觉中的研究方向和应用</h2><h3 id="2-2-1-研究方向"><a href="#2-2-1-研究方向" class="headerlink" title="2.2.1 研究方向"></a>2.2.1 研究方向</h3><p>图像编辑、重建、生成、超分辨率、增强、去模糊、分类、分割、检测、识别、跟踪、图像质量分析、降噪与修复。</p>
+<h3 id="2-2-2-应用"><a href="#2-2-2-应用" class="headerlink" title="2.2.2 应用"></a>2.2.2 应用</h3><p>Object segmentation（图像分割）、Object detection（目标检测）、目标识别及人脸识别、Object tracking（目标跟踪）、Image denosing、Neural-based style transfer and image translation（基于神经网络的图像风格化及图像翻译）、Image synthesis（生成原始数据集）、Scene reconstruction（基于二维图像重建三维图像——视觉Slame、VR虚拟现实）、face attribute edit等。</p>
+<h2 id="2-3-自然语言处理"><a href="#2-3-自然语言处理" class="headerlink" title="2.3 自然语言处理"></a>2.3 自然语言处理</h2><h3 id="2-3-1-研究方向"><a href="#2-3-1-研究方向" class="headerlink" title="2.3.1 研究方向"></a>2.3.1 研究方向</h3><p>文本分类与聚类、文章标签和摘要提取、文本审核与舆情分析、机器翻译、阅读理解、聊天机器人、搜索引擎等。</p>
+<h3 id="2-3-2-应用"><a href="#2-3-2-应用" class="headerlink" title="2.3.2 应用"></a>2.3.2 应用</h3><p>文本基本任务：预处理、向量化、分词、词性标注、文本结构化、Text classification、Abstract extraction。</p>
+<h2 id="2-4-推荐系统"><a href="#2-4-推荐系统" class="headerlink" title="2.4 推荐系统"></a>2.4 推荐系统</h2><h3 id="2-4-1-推荐系统研究方向与应用"><a href="#2-4-1-推荐系统研究方向与应用" class="headerlink" title="2.4.1 推荐系统研究方向与应用"></a>2.4.1 推荐系统研究方向与应用</h3><p>个性化推荐等(商品、商家、短视频等)；</p>
+<h3 id="2-4-2-重要性"><a href="#2-4-2-重要性" class="headerlink" title="2.4.2 重要性"></a>2.4.2 重要性</h3><p>对于用户：智能化程度低；</p>
+<h3 id="2-4-3-用户画像"><a href="#2-4-3-用户画像" class="headerlink" title="2.4.3 用户画像"></a>2.4.3 用户画像</h3><p>根据用户信息侧写用户，并推荐其需求。</p>
+<h3 id="2-4-4-个性化推荐"><a href="#2-4-4-个性化推荐" class="headerlink" title="2.4.4 个性化推荐"></a>2.4.4 个性化推荐</h3><ol>
+<li>基于内容阅读，购买历史；</li>
+<li>基于订阅、关注、社交关系链；</li>
+<li>相关推荐，以物推物；</li>
+<li>基于各种数据进行排行接单；</li>
+<li>新闻推荐，流量等<br>……<h3 id="第二次作业"><a href="#第二次作业" class="headerlink" title="第二次作业"></a>第二次作业</h3>Python基础入门</li>
+<li>python语言学习:Word+PPT；</li>
+<li>IDE比较：Jupyter notebook,pycharm,vs code；</li>
+</ol>
+<h1 id="2-Python"><a href="#2-Python" class="headerlink" title="2 Python"></a>2 Python</h1><h2 id="2-2-Python基本概念"><a href="#2-2-Python基本概念" class="headerlink" title="2.2 Python基本概念"></a>2.2 Python基本概念</h2><h3 id="2-2-1-数据存储"><a href="#2-2-1-数据存储" class="headerlink" title="2.2.1 数据存储"></a>2.2.1 数据存储</h3><p>列表、数组、元组与字典等。</p>
+<h3 id="2-2-2-变量"><a href="#2-2-2-变量" class="headerlink" title="2.2.2 变量"></a>2.2.2 变量</h3><p>变量赋值基本与MATLAB、R一致，不需声明、定义。<br><strong>大小写</strong>代表不同变量，即Std与std是两个变量。</p>
+<h3 id="2-2-3-运算符和表达式"><a href="#2-2-3-运算符和表达式" class="headerlink" title="2.2.3 运算符和表达式"></a>2.2.3 运算符和表达式</h3><h3 id="2-2-4-函数"><a href="#2-2-4-函数" class="headerlink" title="2.2.4 函数"></a>2.2.4 函数</h3>]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>作业</tag>
+      </tags>
   </entry>
   <entry>
     <title>人工智能导论</title>
@@ -230,56 +301,47 @@
       </tags>
   </entry>
   <entry>
-    <title>人工智能基础课程</title>
-    <url>/2021/09/02/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-人工智能发展史"><a href="#1-1-人工智能发展史" class="headerlink" title="1.1 人工智能发展史"></a>1.1 人工智能发展史</h2><ol>
-<li>人工智能与日常生活：如自动驾驶、机器人等。</li>
-<li>人工智能与机器学习：机器学习是AI的主要实现形式。</li>
-<li>图灵测试：Turning Test：通过实验对象与机器或人交流，判断与其聊天的对象是机器还是人，当误判超过30%时，认为其为人工智能。</li>
-<li>导航算法：$A^*$算法与可视化图法（the visibility graph method）</li>
-<li>卷积网络优化算法——反向传播理论（BP算法），解决了神经网络高效率优化的问题。<span id="more"></span>
-<h2 id="1-2-人工智能及其研究方法"><a href="#1-2-人工智能及其研究方法" class="headerlink" title="1.2 人工智能及其研究方法"></a>1.2 人工智能及其研究方法</h2></li>
-<li>定义：参考Wiki的<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD">人工智能定义</a>。</li>
-<li>优势：大幅度减少众多应用场景的能耗比。</li>
-<li>分类：<br>（1）通用人工智能、强人工智能——有自我意识；<br>（2）认知智能：模仿人。</li>
-<li>派别：<br>（1）符号学派；<br>（2）联结学派：仿人脑神经元（LeNet）；<br>（3）行为学派：机器人——进化学派。</li>
-<li>关键技术：机器学习、自然科学、计算机视觉、自助无人系统、多媒体、智能芯片技术。</li>
-<li>Key point：<br>（1）算力<br>（2）算法<br>（3）算料</li>
+    <title>地学信息可视化</title>
+    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
+    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
+<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
+<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
+<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
+<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
+<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
+<li>点状目标</li>
+<li>线状目标</li>
+<li>面状目标</li>
+<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
+</ul>
+<ol>
+<li>任务</li>
 </ol>
-<h2 id="2-1-深度学习在语音处理中的研究方向和应用"><a href="#2-1-深度学习在语音处理中的研究方向和应用" class="headerlink" title="2.1 深度学习在语音处理中的研究方向和应用"></a>2.1 深度学习在语音处理中的研究方向和应用</h2><h3 id="2-1-1-研究方向"><a href="#2-1-1-研究方向" class="headerlink" title="2.1.1 研究方向"></a>2.1.1 研究方向</h3><p>分类、质量评测、增强、指纹识别、检索、唤醒、识别、合成与生成等。</p>
-<h3 id="2-1-2-应用"><a href="#2-1-2-应用" class="headerlink" title="2.1.2 应用"></a>2.1.2 应用</h3><p>音乐测评、Auto speech enhancement（降噪、加强原声）、Text to speech（合成主播）、Wave synthesis（自主音乐制作）。</p>
-<h3 id="2-1-3-常用算法（algorithm）"><a href="#2-1-3-常用算法（algorithm）" class="headerlink" title="2.1.3 常用算法（algorithm）"></a>2.1.3 常用算法（algorithm）</h3><p>Keyword spotting、ASR、speaker recognition等。</p>
-<h2 id="2-2-深度学习在计算机视觉中的研究方向和应用"><a href="#2-2-深度学习在计算机视觉中的研究方向和应用" class="headerlink" title="2.2 深度学习在计算机视觉中的研究方向和应用"></a>2.2 深度学习在计算机视觉中的研究方向和应用</h2><h3 id="2-2-1-研究方向"><a href="#2-2-1-研究方向" class="headerlink" title="2.2.1 研究方向"></a>2.2.1 研究方向</h3><p>图像编辑、重建、生成、超分辨率、增强、去模糊、分类、分割、检测、识别、跟踪、图像质量分析、降噪与修复。</p>
-<h3 id="2-2-2-应用"><a href="#2-2-2-应用" class="headerlink" title="2.2.2 应用"></a>2.2.2 应用</h3><p>Object segmentation（图像分割）、Object detection（目标检测）、目标识别及人脸识别、Object tracking（目标跟踪）、Image denosing、Neural-based style transfer and image translation（基于神经网络的图像风格化及图像翻译）、Image synthesis（生成原始数据集）、Scene reconstruction（基于二维图像重建三维图像——视觉Slame、VR虚拟现实）、face attribute edit等。</p>
-<h2 id="2-3-自然语言处理"><a href="#2-3-自然语言处理" class="headerlink" title="2.3 自然语言处理"></a>2.3 自然语言处理</h2><h3 id="2-3-1-研究方向"><a href="#2-3-1-研究方向" class="headerlink" title="2.3.1 研究方向"></a>2.3.1 研究方向</h3><p>文本分类与聚类、文章标签和摘要提取、文本审核与舆情分析、机器翻译、阅读理解、聊天机器人、搜索引擎等。</p>
-<h3 id="2-3-2-应用"><a href="#2-3-2-应用" class="headerlink" title="2.3.2 应用"></a>2.3.2 应用</h3><p>文本基本任务：预处理、向量化、分词、词性标注、文本结构化、Text classification、Abstract extraction。</p>
-<h2 id="2-4-推荐系统"><a href="#2-4-推荐系统" class="headerlink" title="2.4 推荐系统"></a>2.4 推荐系统</h2><h3 id="2-4-1-推荐系统研究方向与应用"><a href="#2-4-1-推荐系统研究方向与应用" class="headerlink" title="2.4.1 推荐系统研究方向与应用"></a>2.4.1 推荐系统研究方向与应用</h3><p>个性化推荐等(商品、商家、短视频等)；</p>
-<h3 id="2-4-2-重要性"><a href="#2-4-2-重要性" class="headerlink" title="2.4.2 重要性"></a>2.4.2 重要性</h3><p>对于用户：智能化程度低；</p>
-<h3 id="2-4-3-用户画像"><a href="#2-4-3-用户画像" class="headerlink" title="2.4.3 用户画像"></a>2.4.3 用户画像</h3><p>根据用户信息侧写用户，并推荐其需求。</p>
-<h3 id="2-4-4-个性化推荐"><a href="#2-4-4-个性化推荐" class="headerlink" title="2.4.4 个性化推荐"></a>2.4.4 个性化推荐</h3><ol>
-<li>基于内容阅读，购买历史；</li>
-<li>基于订阅、关注、社交关系链；</li>
-<li>相关推荐，以物推物；</li>
-<li>基于各种数据进行排行接单；</li>
-<li>新闻推荐，流量等<br>……<h3 id="第二次作业"><a href="#第二次作业" class="headerlink" title="第二次作业"></a>第二次作业</h3>Python基础入门</li>
-<li>python语言学习:Word+PPT；</li>
-<li>IDE比较：Jupyter notebook,pycharm,vs code；</li>
+<ul>
+<li>数据简化</li>
+<li>大数据可视化</li>
+<li>视觉效果</li>
+</ul>
+<ol start="2">
+<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
 </ol>
-<h1 id="2-Python"><a href="#2-Python" class="headerlink" title="2 Python"></a>2 Python</h1><h2 id="2-2-Python基本概念"><a href="#2-2-Python基本概念" class="headerlink" title="2.2 Python基本概念"></a>2.2 Python基本概念</h2><h3 id="2-2-1-数据存储"><a href="#2-2-1-数据存储" class="headerlink" title="2.2.1 数据存储"></a>2.2.1 数据存储</h3><p>列表、数组、元组与字典等。</p>
-<h3 id="2-2-2-变量"><a href="#2-2-2-变量" class="headerlink" title="2.2.2 变量"></a>2.2.2 变量</h3><p>变量赋值基本与MATLAB、R一致，不需声明、定义。<br><strong>大小写</strong>代表不同变量，即Std与std是两个变量。</p>
-<h3 id="2-2-3-运算符和表达式"><a href="#2-2-3-运算符和表达式" class="headerlink" title="2.2.3 运算符和表达式"></a>2.2.3 运算符和表达式</h3><h3 id="2-2-4-函数"><a href="#2-2-4-函数" class="headerlink" title="2.2.4 函数"></a>2.2.4 函数</h3>]]></content>
+<ul>
+<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
+<li>GTD</li>
+</ul>
+]]></content>
       <categories>
-        <category>人工智能</category>
+        <category>Geoscience</category>
       </categories>
       <tags>
-        <tag>人工智能</tag>
         <tag>笔记</tag>
+        <tag>Geoscience</tag>
       </tags>
   </entry>
   <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth%20science/Geosciences/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#111;&#110;&#x67;&#120;&#x69;&#97;&#111;&#x40;&#99;&#117;&#x67;&#46;&#101;&#x64;&#117;&#x2e;&#99;&#110;">&#108;&#111;&#110;&#x67;&#120;&#x69;&#97;&#111;&#x40;&#99;&#117;&#x67;&#46;&#101;&#x64;&#117;&#x2e;&#99;&#110;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#110;&#x67;&#x78;&#105;&#97;&#x6f;&#64;&#x63;&#x75;&#x67;&#x2e;&#101;&#x64;&#x75;&#x2e;&#99;&#110;">&#x6c;&#x6f;&#110;&#x67;&#x78;&#105;&#97;&#x6f;&#64;&#x63;&#x75;&#x67;&#x2e;&#101;&#x64;&#x75;&#x2e;&#99;&#110;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -336,65 +398,70 @@
       </tags>
   </entry>
   <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
-</blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
-<span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
-</ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
+    <title>Teacher Gong</title>
+    <url>/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</url>
+    <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><h1 id><a href="#" class="headerlink" title></a></h1><p>按照论文结构来介绍课题：前沿、数据、算法、讨论、结论；<br>先讲科研问题，引发思考。</p>
+<h1 id="李健"><a href="#李健" class="headerlink" title="李健"></a>李健</h1><p>将模型从C搬移到fortran<br>搞清楚数学模型、搞清楚数学原理<br>paraview</p>
 ]]></content>
       <categories>
-        <category>人工智能</category>
+        <category>Physical Oceanography</category>
       </categories>
       <tags>
-        <tag>人工智能</tag>
-        <tag>作业</tag>
+        <tag>Physical Oceanography</tag>
+        <tag>组会</tag>
       </tags>
   </entry>
   <entry>
-    <title>地学信息可视化</title>
-    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
-    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
-<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
-<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
-<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
-<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
-<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
-<li>点状目标</li>
-<li>线状目标</li>
-<li>面状目标</li>
-<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
-</ul>
-<ol>
-<li>任务</li>
-</ol>
-<ul>
-<li>数据简化</li>
-<li>大数据可视化</li>
-<li>视觉效果</li>
-</ul>
-<ol start="2">
-<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
-</ol>
-<ul>
-<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
-<li>GTD</li>
+    <title>《海洋学导论》</title>
+    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
+    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
+<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
+<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
+<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
 </ul>
 ]]></content>
       <categories>
-        <category>Geoscience</category>
+        <category>Oceanography</category>
       </categories>
       <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
+        <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算流体力学基础</title>
+    <url>/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/</url>
+    <content><![CDATA[<h1 id="考核形式"><a href="#考核形式" class="headerlink" title="考核形式"></a>考核形式</h1><ul>
+<li>课时：32学时；</li>
+<li>学分：2.0</li>
+<li>考核：上课及作业30%；课程论文70%<span id="more"></span>
+<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-什么是计算流体力学"><a href="#1-1-什么是计算流体力学" class="headerlink" title="1.1 什么是计算流体力学"></a>1.1 什么是计算流体力学</h2></li>
+<li>定义：在离散的时间和空间上，得到流场的数值解的技术</li>
+<li>目的：定量描述流动问题</li>
+<li>工具：计算机（PC，工作站（台式计算机），小型或大型集群）</li>
+<li>计算流体力学<br>1）数值计算<br>2）流体力学<br>3）计算机编程</li>
+<li>理论流体力学</li>
+<li>实验流体力学</li>
+<li>计算流体力学（交叉学科）<br>数学：数学分析、数值分析流体力学<br>计算机：编程语言、高性能计算（HPC）<br>专业领域：地球科学（大气与海洋科学）</li>
+</ul>
+<p>bench：当使用耦合系统时，需要bench来做<br>基本原理：</p>
+<h2 id="1-2-为什么研究CFD"><a href="#1-2-为什么研究CFD" class="headerlink" title="1.2 为什么研究CFD"></a>1.2 为什么研究CFD</h2><ul>
+<li>物理试验缺点：成本高、效率低、危险</li>
+<li>CFD作为研究工具：数值试验、设计工具、CFD的应用案例（汽车发动机、工业制造、环境工程等）</li>
+<li>研究CFD与CFD研究：CFD研究是应用CFD黑匣子对其他对象进行研究；</li>
+<li>CFD可以在高时间、空间分辨率上探讨流动、物质输运特性<h2 id="1-3-为什么CFD是有挑战性的"><a href="#1-3-为什么CFD是有挑战性的" class="headerlink" title="1.3 为什么CFD是有挑战性的"></a>1.3 为什么CFD是有挑战性的</h2></li>
+<li>三大难题：激波、涡分离和湍流</li>
+<li>加速器增加了编程环境的复杂性<h2 id="1-4-CFD的发展历史"><a href="#1-4-CFD的发展历史" class="headerlink" title="1.4 CFD的发展历史"></a>1.4 CFD的发展历史</h2><h2 id="1-5-几个CFD的研究案例"><a href="#1-5-几个CFD的研究案例" class="headerlink" title="1.5 几个CFD的研究案例"></a>1.5 几个CFD的研究案例</h2><h3 id="1-5-1-飓风模拟"><a href="#1-5-1-飓风模拟" class="headerlink" title="1.5.1 飓风模拟"></a>1.5.1 飓风模拟</h3>网格分辨率对飓风模拟的影响，三维结构模拟，网格分辨率同时提高2倍，整体提升$2^3$倍<h3 id="1-5-2-天气模拟"><a href="#1-5-2-天气模拟" class="headerlink" title="1.5.2 天气模拟"></a>1.5.2 天气模拟</h3><h3 id="1-5-3-全球海洋模拟的计算机渲染"><a href="#1-5-3-全球海洋模拟的计算机渲染" class="headerlink" title="1.5.3 全球海洋模拟的计算机渲染"></a>1.5.3 全球海洋模拟的计算机渲染</h3><h3 id="1-5-4-海气耦合"><a href="#1-5-4-海气耦合" class="headerlink" title="1.5.4 海气耦合"></a>1.5.4 海气耦合</h3>耦合模式需要耦合器<br>耦合系统示意图<br><img src="/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/ROMS.png" alt="Figure 1"><h2 id="1-6-怎么学习CFD"><a href="#1-6-怎么学习CFD" class="headerlink" title="1.6 怎么学习CFD"></a>1.6 怎么学习CFD</h2></li>
+</ul>
+<ol>
+<li>推荐阅读</li>
+<li>课后练习题</li>
+<li>计算机编程</li>
+<li>代码资源</li>
+<li>由简单到复杂</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>流体力学</tag>
       </tags>
   </entry>
   <entry>
@@ -889,47 +956,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Ge Chen CMST 2021-17</title>
-    <url>/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</url>
-    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
-<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
-<p><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
-<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
-<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
-<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
-<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
-<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
-<blockquote>
-<p>海平面变化是全球气候变化的重要指标</p>
-</blockquote>
-<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
-<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
-<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
-<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
-<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
-<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
-<li>全覆盖</li>
-<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
-<li>高精度</li>
-<li>新基准：周期性都有不变点</li>
-</ol>
-<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
-<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
-<li>北极无冰之海的科学预测与战略应对；</li>
-<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
-<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
-<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
-</ol>
-<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>Lecture</tag>
-        <tag>CMST</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>XingXing Wang CMST 2021-69</title>
     <url>/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/</url>
     <content><![CDATA[<p>“海洋之光”学术论坛（第69期）<br>报告学者：王星星<br>报告时间：2021年10月14日星期四<br>报告地点：东区综合楼A栋1805</p>
@@ -1001,70 +1027,44 @@
       </tags>
   </entry>
   <entry>
-    <title>《海洋学导论》</title>
-    <url>/2021/09/20/Earth%20science/Oceanography/Oceanography/</url>
-    <content><![CDATA[<h1 id="4-海洋沉积物"><a href="#4-海洋沉积物" class="headerlink" title="4 海洋沉积物"></a>4 海洋沉积物</h1><h2 id="4-1-绪论"><a href="#4-1-绪论" class="headerlink" title="4.1 绪论"></a>4.1 绪论</h2><ul>
-<li>海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。</li>
-<li>沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积<br>其中，水生沉积指<strong>化学反应</strong>引起的海水中溶解物质的沉淀；来自<strong>河流、火山喷发、滑坡、侵蚀的沉积</strong>叫做造岩沉积；<span id="more"></span>
-<h2 id="4-2-海洋沉积物的获取"><a href="#4-2-海洋沉积物的获取" class="headerlink" title="4.2 海洋沉积物的获取"></a>4.2 海洋沉积物的获取</h2><h3 id="4-2-1-海洋沉积物揭示的环境条件"><a href="#4-2-1-海洋沉积物揭示的环境条件" class="headerlink" title="4.2.1 海洋沉积物揭示的环境条件"></a>4.2.1 海洋沉积物揭示的环境条件</h3>通过沉积物柱状样品，可分析出过去的环境条件，例如，海洋温度、营养供给、海洋生物丰富性、大气运动状况、洋流形式、火山喷发、重要灭绝事件、地球气候变化、构造板块运动状态。<h3 id="4-2-2-古海洋学"><a href="#4-2-2-古海洋学" class="headerlink" title="4.2.2 古海洋学"></a>4.2.2 古海洋学</h3>古海洋学研究海洋、大气和陆地之间的交互作用是如何改变海洋化学、洋流、生物、气候的，主要根据洋底沉积物了解地球过去的变化；</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Sediment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Teacher Gong</title>
-    <url>/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</url>
-    <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><h1 id><a href="#" class="headerlink" title></a></h1><p>按照论文结构来介绍课题：前沿、数据、算法、讨论、结论；<br>先讲科研问题，引发思考。</p>
-<h1 id="李健"><a href="#李健" class="headerlink" title="李健"></a>李健</h1><p>将模型从C搬移到fortran<br>搞清楚数学模型、搞清楚数学原理<br>paraview</p>
-]]></content>
-      <categories>
-        <category>Physical Oceanography</category>
-      </categories>
-      <tags>
-        <tag>Physical Oceanography</tag>
-        <tag>组会</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计算流体力学基础</title>
-    <url>/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/</url>
-    <content><![CDATA[<h1 id="考核形式"><a href="#考核形式" class="headerlink" title="考核形式"></a>考核形式</h1><ul>
-<li>课时：32学时；</li>
-<li>学分：2.0</li>
-<li>考核：上课及作业30%；课程论文70%<span id="more"></span>
-<h1 id="1-绪论"><a href="#1-绪论" class="headerlink" title="1 绪论"></a>1 绪论</h1><h2 id="1-1-什么是计算流体力学"><a href="#1-1-什么是计算流体力学" class="headerlink" title="1.1 什么是计算流体力学"></a>1.1 什么是计算流体力学</h2></li>
-<li>定义：在离散的时间和空间上，得到流场的数值解的技术</li>
-<li>目的：定量描述流动问题</li>
-<li>工具：计算机（PC，工作站（台式计算机），小型或大型集群）</li>
-<li>计算流体力学<br>1）数值计算<br>2）流体力学<br>3）计算机编程</li>
-<li>理论流体力学</li>
-<li>实验流体力学</li>
-<li>计算流体力学（交叉学科）<br>数学：数学分析、数值分析流体力学<br>计算机：编程语言、高性能计算（HPC）<br>专业领域：地球科学（大气与海洋科学）</li>
-</ul>
-<p>bench：当使用耦合系统时，需要bench来做<br>基本原理：</p>
-<h2 id="1-2-为什么研究CFD"><a href="#1-2-为什么研究CFD" class="headerlink" title="1.2 为什么研究CFD"></a>1.2 为什么研究CFD</h2><ul>
-<li>物理试验缺点：成本高、效率低、危险</li>
-<li>CFD作为研究工具：数值试验、设计工具、CFD的应用案例（汽车发动机、工业制造、环境工程等）</li>
-<li>研究CFD与CFD研究：CFD研究是应用CFD黑匣子对其他对象进行研究；</li>
-<li>CFD可以在高时间、空间分辨率上探讨流动、物质输运特性<h2 id="1-3-为什么CFD是有挑战性的"><a href="#1-3-为什么CFD是有挑战性的" class="headerlink" title="1.3 为什么CFD是有挑战性的"></a>1.3 为什么CFD是有挑战性的</h2></li>
-<li>三大难题：激波、涡分离和湍流</li>
-<li>加速器增加了编程环境的复杂性<h2 id="1-4-CFD的发展历史"><a href="#1-4-CFD的发展历史" class="headerlink" title="1.4 CFD的发展历史"></a>1.4 CFD的发展历史</h2><h2 id="1-5-几个CFD的研究案例"><a href="#1-5-几个CFD的研究案例" class="headerlink" title="1.5 几个CFD的研究案例"></a>1.5 几个CFD的研究案例</h2><h3 id="1-5-1-飓风模拟"><a href="#1-5-1-飓风模拟" class="headerlink" title="1.5.1 飓风模拟"></a>1.5.1 飓风模拟</h3>网格分辨率对飓风模拟的影响，三维结构模拟，网格分辨率同时提高2倍，整体提升$2^3$倍<h3 id="1-5-2-天气模拟"><a href="#1-5-2-天气模拟" class="headerlink" title="1.5.2 天气模拟"></a>1.5.2 天气模拟</h3><h3 id="1-5-3-全球海洋模拟的计算机渲染"><a href="#1-5-3-全球海洋模拟的计算机渲染" class="headerlink" title="1.5.3 全球海洋模拟的计算机渲染"></a>1.5.3 全球海洋模拟的计算机渲染</h3><h3 id="1-5-4-海气耦合"><a href="#1-5-4-海气耦合" class="headerlink" title="1.5.4 海气耦合"></a>1.5.4 海气耦合</h3>耦合模式需要耦合器<br>耦合系统示意图<br><img src="/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/ROMS.png" alt="Figure 1"><h2 id="1-6-怎么学习CFD"><a href="#1-6-怎么学习CFD" class="headerlink" title="1.6 怎么学习CFD"></a>1.6 怎么学习CFD</h2></li>
-</ul>
-<ol>
-<li>推荐阅读</li>
-<li>课后练习题</li>
-<li>计算机编程</li>
-<li>代码资源</li>
-<li>由简单到复杂</li>
+    <title>Ge Chen CMST 2021-17</title>
+    <url>/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</url>
+    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
+<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
+<p><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
+<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
+<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
+<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
+<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
+<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
+<blockquote>
+<p>海平面变化是全球气候变化的重要指标</p>
+</blockquote>
+<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
+<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
+<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
+<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
+<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
+<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
+<li>全覆盖</li>
+<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
+<li>高精度</li>
+<li>新基准：周期性都有不变点</li>
 </ol>
-]]></content>
+<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
+<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
+<li>北极无冰之海的科学预测与战略应对；</li>
+<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
+<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
+<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
+</ol>
+<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
       <tags>
-        <tag>流体力学</tag>
+        <tag>Lecture</tag>
+        <tag>CMST</tag>
       </tags>
   </entry>
   <entry>

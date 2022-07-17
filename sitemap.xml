@@ -235,13 +235,6 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/Geoscience/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brian-jiangz.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
@@ -249,21 +242,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/tags/Atmospheric-science/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/CMST/</loc>
-    <lastmod>2022-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brian-jiangz.github.io/tags/Sediment/</loc>
+    <loc>https://brian-jiangz.github.io/tags/Geoscience/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,7 +263,28 @@
   </url>
   
   <url>
+    <loc>https://brian-jiangz.github.io/tags/Sediment/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://brian-jiangz.github.io/tags/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/Atmospheric-science/</loc>
+    <lastmod>2022-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brian-jiangz.github.io/tags/CMST/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -321,7 +321,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/categories/Atmospheric-science/</loc>
+    <loc>https://brian-jiangz.github.io/categories/Physical-Oceanography/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://brian-jiangz.github.io/categories/Physical-Oceanography/</loc>
+    <loc>https://brian-jiangz.github.io/categories/Atmospheric-science/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

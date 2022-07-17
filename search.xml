@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Reports</title>
+    <url>/2021/10/29/Reports/</url>
+    <content><![CDATA[<p>- </p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/09/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-62d390d9dd28585d"></script>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="cefe9b313bdfb78a7b658cc7844c6e0011ade1abb1b43e818f2d41b2fae12cd3">dc6b34eac27a8daa9b63f36573699a197d0c13ee231445b32bcc97908d9ea3b5d510d634e059ce4692f3d49e23b75aebe5b042fe73f92dfbf70769f1cfef9b80eea1146b9be6b869cacbb92291b8332be7a38cb0768f53f83a7987f243e9591d7a4104942eb0a3ed5bfb0f6f0911461897c77a91652ea25fb499a077800c867cdbb2f98347aa58ce9e809b98ed516b477615e7e2387970f8c6dfe67514395ab7186a9e80fc5d94c8d9d621697693d9156d1573c1b758c830c99f0013c0b832fb5c77f01684fbb7f96077cffb655d133271d7567bcc05ee996a9575a55a2d447034f7829156c9404de3c23fdab99942b841b5dd0070476857dd971df47a1961a05944c7133c9f7c1298e02d25abd598566d892b2c134a66306bd9c1aead8e2fd8dfd7c18f00922bedba9fcbb3174bc4305791cd14cae7c05b294ae6e476c15e18d0f7e64e3e1d1546564670d9e8235a63efad72da13a2066429413f3762e10210d96f6e8d510b369fadf55fa50f5b0bf85518069a7a954d78cfa96124c168400ad70f5129a4f73e9dde1b312da70c79bbcab77d386dbb0d84f88063f3225994a197f5715b24c83311e0d5283a1f0dcf687bdbadf75e457d6ee2d6bf24ca2a09963207c594d102a31e85dc7b600e116c8f89475ec17f3ff08255a1ee6c5458b8fd01358de1be484c5ec008d91513e9a896b0c2da32da79b5f32c9d04962bb7e2897a0149fe2fb7779eb8c8f42e617ea43537d0b68f308dd00e0155b42c4ae510a6c034361ebc193dfd3b902f025097acb95efe3268cc6d8420ec250bf80b8bbdabc5312eb7d83536a1eedfc28312fcb9cd83aa5522f09f3e2c9c90d6b3855f7dd921f24a9b3c9303bcbcaf64cd4a765ff84c24e81b2ae884adf6ade920c245f96e17bf2bbdde24d2b366dfc2bbc70e7d54837b7d09458f547c3290c9369de4f2660147abc1c8c9f28174fcbf34e235f5f92830a2895d998d54a54b91b64fc7311bd9d4d8b1dc78ab7d9494031f0c51fa6f90e5bbdee0c3999f4e15bce7b655c898410c19ce143a8d8ad4e59b379fcdde7499fb389733130b9ea79eb7bb0ecffa4b30ca718147f5a4cdaccda378f878993b9b312f4baebf39a718894f41e1508a93a5fc222afd8f262a412a83a7768d6af230649f19968e585d63c34c5a821424caf8638c7b68c02ba41907fa7a2ad19d6ec9c243468d996effda1ee1390c7b176991c31dc1d4072f2b70af8594139bdde0e8408d42c4151c8418f4323c0db588942aeaa09888b7f9b9e0f089e524f2bcae91db8aafe116afeba2863dd2e066d07e30f3cb09b93a85258277cdf1252eab3c62c63da78f01dd1439e02cd85ee74079b4d54a4739004f76cbffae6f2c539d3368c101bf340ac8abb6fcb3df6b35e47fd950962ed896a16cc44996a2cf27db4fa503da12d8b9ddc19a42bad26cf50127517bc8b4b4b8e7580de5afcf79c085c58cc4c619dae7e5e1a49191e0d2d09f36da350828406ab1bc68fcccd2f03093aba0dfc97a53f35ead75c05dbc2761ffbdae83d614a31c5d199f57eb75a4307579238ea63dfaf2cc10e49358b590075b35c56c79a9766ec3f5484d9f3320230220de10c724cb1fd768798c32fbfc0639db3878b3a25561808c0bcd5edb425325903b336cffe1e169925c1100b548d44cae0441ff57899ea05899d9f951df3b2ebbb59109d1439a2a5b134006fef29a4cae3c497c957d22a0e733167be2435bf0355e12d2d3942d2f1bb4e5deca73cc7c34cfbc21fc86cd6441f2d09ae32c4e5c6be27818f2c221f2cb491bb5def453c2089d7ee10c60b242d8073dcc0aa089094131a28d3d10ce02e6bc193c37e8c9bd2ec984150ceef804876829f82e19c875306c955036300a5672bd8c481b479c51f0317083ef31a0f968cc4c0dad1cb6a1818a8c9a60022c48b45348691a6badda760d862bab4c1c46b032b0260ea953dc30d17e2d32a9d469c6e5a3868f955f7bcec0ff0254235a824521214d0e9cae0d018e9fb73cd949e29ef74e12769a35666da1c1eff4e818f2de32cd63cd66590ac80eea8b6b0b2fcc3d552a0413747d673b44a3ece7f11c2ae73b87d87b3cbcec8c9089620fa0b72280ff5c0fe95d126da6e8bfddb77badc07c5e691d0be208dd5dc41f534063bb191d2ab4088f2ce25a3c927f664f829b2862bca474b2e8860fd16211d711cdd3fdede0323ce747095eb54caae5cf220b92ad1ba66bf2732e74474e20a443060b1092a178d0c4c893be313e478709e71003db33740e67c3533bfbf5bf1058328173f8f42420a6b14f657aacab5b07c66f5a6f38a7b985c9de1e0a5d7ab723e9f2f3e732366f8b162026158fa4c71c12c2d9bb561002aed1f8b1e3fca34fe8dfba3d488eb8cc235aa0f8c91925021ea43b63c66f09a55494579734723ff44a313bb7aac8313f0edbf2b9a9bfde9c9bd4b80c6af719de3d72a567146a25a26d6c2a698aa4fc68918c2ead88091f473b4528eb1aaff994991d7e7cf527f9004ee4c95726e69beefe652f95a4314b49e3c691e4ad333a1d51c1ec7452269ea4b6d93712a055a4ea9acbe072ad137bd9e853a311fec90b4c3102256016898446c60b73eac4bd51d2150f502b567c8105befd40c491f5e97f4ffec120a4756ab0e8123b526d7ce08e91b193e65e266a2d8f2a2b1609aed23dcc8c3c950a72577bf64a40811708ce09b0f58403edf8465d94fd73badf1f651d949e626f29fea16d1ba86208276fd65f04930d228153a88f9ade3e3ae627a2d0593813711d290ce9e8e6a2068735f9f00cb9b77784965c5d4cf6fa8569de9af179417778a918f85673364cbbb0170219b63fc06aca7256d5c74491b3dcde1b4dcd371dceb1dbb8c0ee13516d91c429b14e12a6e28a29b2cb603034b2bd0ec6abaa9402e6941eb517ebe8d39f03a5f293997dc6565a7889f2589746203b21f409f4ae50f764ddf537e6b3ecb1ae0ae165a37556bea17f3c6d1500f83926a4c99104edbea0215fa9e786b388eeb8b4496539b1336f4102df6a45b0c9f4ae90c903e5655cd508f55f578aec0c0851d69ace20d620cf61a994440f1aada87e1a44fffc9abc03ed7dca1ae78c099a52cde60d13d17138e9589b6279e99cbe0492ce65003500ef9654e90353523d3b2dbd9673d7350f147b1b55973c891e75dc10ef802dcda81bba</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
   <entry>
     <title>基于Hexo的个人博客操作说明</title>
@@ -47,6 +48,12 @@
       </tags>
   </entry>
   <entry>
+    <title>WorldLaureatesForum4th</title>
+    <url>/2021/11/03/Lecture/WorldLaureatesForum4th/</url>
+    <content><![CDATA[<p>Population structure resolved using the SNPs showing strong genetic defferentiation</p>
+]]></content>
+  </entry>
+  <entry>
     <title>LTO Lecture 2021/9/23</title>
     <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
     <content><![CDATA[]]></content>
@@ -59,12 +66,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Reports</title>
-    <url>/2021/10/29/Reports/</url>
-    <content><![CDATA[<p>- </p>
-]]></content>
-  </entry>
-  <entry>
     <title>个人简历</title>
     <url>/2021/09/16/Resume/Jiang-resume/</url>
     <content><![CDATA[]]></content>
@@ -73,10 +74,28 @@
       </tags>
   </entry>
   <entry>
-    <title>WorldLaureatesForum4th</title>
-    <url>/2021/11/03/Lecture/WorldLaureatesForum4th/</url>
-    <content><![CDATA[<p>Population structure resolved using the SNPs showing strong genetic defferentiation</p>
+    <title>人工智能基础作业</title>
+    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
+<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
+</blockquote>
+<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
+<span id="more"></span>
+<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
+<ol>
+<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
+<li>Waymo、Tesla自动驾驶技术；</li>
+<li>波士顿机器人的控制系统。</li>
+</ol>
+<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
 ]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+        <tag>人工智能</tag>
+      </tags>
   </entry>
   <entry>
     <title>人工智能基础课程</title>
@@ -123,30 +142,6 @@
       <tags>
         <tag>人工智能</tag>
         <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人工智能基础作业</title>
-    <url>/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h1 id="人工智能基础课程作业"><a href="#人工智能基础课程作业" class="headerlink" title="人工智能基础课程作业"></a>人工智能基础课程作业</h1><h1 id="1-Deep-learning-state-of-the-art-2020-–YouTube"><a href="#1-Deep-learning-state-of-the-art-2020-–YouTube" class="headerlink" title="1 Deep learning state of the art (2020)–YouTube"></a>1 Deep learning state of the art (2020)–YouTube</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><blockquote>
-<p>“AI began with an ancident wish to forge the gods” <br>-Pamela McCorduck,Machines Who Think,1979 </p>
-</blockquote>
-<p>宇宙诞生自13.8亿年前，现代人类诞生于30万年前，人类文明诞生于1.2万年前，工业革命机械生产的出现，只占历史中的0.1%。</p>
-<span id="more"></span>
-<h2 id="1-2-深度学习的应用"><a href="#1-2-深度学习的应用" class="headerlink" title="1.2 深度学习的应用"></a>1.2 深度学习的应用</h2><p>深度学习在</p>
-<ol>
-<li>游戏世界：IBM在1997年、ALphaGo在2016年战胜了人类世界的围棋冠军；</li>
-<li>Waymo、Tesla自动驾驶技术；</li>
-<li>波士顿机器人的控制系统。</li>
-</ol>
-<h2 id="1-3-深度学习的历史"><a href="#1-3-深度学习的历史" class="headerlink" title="1.3 深度学习的历史"></a>1.3 深度学习的历史</h2><p><img src="/2021/09/05/artificial%20intelligence/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/HistoryOfDeepLearing.png" alt="Figure 1" title="Figure 1"></p>
-]]></content>
-      <categories>
-        <category>人工智能</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>作业</tag>
       </tags>
   </entry>
   <entry>
@@ -301,47 +296,9 @@
       </tags>
   </entry>
   <entry>
-    <title>地学信息可视化</title>
-    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
-    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
-<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
-<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
-<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
-<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
-<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
-<li>点状目标</li>
-<li>线状目标</li>
-<li>面状目标</li>
-<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
-</ul>
-<ol>
-<li>任务</li>
-</ol>
-<ul>
-<li>数据简化</li>
-<li>大数据可视化</li>
-<li>视觉效果</li>
-</ul>
-<ol start="2">
-<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
-</ol>
-<ul>
-<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
-<li>GTD</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Geoscience</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth%20science/Geosciences/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#x6c;&#x6f;&#110;&#x67;&#x78;&#105;&#97;&#x6f;&#64;&#x63;&#x75;&#x67;&#x2e;&#101;&#x64;&#x75;&#x2e;&#99;&#110;">&#x6c;&#x6f;&#110;&#x67;&#x78;&#105;&#97;&#x6f;&#64;&#x63;&#x75;&#x67;&#x2e;&#101;&#x64;&#x75;&#x2e;&#99;&#110;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#111;&#x6e;&#103;&#x78;&#x69;&#97;&#111;&#x40;&#99;&#x75;&#x67;&#x2e;&#x65;&#100;&#117;&#x2e;&#99;&#x6e;">&#108;&#111;&#x6e;&#103;&#x78;&#x69;&#97;&#111;&#x40;&#99;&#x75;&#x67;&#x2e;&#x65;&#100;&#117;&#x2e;&#99;&#x6e;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -398,17 +355,41 @@
       </tags>
   </entry>
   <entry>
-    <title>Teacher Gong</title>
-    <url>/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</url>
-    <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><h1 id><a href="#" class="headerlink" title></a></h1><p>按照论文结构来介绍课题：前沿、数据、算法、讨论、结论；<br>先讲科研问题，引发思考。</p>
-<h1 id="李健"><a href="#李健" class="headerlink" title="李健"></a>李健</h1><p>将模型从C搬移到fortran<br>搞清楚数学模型、搞清楚数学原理<br>paraview</p>
+    <title>地学信息可视化</title>
+    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
+    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
+<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
+<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
+<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
+<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
+<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
+<li>点状目标</li>
+<li>线状目标</li>
+<li>面状目标</li>
+<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
+</ul>
+<ol>
+<li>任务</li>
+</ol>
+<ul>
+<li>数据简化</li>
+<li>大数据可视化</li>
+<li>视觉效果</li>
+</ul>
+<ol start="2">
+<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
+</ol>
+<ul>
+<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
+<li>GTD</li>
+</ul>
 ]]></content>
       <categories>
-        <category>Physical Oceanography</category>
+        <category>Geoscience</category>
       </categories>
       <tags>
-        <tag>Physical Oceanography</tag>
-        <tag>组会</tag>
+        <tag>笔记</tag>
+        <tag>Geoscience</tag>
       </tags>
   </entry>
   <entry>
@@ -425,6 +406,53 @@
       </categories>
       <tags>
         <tag>Sediment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Physical Oceanography</title>
+    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
+    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
+<ul>
+<li>天体引潮力</li>
+<li>重力加速度</li>
+<li>压强梯度力</li>
+<li>地转偏向力</li>
+<li>摩擦力<span id="more"></span>
+<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
+</ul>
+<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
+<ul>
+<li>边界条件是偏微分方程组必须的定解条件；</li>
+<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
+<li>海洋学中边界条件十分重要。</li>
+</ul>
+<p>如何给出边界条件？</p>
+<ul>
+<li>给出七个变量的值；</li>
+<li>融合一些物理过程；</li>
+</ul>
+<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
+<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Physical Oceanography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Teacher Gong</title>
+    <url>/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</url>
+    <content><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><h1 id><a href="#" class="headerlink" title></a></h1><p>按照论文结构来介绍课题：前沿、数据、算法、讨论、结论；<br>先讲科研问题，引发思考。</p>
+<h1 id="李健"><a href="#李健" class="headerlink" title="李健"></a>李健</h1><p>将模型从C搬移到fortran<br>搞清楚数学模型、搞清楚数学原理<br>paraview</p>
+]]></content>
+      <categories>
+        <category>Physical Oceanography</category>
+      </categories>
+      <tags>
+        <tag>Physical Oceanography</tag>
+        <tag>组会</tag>
       </tags>
   </entry>
   <entry>
@@ -956,6 +984,47 @@
       </tags>
   </entry>
   <entry>
+    <title>Ge Chen CMST 2021-17</title>
+    <url>/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</url>
+    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
+<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
+<p><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
+<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
+<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
+<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
+<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
+<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
+<blockquote>
+<p>海平面变化是全球气候变化的重要指标</p>
+</blockquote>
+<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
+<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
+<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
+<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
+<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
+<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
+<li>全覆盖</li>
+<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
+<li>高精度</li>
+<li>新基准：周期性都有不变点</li>
+</ol>
+<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
+<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
+<li>北极无冰之海的科学预测与战略应对；</li>
+<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
+<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
+<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
+</ol>
+<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>Lecture</tag>
+        <tag>CMST</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>XingXing Wang CMST 2021-69</title>
     <url>/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/</url>
     <content><![CDATA[<p>“海洋之光”学术论坛（第69期）<br>报告学者：王星星<br>报告时间：2021年10月14日星期四<br>报告地点：东区综合楼A栋1805</p>
@@ -1024,80 +1093,6 @@
       <tags>
         <tag>Lecture</tag>
         <tag>CMST</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Ge Chen CMST 2021-17</title>
-    <url>/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</url>
-    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
-<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
-<p><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
-<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
-<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
-<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
-<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
-<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
-<blockquote>
-<p>海平面变化是全球气候变化的重要指标</p>
-</blockquote>
-<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
-<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
-<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
-<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
-<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
-<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
-<li>全覆盖</li>
-<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
-<li>高精度</li>
-<li>新基准：周期性都有不变点</li>
-</ol>
-<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
-<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
-<li>北极无冰之海的科学预测与战略应对；</li>
-<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
-<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
-<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
-</ol>
-<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>Lecture</tag>
-        <tag>CMST</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Physical Oceanography</title>
-    <url>/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</url>
-    <content><![CDATA[<h1 id="1-作用在海水微团上的力"><a href="#1-作用在海水微团上的力" class="headerlink" title="1 作用在海水微团上的力"></a>1 作用在海水微团上的力</h1><p>时间：2021年9月28日<br>教师：宫勋教授<br>月球引潮力约为太阳引潮力的2.17倍；</p>
-<ul>
-<li>天体引潮力</li>
-<li>重力加速度</li>
-<li>压强梯度力</li>
-<li>地转偏向力</li>
-<li>摩擦力<span id="more"></span>
-<h2 id="1-1-运动方程"><a href="#1-1-运动方程" class="headerlink" title="1.1 运动方程"></a>1.1 运动方程</h2>运动方程的的向量形式：速度随时间的变化=力；包含质量守恒方程、盐量扩散方程、热传导方程、海水状态方程、海水层流运动基本方程组；</li>
-</ul>
-<h2 id="1-2-边界条件"><a href="#1-2-边界条件" class="headerlink" title="1.2 边界条件"></a>1.2 边界条件</h2><p>为何使用边界条件？</p>
-<ul>
-<li>边界条件是偏微分方程组必须的定解条件；</li>
-<li>运动方程建立的基础是连续介质假定，边界处不成立；</li>
-<li>海洋学中边界条件十分重要。</li>
-</ul>
-<p>如何给出边界条件？</p>
-<ul>
-<li>给出七个变量的值；</li>
-<li>融合一些物理过程；</li>
-</ul>
-<h1 id="1-2-1-无质量交换的运动学边界"><a href="#1-2-1-无质量交换的运动学边界" class="headerlink" title="1.2.1 无质量交换的运动学边界"></a>1.2.1 无质量交换的运动学边界</h1><p>随时间而运动的海洋界面可表达为：$F(x,y,z,t)$；设界面上任意几何点在t时刻的位置为：$(x,y,z)$,速度为$(C_{x},C_{y},C_{z})$。</p>
-<h1 id="1-2-2-自由海面有质量交换时的边界条件"><a href="#1-2-2-自由海面有质量交换时的边界条件" class="headerlink" title="1.2.2 自由海面有质量交换时的边界条件"></a>1.2.2 自由海面有质量交换时的边界条件</h1>]]></content>
-      <categories>
-        <category>Physical Oceanography</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Physical Oceanography</tag>
       </tags>
   </entry>
 </search>

@@ -48,12 +48,6 @@
       </tags>
   </entry>
   <entry>
-    <title>WorldLaureatesForum4th</title>
-    <url>/2021/11/03/Lecture/WorldLaureatesForum4th/</url>
-    <content><![CDATA[<p>Population structure resolved using the SNPs showing strong genetic defferentiation</p>
-]]></content>
-  </entry>
-  <entry>
     <title>LTO Lecture 2021/9/23</title>
     <url>/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</url>
     <content><![CDATA[]]></content>
@@ -63,6 +57,92 @@
       <tags>
         <tag>LTO</tag>
         <tag>Lecture</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MGF半月谈</title>
+    <url>/2022/07/19/Lecture/MGF%E5%8D%8A%E6%9C%88%E8%B0%88/</url>
+    <content><![CDATA[<h1 id="科学问题"><a href="#科学问题" class="headerlink" title="科学问题"></a>科学问题</h1><h2 id="研究背景"><a href="#研究背景" class="headerlink" title="研究背景"></a>研究背景</h2><p>自然碳增汇</p>
+<h3 id="全球碳循环与碳库"><a href="#全球碳循环与碳库" class="headerlink" title="全球碳循环与碳库"></a>全球碳循环与碳库</h3><ol>
+<li>海洋吸收了人类排放二氧化碳的27%；</li>
+<li>海洋是全球最大的碳存储库（95%为DIC）；</li>
+<li>如果没有生物泵作用，深海对于上层海洋是碳源。<span id="more"></span>
+<h3 id="全球海-气二氧化碳通量"><a href="#全球海-气二氧化碳通量" class="headerlink" title="全球海-气二氧化碳通量"></a>全球海-气二氧化碳通量</h3>热带是碳源，北极是碳汇。</li>
+</ol>
+<h3 id="研究焦点"><a href="#研究焦点" class="headerlink" title="研究焦点"></a>研究焦点</h3><p>北冰洋碳汇对环境变化的响应及机制</p>
+<h3 id="北冰洋太平洋扇区碳循环过程示意图"><a href="#北冰洋太平洋扇区碳循环过程示意图" class="headerlink" title="北冰洋太平洋扇区碳循环过程示意图"></a>北冰洋太平洋扇区碳循环过程示意图</h3><ol>
+<li>溶解泵；</li>
+<li>生物泵等。</li>
+</ol>
+<h3 id="已有的认识"><a href="#已有的认识" class="headerlink" title="已有的认识"></a>已有的认识</h3><p>蔡老师2014年开展了相关工作。</p>
+<ol>
+<li>楚科奇海是强大碳汇；</li>
+<li>太平洋入流提供大部分DIC来源，N的主要来源；</li>
+<li>通过加拿大北方岛链进入大西洋；</li>
+<li>河流为据地DIC源；</li>
+<li>界面碳通量有很大的不确定性；</li>
+<li>2007年后发生融冰状态变化（regime shift）。</li>
+<li>风暴（东风），陆坡涌升，碳汇减小；</li>
+<li>CKS净初级生产力增加；</li>
+<li>CKS+BFS，融冰季碳汇有年际差异，夏季无冰影响不大（Evans 2015）；</li>
+<li>有冰时，PAR减少最多；</li>
+<li>2007年波弗特高压范围扩大，中心西移南下；</li>
+<li>BG移动，陆坡流强度增加。</li>
+</ol>
+<h1 id="研究方法"><a href="#研究方法" class="headerlink" title="研究方法"></a>研究方法</h1><h2 id="观测与海洋-海冰-生态系统-碳循环耦合模型"><a href="#观测与海洋-海冰-生态系统-碳循环耦合模型" class="headerlink" title="观测与海洋-海冰-生态系统-碳循环耦合模型"></a>观测与海洋-海冰-生态系统-碳循环耦合模型</h2><h3 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h3><ol>
+<li>碳化学观测数据集<h3 id="模型"><a href="#模型" class="headerlink" title="模型"></a>模型</h3>完成了耦合模式的构建，调试及后报试算<h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3>NAP1/4&amp;NAP1/12，</li>
+<li>计算范围：</li>
+<li>初始条件：</li>
+<li>边界条件：NIT、PHO、SIL、DO、DIC、TA、pCO2；<h3 id="生态系统状态模型"><a href="#生态系统状态模型" class="headerlink" title="生态系统状态模型"></a>生态系统状态模型</h3>低营养生态系统：19Var、2浮游植物、4无机盐、碳酸盐体系；<h3 id="模式评估"><a href="#模式评估" class="headerlink" title="模式评估"></a>模式评估</h3></li>
+<li>海冰厚度：卫星vs模拟（RMSE评估）；</li>
+<li>硝酸盐：现场观测vs模拟（泰勒图，包含相关系数、CF值、RMSE）；</li>
+<li>DIC&amp;pCO2：相关性、年际变化趋势（R）等。</li>
+</ol>
+<h1 id="碳循环响应"><a href="#碳循环响应" class="headerlink" title="碳循环响应"></a>碳循环响应</h1><h2 id="基于观测认识夏季海-气CO2通量变化及调控机理"><a href="#基于观测认识夏季海-气CO2通量变化及调控机理" class="headerlink" title="基于观测认识夏季海-气CO2通量变化及调控机理"></a>基于观测认识夏季海-气CO2通量变化及调控机理</h2><h3 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h3><ol>
+<li>楚科奇海碳汇增加；</li>
+<li>海盆区减少。<h4 id="季节变化"><a href="#季节变化" class="headerlink" title="季节变化"></a>季节变化</h4></li>
+<li>6-7，水华主控的 $\delta$ pCO2；</li>
+<li>冬季，风变化主控。<h4 id="年际与长期变化"><a href="#年际与长期变化" class="headerlink" title="年际与长期变化"></a>年际与长期变化</h4></li>
+</ol>
+<h2 id="定量认识营养盐供给与初级生产"><a href="#定量认识营养盐供给与初级生产" class="headerlink" title="定量认识营养盐供给与初级生产"></a>定量认识营养盐供给与初级生产</h2><h3 id="生物泵与营养盐供给"><a href="#生物泵与营养盐供给" class="headerlink" title="生物泵与营养盐供给"></a>生物泵与营养盐供给</h3><ol>
+<li>收支分析：平流、垂向混合、生物泵、溶解泵</li>
+</ol>
+<h2 id="定量认识碳的深海输运"><a href="#定量认识碳的深海输运" class="headerlink" title="定量认识碳的深海输运"></a>定量认识碳的深海输运</h2><h2 id="定量认识太平洋水进入陆坡和海盆对碳汇影响"><a href="#定量认识太平洋水进入陆坡和海盆对碳汇影响" class="headerlink" title="定量认识太平洋水进入陆坡和海盆对碳汇影响"></a>定量认识太平洋水进入陆坡和海盆对碳汇影响</h2><ol>
+<li>BF高压强度—-位置-BG和垂直输运—-</li>
+</ol>
+<h2 id="平流输运主导楚科奇海台区营养盐源汇格局的转变"><a href="#平流输运主导楚科奇海台区营养盐源汇格局的转变" class="headerlink" title="平流输运主导楚科奇海台区营养盐源汇格局的转变"></a>平流输运主导楚科奇海台区营养盐源汇格局的转变</h2><h1 id="几点认识"><a href="#几点认识" class="headerlink" title="几点认识"></a>几点认识</h1><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><ol>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>Lecture</tag>
+        <tag>MGF</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>WorldLaureatesForum4th</title>
+    <url>/2021/11/03/Lecture/WorldLaureatesForum4th/</url>
+    <content><![CDATA[<p>Population structure resolved using the SNPs showing strong genetic defferentiation</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>MATLAB语法及其在地球科学中的应用</title>
+    <url>/2022/07/17/Program/MATLAB%E8%AF%AD%E6%B3%95%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<p>本文用语记录MATLAB基本语法及其在地球科学（尤其是海洋科学）中的应用，如使用、改用文中信息，请标注、引用。</p>
+<span id="more"></span>
+<h1 id="常用语法"><a href="#常用语法" class="headerlink" title="常用语法"></a>常用语法</h1><h2 id="批量化数据处理"><a href="#批量化数据处理" class="headerlink" title="批量化数据处理"></a>批量化数据处理</h2><ol>
+<li>eval：批量执行重复性命令；</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Program</category>
+      </categories>
+      <tags>
+        <tag>Geosciences</tag>
+        <tag>MATLAB</tag>
       </tags>
   </entry>
   <entry>
@@ -296,9 +376,159 @@
       </tags>
   </entry>
   <entry>
+    <title>Ge Chen CMST 2021-17</title>
+    <url>/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</url>
+    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
+<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
+<p><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
+<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
+<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
+<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
+<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
+<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
+<blockquote>
+<p>海平面变化是全球气候变化的重要指标</p>
+</blockquote>
+<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
+<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
+<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
+<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
+<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
+<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
+<li>全覆盖</li>
+<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
+<li>高精度</li>
+<li>新基准：周期性都有不变点</li>
+</ol>
+<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
+<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
+<li>北极无冰之海的科学预测与战略应对；</li>
+<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
+<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
+<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
+</ol>
+<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>Lecture</tag>
+        <tag>CMST</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XingXing Wang CMST 2021-69</title>
+    <url>/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/</url>
+    <content><![CDATA[<p>“海洋之光”学术论坛（第69期）<br>报告学者：王星星<br>报告时间：2021年10月14日星期四<br>报告地点：东区综合楼A栋1805</p>
+<h1 id="南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应"><a href="#南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应" class="headerlink" title="南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应"></a>南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应</h1><span id="more"></span>
+<p><img src="/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/Poster.JPG" alt="figure 1"></p>
+<h2 id="1-研究背景"><a href="#1-研究背景" class="headerlink" title="1 研究背景"></a>1 研究背景</h2><p>深水沉积：是揭示气候变化重要的研究媒介。</p>
+<ol>
+<li>条件：</li>
+</ol>
+<ul>
+<li>Marine snow（lowest）</li>
+<li>Gravity flows（Strongest）</li>
+<li>Bottom currents（midium）</li>
+</ul>
+<ol start="2">
+<li>构成：</li>
+</ol>
+<ul>
+<li>泥质披覆沉积</li>
+<li>底流沉积</li>
+<li>重力流沉积</li>
+</ul>
+<ol start="3">
+<li>特点：</li>
+</ol>
+<ul>
+<li>沉积快</li>
+<li>样式丰富<br>故其可以通过深水沉积层研究气候变化等。</li>
+</ul>
+<p>研究区域：东沙陆坡——ODP1114；</p>
+<h2 id="2-深水沉积层序特征"><a href="#2-深水沉积层序特征" class="headerlink" title="2 深水沉积层序特征"></a>2 深水沉积层序特征</h2><ol>
+<li>数据：二维多道地震地层剖面；</li>
+<li>振幅强弱：代表密度、速度的明显变化，<strong>强振幅界面</strong>代表了有事件发生，并影响底流。<h3 id="2-1-演化特征"><a href="#2-1-演化特征" class="headerlink" title="2.1 演化特征"></a>2.1 演化特征</h3></li>
+<li>5Ma与0.9Ma的沉积层序特征变化，分别与一次构造事件、一次气候事件有关。<h2 id="3-底流沉积"><a href="#3-底流沉积" class="headerlink" title="3 底流沉积"></a>3 底流沉积</h2>南海北部中尺度涡主控因素：地形突变、黑潮入侵、风场；地质学上中尺度涡的产生与吕宋海峡的地形有关，地质构造产生的海山与海流存在相互作用，影响底流，并间接影响深水沉积层。<h2 id="4-深水层级层序对气候事件的响应"><a href="#4-深水层级层序对气候事件的响应" class="headerlink" title="4 深水层级层序对气候事件的响应"></a>4 深水层级层序对气候事件的响应</h2></li>
+<li>海平面变化</li>
+<li>海温变化</li>
+<li>气候变化：降雨增多——台湾岛的风蚀作用强烈，导致更多陆源碎屑进入海洋，并在南海东北陆坡沉积。<h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5 结论"></a>5 结论</h2></li>
+<li>地质构造影响深水沉积：6.5Ma的边缘海盆、海峡的逐渐关闭影响南海深水沉积：中尺度涡的变化引发底流变化，进而引发沉积速率发生变化。</li>
+<li>气候变化影响深水沉积：0.9Ma的气候变化影响降雨，加速风化侵蚀，使南海深水沉积呈现强振幅界面；</li>
+<li>“地质-古海洋-气候”多圈层耦合：地质构造与沉积揭示古海洋变化及其特征，古海洋揭示古气候变化。<h2 id="6-问题"><a href="#6-问题" class="headerlink" title="6 问题"></a>6 问题</h2></li>
+<li>多圈层模式耦合的切入点？有无的定量指标表征深水沉积变化？如何与现有模式相结合？<br>答：通过模式正演得到目标的深水沉积层序，查看该情况下目标海域的水动力条件以及海水属性指标。</li>
+<li>0.9Ma的强振幅界面是否因为气候变化影响洋流的强弱？<br>答：沉积情况受两方面影响，即来源和水动力条件，当排除水动力条件情况下，推测原因是因为来源，水动力强度用沉积物粒度来衡量。0.9Ma南海的东北陆坡的物源沉积物来源认为来自台湾岛。2.38Ma南海扩张后南海地形变化不大。</li>
+<li>如何判断底流强弱变化？<br>答：漂积体的形式不同，对应的底流强弱也不同。</li>
+<li>冲绳海槽柱来反演地质历史时期黑潮的强度（Journal）<br>姜院长：大尺度洋流无沉积物物源，通过化学元素（铝同位素）的变化来研究水团的变化。注意洋流研究与底流研究的区别。</li>
+<li>重力柱：</li>
+<li>潜在地质学指标：</li>
+</ol>
+<ul>
+<li>有孔虫化石的同位素之比来展示温度的变化</li>
+</ul>
+<ol start="7">
+<li>王老师办公室：A1711</li>
+</ol>
+<h2 id="7-思考与讨论"><a href="#7-思考与讨论" class="headerlink" title="7 思考与讨论"></a>7 思考与讨论</h2><ul>
+<li>人工智能、大数据及机器学习在海洋学中的应用：</li>
+</ul>
+<ol>
+<li>研究现状：目前，已有许多学者从事<a href="https://github.com/bugsuse/meteoai">卫星遥感与人工智能的结合领域</a>，研究热点集中于物理海洋学、极端气候、卫星遥感、模式等，鲜有学者做海洋地质学、人工智能与大数据的结合领域（？）。</li>
+<li>地质学、海洋地质学与人工智能、大数据的结合点：地质学中不可描述的机理及特征太多，尤其是地质学特征识别难、潜在影响因素过多，难以精准解释，可以使用人工智能、大数据的方法识别地质学现象、寻找影响因素等。</li>
+<li>大数据、人工智能及机器学习在海洋地质、地质学中的切入点：<br>1）大数据，主要用于存储长时间尺度的水动力条件、地质构造活动及气候变化等方面数据。<br>2）人工智能：（1）识别地质构造现象；（2）将今论古：学习现代海洋地质构造活动数据及案例，以此推断古代历史构造活动的可能诱发原因、发生时的海洋物理性质、古气候和古海洋特征等。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Lecture</category>
+      </categories>
+      <tags>
+        <tag>Lecture</tag>
+        <tag>CMST</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地学信息可视化</title>
+    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
+    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
+<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
+<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
+<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
+<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
+<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
+<li>点状目标</li>
+<li>线状目标</li>
+<li>面状目标</li>
+<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
+</ul>
+<ol>
+<li>任务</li>
+</ol>
+<ul>
+<li>数据简化</li>
+<li>大数据可视化</li>
+<li>视觉效果</li>
+</ul>
+<ol start="2">
+<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
+</ol>
+<ul>
+<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
+<li>GTD</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Geoscience</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>Geoscience</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>地球系统概论</title>
     <url>/2021/09/24/Earth%20science/Geosciences/Earth-system/</url>
-    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#111;&#x6e;&#103;&#x78;&#x69;&#97;&#111;&#x40;&#99;&#x75;&#x67;&#x2e;&#x65;&#100;&#117;&#x2e;&#99;&#x6e;">&#108;&#111;&#x6e;&#103;&#x78;&#x69;&#97;&#111;&#x40;&#99;&#x75;&#x67;&#x2e;&#x65;&#100;&#117;&#x2e;&#99;&#x6e;</a></p>
+    <content><![CDATA[<h1 id="1-从行星系统到地球系统"><a href="#1-从行星系统到地球系统" class="headerlink" title="1 从行星系统到地球系统"></a>1 从行星系统到地球系统</h1><p>时间：2021年9月24日<br>教师：肖龙<br>联系方式：<a href="mailto:&#108;&#x6f;&#110;&#103;&#120;&#105;&#97;&#x6f;&#x40;&#99;&#x75;&#x67;&#x2e;&#x65;&#100;&#117;&#x2e;&#99;&#110;">&#108;&#x6f;&#110;&#103;&#120;&#105;&#97;&#x6f;&#x40;&#99;&#x75;&#x67;&#x2e;&#x65;&#100;&#117;&#x2e;&#99;&#110;</a></p>
 <ul>
 <li>地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；</li>
 <li>地球系统科学要跳出地球本身来研究。</li>
@@ -344,44 +574,6 @@
 <li>3296个彗星<br><img src="/2021/09/24/Earth%20science/Geosciences/Earth-system/sunsystem.png" alt="Figure 1"><h3 id="1-4-1-月球"><a href="#1-4-1-月球" class="headerlink" title="1.4.1 月球"></a>1.4.1 月球</h3><h3 id="1-4-2-火星"><a href="#1-4-2-火星" class="headerlink" title="1.4.2 火星"></a>1.4.2 火星</h3></li>
 <li>半球状二分性</li>
 <li>大火山省</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Geoscience</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-        <tag>Geoscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地学信息可视化</title>
-    <url>/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</url>
-    <content><![CDATA[<h1 id="《地学信息三维可视化》"><a href="#《地学信息三维可视化》" class="headerlink" title="《地学信息三维可视化》"></a>《地学信息三维可视化》</h1><p>教师：王贤敏教授<br>二级单位：地球科学学院</p>
-<h2 id="1-地学三维可视化"><a href="#1-地学三维可视化" class="headerlink" title="1 地学三维可视化"></a>1 地学三维可视化</h2><h3 id="1-1-地学系统"><a href="#1-1-地学系统" class="headerlink" title="1.1 地学系统"></a>1.1 地学系统</h3><ul>
-<li>GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。</li>
-<li>范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。</li>
-<li>地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。<span id="more"></span>
-<h3 id="1-2-地学目标"><a href="#1-2-地学目标" class="headerlink" title="1.2 地学目标"></a>1.2 地学目标</h3></li>
-<li>点状目标</li>
-<li>线状目标</li>
-<li>面状目标</li>
-<li>体状目标：几何、拓扑、属性；<h3 id="1-3-地学数据可视化"><a href="#1-3-地学数据可视化" class="headerlink" title="1.3 地学数据可视化"></a>1.3 地学数据可视化</h3></li>
-</ul>
-<ol>
-<li>任务</li>
-</ol>
-<ul>
-<li>数据简化</li>
-<li>大数据可视化</li>
-<li>视觉效果</li>
-</ul>
-<ol start="2">
-<li>LOD模型：根据需求不同，对同一场景中不同的对象采用不同的精度来刻画：</li>
-</ol>
-<ul>
-<li>分为四级：一级（全部几何、纹理信息）、二级（部分几何、纹理信息）、三级（部分几何信息，用颜色代替纹理信息）、四级（方块代替几何和纹理信息）<h2 id="2-工具"><a href="#2-工具" class="headerlink" title="2 工具"></a>2 工具</h2></li>
-<li>GTD</li>
 </ul>
 ]]></content>
       <categories>
@@ -981,118 +1173,6 @@
       <tags>
         <tag>笔记</tag>
         <tag>Atmospheric science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Ge Chen CMST 2021-17</title>
-    <url>/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</url>
-    <content><![CDATA[<p>“海洋之光”学术论坛（第68期）<br>报告学者：陈戈<br>报告时间：2021年10月8日星期五<br>报告地点：南望山八角楼</p>
-<h1 id="干涉测高时代的海平面遥感——跨越与挑战"><a href="#干涉测高时代的海平面遥感——跨越与挑战" class="headerlink" title="干涉测高时代的海平面遥感——跨越与挑战"></a>干涉测高时代的海平面遥感——跨越与挑战</h1><span id="more"></span>
-<p><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Poster.JPG" alt="Figure 1"></p>
-<h2 id="1-前沿及背景"><a href="#1-前沿及背景" class="headerlink" title="1 前沿及背景"></a>1 前沿及背景</h2><h3 id="1-1-高度计卫星发展历史"><a href="#1-1-高度计卫星发展历史" class="headerlink" title="1.1 高度计卫星发展历史"></a>1.1 高度计卫星发展历史</h3><p>发展历史：一代$\rightarrow$二代$\rightarrow$三代，其中一代为点扫，该时期实现了对大洋环流的研究；第二代是线扫，实现了对冰川的研究；第三代是面扫，特点是双频、双发、双收，将会实现对中尺度涡旋的研究；</p>
-<h3 id="1-2-海洋研究时期及特点"><a href="#1-2-海洋研究时期及特点" class="headerlink" title="1.2 海洋研究时期及特点"></a>1.2 海洋研究时期及特点</h3><p>数字海洋$\rightarrow$透明海洋$\rightarrow$智能海洋，其中数字海洋是指将海洋装进计算机中，即将海洋数据添加进计算机中；透明海洋指过程透明（认知机理）、状态透明（观测探测）、变化透明（预测未来）；智能海洋指让海洋具有智能，以此服务人类社会。</p>
-<h3 id="1-3-未来海洋遥感"><a href="#1-3-未来海洋遥感" class="headerlink" title="1.3 未来海洋遥感"></a>1.3 未来海洋遥感</h3><p>实现对海洋全海深的遥感穿透，未来发展方向及特点是先进载荷与双星伴飞（激光、雷达两类）。</p>
-<h2 id="2-海平面的气候变化"><a href="#2-海平面的气候变化" class="headerlink" title="2 海平面的气候变化"></a>2 海平面的气候变化</h2><p>海平面的起伏，由重力和动力两方面原因考虑，重力因素导致的海平面变化最大，但是不考虑在严重中，海平面的变化由流动和波动因素导致，流动特点是年周期、中尺度；波动包含潮汐、风浪流等。</p>
-<h3 id="2-1-特点"><a href="#2-1-特点" class="headerlink" title="2.1 特点"></a>2.1 特点</h3><p>海平面的大尺度变化：趋势（$+3.4mm/Y$）、周期(小波分析)。小波分析图像<br><img src="/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/Wavelet.HEIC"></p>
-<blockquote>
-<p>海平面变化是全球气候变化的重要指标</p>
-</blockquote>
-<h3 id="2-2-中尺度涡旋与大气耦合"><a href="#2-2-中尺度涡旋与大气耦合" class="headerlink" title="2.2 中尺度涡旋与大气耦合"></a>2.2 中尺度涡旋与大气耦合</h3><p>镜像关系</p>
-<h2 id="3-海平面与天气的变化"><a href="#3-海平面与天气的变化" class="headerlink" title="3 海平面与天气的变化"></a>3 海平面与天气的变化</h2><p>无处不在，无时不有，数以万计，大小不一。</p>
-<h3 id="3-1-中尺度涡旋"><a href="#3-1-中尺度涡旋" class="headerlink" title="3.1 中尺度涡旋"></a>3.1 中尺度涡旋</h3><p>分为气旋式和反气旋式，40%～50%的海洋表面存在涡旋，长寿命涡旋的持续时间可达5～7年，短的寿命只有1～2天。</p>
-<h3 id="3-2-鬼涡"><a href="#3-2-鬼涡" class="headerlink" title="3.2 鬼涡"></a>3.2 鬼涡</h3><p>指偶极子涡，时刻存在分裂与合并，当观测几天后，可能突然消失，是因为观测能力达到上限。</p>
-<h1 id="4-水循环"><a href="#4-水循环" class="headerlink" title="4 水循环"></a>4 水循环</h1><p>高度计是唯一可以对海陆水循环过程进行一体化遥感的卫星载荷。<br>海洋沙漠：一类海洋沙漠指降水较少的海域；二类海洋沙漠指生物较少的海域。</p>
-<h1 id="5-技术跨越与科学挑战"><a href="#5-技术跨越与科学挑战" class="headerlink" title="5 技术跨越与科学挑战"></a>5 技术跨越与科学挑战</h1><h2 id="5-1-技术跨越"><a href="#5-1-技术跨越" class="headerlink" title="5.1 技术跨越"></a>5.1 技术跨越</h2><ol>
-<li>全覆盖</li>
-<li>密采样：一代$\rightarrow$二代$\rightarrow$三代——点$\rightarrow$线$\rightarrow$面</li>
-<li>高精度</li>
-<li>新基准：周期性都有不变点</li>
-</ol>
-<h2 id="5-2-科学挑战"><a href="#5-2-科学挑战" class="headerlink" title="5.2 科学挑战"></a>5.2 科学挑战</h2><ol>
-<li>海平面变化的海陆气跨圈层溯源：热膨胀贡献了42%的海平面上升，两极冰盖融化贡献了23%的海平面上升，海冰融化贡献了21%的海平面上升；</li>
-<li>北极无冰之海的科学预测与战略应对；</li>
-<li>万涡扰动下的海平面额天气态调制与气候态修正；</li>
-<li>海平面垂直结构层析与跃层变动揭秘——海表变暖变缓但深层和中间层变暖加剧——整体热容量变大；</li>
-<li>在“双碳”目标背景下，海平面是否可以及时达峰——以此验证是否碳达峰；</li>
-</ol>
-<h1 id="6-小结"><a href="#6-小结" class="headerlink" title="6 小结"></a>6 小结</h1>]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>Lecture</tag>
-        <tag>CMST</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>XingXing Wang CMST 2021-69</title>
-    <url>/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/</url>
-    <content><![CDATA[<p>“海洋之光”学术论坛（第69期）<br>报告学者：王星星<br>报告时间：2021年10月14日星期四<br>报告地点：东区综合楼A栋1805</p>
-<h1 id="南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应"><a href="#南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应" class="headerlink" title="南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应"></a>南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应</h1><span id="more"></span>
-<p><img src="/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/Poster.JPG" alt="figure 1"></p>
-<h2 id="1-研究背景"><a href="#1-研究背景" class="headerlink" title="1 研究背景"></a>1 研究背景</h2><p>深水沉积：是揭示气候变化重要的研究媒介。</p>
-<ol>
-<li>条件：</li>
-</ol>
-<ul>
-<li>Marine snow（lowest）</li>
-<li>Gravity flows（Strongest）</li>
-<li>Bottom currents（midium）</li>
-</ul>
-<ol start="2">
-<li>构成：</li>
-</ol>
-<ul>
-<li>泥质披覆沉积</li>
-<li>底流沉积</li>
-<li>重力流沉积</li>
-</ul>
-<ol start="3">
-<li>特点：</li>
-</ol>
-<ul>
-<li>沉积快</li>
-<li>样式丰富<br>故其可以通过深水沉积层研究气候变化等。</li>
-</ul>
-<p>研究区域：东沙陆坡——ODP1114；</p>
-<h2 id="2-深水沉积层序特征"><a href="#2-深水沉积层序特征" class="headerlink" title="2 深水沉积层序特征"></a>2 深水沉积层序特征</h2><ol>
-<li>数据：二维多道地震地层剖面；</li>
-<li>振幅强弱：代表密度、速度的明显变化，<strong>强振幅界面</strong>代表了有事件发生，并影响底流。<h3 id="2-1-演化特征"><a href="#2-1-演化特征" class="headerlink" title="2.1 演化特征"></a>2.1 演化特征</h3></li>
-<li>5Ma与0.9Ma的沉积层序特征变化，分别与一次构造事件、一次气候事件有关。<h2 id="3-底流沉积"><a href="#3-底流沉积" class="headerlink" title="3 底流沉积"></a>3 底流沉积</h2>南海北部中尺度涡主控因素：地形突变、黑潮入侵、风场；地质学上中尺度涡的产生与吕宋海峡的地形有关，地质构造产生的海山与海流存在相互作用，影响底流，并间接影响深水沉积层。<h2 id="4-深水层级层序对气候事件的响应"><a href="#4-深水层级层序对气候事件的响应" class="headerlink" title="4 深水层级层序对气候事件的响应"></a>4 深水层级层序对气候事件的响应</h2></li>
-<li>海平面变化</li>
-<li>海温变化</li>
-<li>气候变化：降雨增多——台湾岛的风蚀作用强烈，导致更多陆源碎屑进入海洋，并在南海东北陆坡沉积。<h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5 结论"></a>5 结论</h2></li>
-<li>地质构造影响深水沉积：6.5Ma的边缘海盆、海峡的逐渐关闭影响南海深水沉积：中尺度涡的变化引发底流变化，进而引发沉积速率发生变化。</li>
-<li>气候变化影响深水沉积：0.9Ma的气候变化影响降雨，加速风化侵蚀，使南海深水沉积呈现强振幅界面；</li>
-<li>“地质-古海洋-气候”多圈层耦合：地质构造与沉积揭示古海洋变化及其特征，古海洋揭示古气候变化。<h2 id="6-问题"><a href="#6-问题" class="headerlink" title="6 问题"></a>6 问题</h2></li>
-<li>多圈层模式耦合的切入点？有无的定量指标表征深水沉积变化？如何与现有模式相结合？<br>答：通过模式正演得到目标的深水沉积层序，查看该情况下目标海域的水动力条件以及海水属性指标。</li>
-<li>0.9Ma的强振幅界面是否因为气候变化影响洋流的强弱？<br>答：沉积情况受两方面影响，即来源和水动力条件，当排除水动力条件情况下，推测原因是因为来源，水动力强度用沉积物粒度来衡量。0.9Ma南海的东北陆坡的物源沉积物来源认为来自台湾岛。2.38Ma南海扩张后南海地形变化不大。</li>
-<li>如何判断底流强弱变化？<br>答：漂积体的形式不同，对应的底流强弱也不同。</li>
-<li>冲绳海槽柱来反演地质历史时期黑潮的强度（Journal）<br>姜院长：大尺度洋流无沉积物物源，通过化学元素（铝同位素）的变化来研究水团的变化。注意洋流研究与底流研究的区别。</li>
-<li>重力柱：</li>
-<li>潜在地质学指标：</li>
-</ol>
-<ul>
-<li>有孔虫化石的同位素之比来展示温度的变化</li>
-</ul>
-<ol start="7">
-<li>王老师办公室：A1711</li>
-</ol>
-<h2 id="7-思考与讨论"><a href="#7-思考与讨论" class="headerlink" title="7 思考与讨论"></a>7 思考与讨论</h2><ul>
-<li>人工智能、大数据及机器学习在海洋学中的应用：</li>
-</ul>
-<ol>
-<li>研究现状：目前，已有许多学者从事<a href="https://github.com/bugsuse/meteoai">卫星遥感与人工智能的结合领域</a>，研究热点集中于物理海洋学、极端气候、卫星遥感、模式等，鲜有学者做海洋地质学、人工智能与大数据的结合领域（？）。</li>
-<li>地质学、海洋地质学与人工智能、大数据的结合点：地质学中不可描述的机理及特征太多，尤其是地质学特征识别难、潜在影响因素过多，难以精准解释，可以使用人工智能、大数据的方法识别地质学现象、寻找影响因素等。</li>
-<li>大数据、人工智能及机器学习在海洋地质、地质学中的切入点：<br>1）大数据，主要用于存储长时间尺度的水动力条件、地质构造活动及气候变化等方面数据。<br>2）人工智能：（1）识别地质构造现象；（2）将今论古：学习现代海洋地质构造活动数据及案例，以此推断古代历史构造活动的可能诱发原因、发生时的海洋物理性质、古气候和古海洋特征等。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Lecture</category>
-      </categories>
-      <tags>
-        <tag>Lecture</tag>
-        <tag>CMST</tag>
       </tags>
   </entry>
 </search>
